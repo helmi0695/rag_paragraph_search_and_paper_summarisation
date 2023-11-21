@@ -1,0 +1,451 @@
+ABSTRACT
+ To date, the coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has determined 399,600,607 cases and 5,757,562 deaths worldwide. COVID-19 is a serious threat to human health globally. The World Health Organization (WHO) has declared COVID-19 pandemic a major public health emergency. Vaccination is the most effective and economical intervention for controlling the spread of epidemics, and consequently saving lives and protecting the health of the population. Various techniques have been employed in the development of COVID-19 vaccines. Among these, the COVID-19 messenger RNA (mRNA) vaccine has been drawing increasing attention owing to its great application prospects and advantages, which include short development cycle, easy industrialization, simple production process, flexibility to respond to new variants, and the capacity to induce better immune response. This review summarizes current knowledge on the structural characteristics, antigen design strategies, delivery systems, industrialization potential, quality control, latest clinical trials and real-world data of COVID-19 mRNA vaccines as well as mRNA technology. Current challenges and future directions in the development of preventive mRNA vaccines for major infectious diseases are also discussed.
+----
+
+TITLE PARAGRAPH: INTRODUCTION
+Coronavirus disease 2019 (COVID-19) is an emerging disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). 
+To control the spread of the epidemic, governments worldwide have mobilized a considerable amount of manpower and material resources into research and development (R&D) efforts linked to the COVID-19 vaccine. Several approaches to COVID-19 vaccine development have been tested concurrently, including inactivated-virus, 
+The fundamental mechanism underlying the mRNA vaccine technology is based on a vehicle that enables the delivery of a nucleic acid molecule encoding the antigen of interest into the target cell in the human host, thus allowing the host cell to fabricate the target protein and express the antigen to elicit the immune response. In this way, upon invasion by a pathogen carrying the antigen, the immune system of the host can quickly trigger humoral and cellular immune responses, thereby preventing the disease (Fig. 
+The successful development of mRNA vaccines is a result of years of research and groundwork. The mRNA molecule was first described by Brenner and colleagues in 1961, 
+Conventional non-replicating mRNA A non-replicating mRNA contains an open reading frame (ORF) encoding the gene coding for the target antigen flanked by 5′ and 3′ UTR. The 5′ end contains a 7-methylguanosine cap structure (5′-cap, m 7 G), whereas the 3′ end contains a poly(A) tail structure. This structure enhances stability of the delivered mRNA while improving accuracy and efficiency of mRNA translation (Fig. 
+Two types of capping methods are possible during IVT of mRNA (Fig. 
+5′ and 3′ UTRs. mRNA contains 5′ and 3′ UTRs, whose functions are related, respectively, to regulating translation and maintaining mRNA stability. 
+Poly(A) tail. The poly(A) tail plays an important role in maintaining mRNA stability and translation efficiency. 116 mRNA stability can be improved by inhibiting exonuclease-mediated mRNA degradation. 
+saRNA Engineered saRNA vaccines rely on the insertion of the gene encoding the target antigen into the genome of an RNA virus (mainly alphavirus) as well as the use of its replication machinery to amplify the delivered RNA, thereby increasing antigen expression. 
+taRNAs usually yield safer vaccines compared to saRNA vaccines. The alphavirus replicon gene is divided into two different RNA molecules encoding vaccine antigens, which reduces the possibility of transfer of recombinant virus particles to host cells. In addition, taRNA technology has potential advantages in transfer capacity, versatility, and production scale-up, thus showing promising applications. 
+
+----
+
+TITLE PARAGRAPH: CircRNA
+CircRNA is a highly stable single-stranded RNA with a covalently closed loop structure (Fig. 
+In summary, although considered a byproduct of the mRNA splicing process, circRNA has now emerged as an important new class of non-coding RNAs. With its highly stable properties without nucleotide modification, circRNA can potentially become a novel platform for vaccine and drug development.
+
+----
+
+TITLE PARAGRAPH: ANTIGEN DESIGN FOR COVID-19 MRNA VACCINES
+The trimeric S protein on the surface of SARS-CoV-2 plays a key role in mediating host cell invasion. Therefore, the S protein is considered the main antigen for vaccine design. 
+
+----
+
+TITLE PARAGRAPH: DELIVERY SYSTEMS
+Passage of mRNA through the phospholipid bilayer of the cell membrane is difficult due to its large molecular weight (10 4 -10 6 Da), negative charge, and proneness to degradation by nucleases. Therefore, in recent years, various delivery vehicles have been developed for mRNA encapsulation, including LNPs, polyplexes and polymeric nanoparticles, lipopolyplexes (LPPs), and cationic polypeptides. Lipids and their derivatives are considered a new delivery system for mRNA vaccines and have been attracting much attention due to their low immunogenicity, biocompatibility, and high encapsulation rate. As an early version of LNPs first discovered in 1965, 279 liposomes are the earliest nanomedicine delivery platform to pass from concept to clinical application successfully. 
+
+----
+
+TITLE PARAGRAPH: LNPs
+LNPs is a nano-scale vesicle which simulates the lipid structure of the cell membrane and can encapsulate mRNA in its cavity, being considered the most investigated mRNA vaccine delivery system. Currently, most COVID-19 mRNA vaccine candidates use LNPs as the delivery system. LNPs are composed of four components: ionizable lipids, helper phospholipids, cholesterol, and PEGylated lipids, among which, ionizable lipids are considered the key components. COVID-19 mRNA vaccines designed by different developers vary widely in structural design (Fig. 
+The cationic lipid N- [1-(2,3-dioleyloxy)propyl]-N,N,N-trimethylammonium chloride (DOTMA) was first used by Malone and colleagues to transfect mRNA into cells. 
+Lipid shell-coated LPPs are a ternary complex containing a condensed mRNA core packaged in a lipid shell. 
+Yang and colleagues 330 applied similar LPP technology to encapsulate mRNA in two steps using ionizable lipid, DOPE and PEG-lipid to generate COVID-19 mRNA vaccine with a core-shell structure, which showed significant protection in mice and nonhuman primates.
+In addition to lipid and polymer carriers, peptides can also be used for mRNA delivery. 
+
+----
+
+TITLE PARAGRAPH: PROGRESS IN CLINICAL RESEARCH ON MRNA VACCINES
+With the advent of mRNA delivery systems and nucleic acid modification technology, research on mRNA technology for cancer treatment as well as prevention of several infectious diseases has progressed rapidly. mRNA vaccines have shown good efficacy in the treatment of acute myelocytic leukemia (AML), 
+The SARS-CoV-2 variant B.1.617.2 was first identified in India in December 2020, being later designated the Delta variant, and became predominant in several countries. 
+In addition to the target product, the mRNA IVT reaction has many impurities, such as enzymes, NTPs, DNA, and abnormal transcription Fig. 
+Purified mRNA is not suitable for clinical use unless it is protected by a delivery formulation. Most advanced mRNA vaccines employ LNPs as delivery systems. The four lipids (ionizable lipid, DSPC, cholesterol, and PEG-lipid) constituting LNPs are dissolved in ethanol, and each solution is prepared at a known concentration, then mixed at different molar ratios to prepare the mixed lipid phase. The target mRNA is then diluted in a buffer solution at pH ~4 to prepare the aqueous phase. With an appropriate lipid/mRNA ratio, the lipid solution is mixed with the mRNA aqueous phase in a microfluidic or T-junction channel to obtain lipid-encapsulated mRNA. The assembly principle underlying the mRNA-LNP preparation is that the ionizable lipid becomes protonated in the aqueous phase at pH 5.5. Due to its positive charge, it electrostatically binds to the negatively charged mRNA, thereby promoting vesicle formation and encapsulation of mRNA by hydrophobic forces. Once vesicles are formed, dilution and subsequent concentration by ultrafiltration are carried out to remove ethanol and replace the buffer to increase the pH of the preparation. At this time, the ionizable lipid adopts a more hydrophobic, uncharged condition, which drives vesicle fusion to promote encapsulation of mRNA, thereby forming a stable mRNA-LNP spherical complex. 
+
+----
+
+TITLE PARAGRAPH: Quality control of mRNA vaccines
+Although the mRNA vaccine is a new technology and its production relatively simple for scaling-up, most approaches employed during the process are sophisticated, thus quality control of mRNA vaccine production still represents a challenge. 
+Lipid excipients are essential in mRNA vaccine production. Lipid functions should be assessed in addition to their source, physical and chemical features, such as appearance, type, purity, and residual solvents. Moreover, evaluation with pharmaceutical drugs should also be performed to ensure that novel lipid excipients are in compliance with applicable regulations. Furthermore, any animal (including human)derived starting or raw material should be submitted to control to determine the source, quality control, and risk assessment, as well as should comply with WHO guidelines on transmissible spongiform encephalopathies concerning biological and pharmaceutical products. 
+Collectively, it is paramount that internal quality control and release standards must be prepared. The mRNA vaccine should be stored and transported under ultra-low temperature conditions, due to the intrinsic instability of mRNA. Onpattro™, the first approved siRNA drug, also relies on an LNP-based delivery system, 308 and the drug can be stored at 2-8 °C for three years. Studies showed that mRNA is highly susceptible to degradation by the ubiquitous RNases, therefore ultra-low temperature storage is recommended to limit RNase activity whilst ensuring mRNA stability effectively. In addition, ultra-low temperature preservation is more conducive to maintaining the original conformation of mRNA-LNP complexes. 
+
+----
+
+TITLE PARAGRAPH: CONCLUSION AND FUTURE PERSPECTIVES
+After over 30 years of research, mRNA vaccines have become a promising technology platform for vaccine development. Prior to the emergence of COVID-19, mRNA technology was mostly used for developing novel cancer therapeutic drugs showing promising results. The COVID-19 pandemic has fostered the growth of mRNA vaccine platforms as a means to prevent and treat several infectious diseases, and a new generation of vaccines has progressively reached the public and gained increasing attention. At the moment, COVID-19 mRNA vaccines are playing a key role in limiting the spread of the current pandemic. mRNA vaccines, unlike traditional vaccines, may enable adjustment of antigen design and even allow combining sequences from several variants to respond to new mutations in the virus genome. In the future, the mRNA technology platform will enable preventing and managing infectious diseases as well as treating other disorders. Due to its advantages, such as a quick development cycle, no requirement for cell culture, and high immunogenicity, an mRNA vaccine has become the world's first COVID-19 vaccine authorized by the FDA. However, the requirement for storage at ultra-low temperature conditions might represent a challenge in transportation and storage of mRNA vaccines. Therefore, stability of mRNA vaccines has to be further explored and optimized. Moreover, delivery of mRNA has evolved from its naked form to LNP-based delivery. Additional studies are being conducted to explore novel polymer materials to be used in mRNA delivery in the future. We believe that the safety and protection conferred by current mRNA vaccines are satisfactory, but their long-term protection will only be determined after additional clinical studies are performed.
+
+----
+
+DESCRIPTION TABLE: Design strategies for 5′ and 3′ UTR of mRNA vaccines from different vaccine manufacturers and/or researchers
+Vaccine name/||Source||Sequence||
+Manufacturer||None||None||
+BNT162b2/||5′ UTR: Human alpha-globin RNA with||GAATAAACTAGTATTCTTCTGGTCCCCACAGACTCAGAGAGAACCCGCCACC||
+BioNTech 153,476,477||an optimized Kozak sequence||None||
+None||3′ UTR: The amino-terminal enhancer||CTCGAGCTGGTACTGCATGCACGCAATGCTAGCTGCCCCTTTCCCGTCCTGGGTA||
+None||of split (AES) mRNA and the||CCCCGAGTCTCCCCCGACCTCGGGTCCCAGGTATGCTCCCACCTCCACCTGCCCCAC||
+None||mitochondrial encoded 12S||TCACCACCTCTGCTAGTTCCAGACACCTCCCAAGCACGCAGCAATGCAGCTCAAAACGCTTAG||
+None||ribosomal RNA||CCTAGCCACACCCCCACGGGAAACAGCAGTGATTAACCTTTAGCAATAAACGAAA||
+None||None||GTTTAACTAAGCTATACTAACCCCAGGGTTGGTCAATTTCGTGCCAGCCACACCCTGGAGCTAGC||
+mRNA1273/||5′ UTR: NA||GGGAAATAAGAGAGAAAAGAAGAGTAAGAAGAAATATAAGACCCCGGCGCCGCCACC||
+Moderna 153,476||3′ UTR: Homo sapiens hemoglobin||GCTGGAGCCTCGGTGGCCTAGCTTCTTGCCCCTTGGGCCTCCCCCCAGCCCCTCCTCCCC||
+None||subunit alpha 1 gene (HBA1)||TTCCTGCACCCGTACCCCCGTGGTCTTTGAATAAAGTCTGAGTGGGCGGCA||
+CV2CoV/||5′ UTR: human hydroxysteroid 17-beta||NA||
+CureVac 478||dehydrogenase 4 gene (HSD17B4)||None||
+None||3′ UTR: human proteasome 20S||NA||
+None||subunit beta 3 gene (PSMB3)||None||
+CVnCoV/||5′ UTR: NA||NA||
+CureVac 478||3′ UTR: parts of the 3′ UTR of the||NA||
+None||Homo-sapiens alpha||None||
+None||hemoglobin gene||None||
+LIVERNA 479||5′ UTR: Dynein Axonemal Heavy Chain||GAGACCCAAGCTGGCTAGCGGGAGAAAGCTTACCGGCTAGCGCCGCCACC||
+None||2 (DNAH2)||None||
+None||3′ UTR: Homo sapiens hemoglobin||GCTGGAGCCTCGGTAGCCGTTCCTCCTGCCCGCTGGGCCTCCCAACGGGCCCTCCTC||
+None||subunit alpha 2 gene (HBA2)||CCCTCCTTGCACCGGCCCTTCCTGGTCTTTGAATAAAGTCTGAGTGGGCAGC||
+RiboBio 141||5′ UTR: Homo sapiens hydroxysteroid||GTCCCGCAGTCGGCGTCCAGCGGCTCTGCTTGTTCGTGTGTGTGTCGTTGCAGGCC||
+None||17-beta dehydrogenase 4 gene||TTATTCAGATCTACCGGTGGTACCGCCACC||
+None||(HSD17B4)||None||
+None||3′ UTR: Homo sapiens albumin||AGCCAACACCCTGTCTAAAAAACATAAATTTCTTTAATCATTTTGCCTCTTTTCTCT||
+None||gene (ALB)||GTGCTTCAATTAATAAAAAATGGAAAGAACCT||
+Stemirna 276||5′ UTR: NA||GCTCGCTTTCTTGCTGTCCAATTTCTATTAAAGGTTCCTTTGTTCCCTAAGTCCAAG||
+None||None||GGGATATTATGAAGGGCCTTGAGCATCTGGATTCTGCCTAATA AAAAACATTTATT||
+None||None||TTCATTGC||
+None||3′ UTR: NA||ACATTTGCTTCTGACACAACTGTGTTCACTAGCAACCTCAAACAGACACC||
+
+----
+
+DESCRIPTION TABLE: Antigen design strategies adopted for COVID-19 mRNA vaccines
+Developers/Vaccine Name||Antigen||Nucleotide||2Pmut S1/S2||Additional design||Reference||
+None||None||modification||None||Cleavage site||None||(s)||
+BioNTech/BNT162b2||Spike||+||+||-||NA||27||
+Moderna/mRNA1273||Spike||+||+||-||NA||272||
+CureVac/CVnCoV||Spike||-||+||-||RNActive® technology||480||
+RiboBio||Spike||+||+||+||T4 Fibritin; S2 mut; Delete FP, TMD, CTD||141||
+Abogen/ARCoV||RBD||+||NI||None||NA||185||
+BioNTech/BNT162b1||RBD||+||NI||None||T4 Fibritin||278||
+CanSinoBIO||RBD||+||NI||None||RBD-CTB fusion protein; RBD-CRM197 fusion||481||
+None||None||None||None||None||protein; CPG adjuvant; TLR adjuvant||None||
+Stemirna||Spike; S1 subunit;||+||-||-||Insert additional sequences before ORF; LPP||276,330||
+None||RBD; M; N; E||None||None||None||delivery systems||None||
+LIVERNA||Spike;||+||NA||NA||NA||479||
+None||S1 subunit; RBD||None||None||None||None||None||
+Institute of Microbiology,||Spike;||+||NA||NA||NA||None||
+Chinese Academy of Sciences||S1 subunit; RBD||None||None||None||None||None||
+
+----
+
+DESCRIPTION TABLE: mRNA vaccine candidates for cancer therapy currently in clinical trials
+None||None||None||Advances in COVID-19 mRNA vaccine development||None||
+None||None||None||Fang et al.||None||
+Sponsor||Cancer type||Identifier||Drug administration||Phase Status||
+Duke University||Glioblastoma, malignant glioma||NCT00626483 CMV pp65-LAMP mRNA-loaded DC + GM-CSF I||Completed||
+None||None||NCT00639639 CMV-ALT + CMV pp65-LAMP mRNA-loaded DC I||Active, not||
+None||None||None||None||None||recruiting||
+None||None||NCT02529072 DC loaded with CMV Ag mRNA in combination||I||Completed||
+None||None||None||with nivolumab||None||
+None||None||NCT02366728 Human CMV pp65-LAMP mRNA-pulsed||II||Active, not||
+None||None||None||autologous DCs||None||recruiting||
+None||Glioblastoma||NCT00890032 BTSC mRNA-loaded DCs||I||Completed||
+None||None||NCT03927222 Human CMV pp65-LAMP mRNA-pulsed||II||Suspended||
+None||None||None||autologous DCs + temozolomide + Td toxoid||None||
+None||None||None||+ GM-CSF||None||
+None||None||NCT03688178 Human CMV pp65-LAMP mRNA-pulsed||II||Recruiting||
+None||None||None||autologous DCs + temozolomide +||None||
+None||None||None||varlilumab + Td toxoid + 111In-labeled DCs +||None||
+None||None||None||unpulsed DCs||None||
+None||Melanoma||NCT01216436 DCs transfected with mRNA encoding TAAs||I||Terminated||
+Radboud University Melanoma||NCT00929019 Autologous DCs EP with mRNA encoding||I/II||Terminated||
+None||None||None||gp100 and tyrosinase||None||
+None||None||NCT00243529 Autologous DCs transfected with mRNA||I/II||Completed||
+None||None||None||encoding TAAs||None||
+None||None||NCT00940004 DCs EP with mRNA encoding TAAs gp100 and||I/II||Completed||
+None||None||None||tyrosinase||None||
+None||None||NCT01530698 Autologous DCs EP with mRNA||I/II||Completed||
+None||None||NCT02285413 DCs loaded with mRNA encoding TAAs gp100||II||Completed||
+None||None||None||and tyrosinase +/-cisplatinum||None||
+None||Colorectal cancer||NCT00228189 CEA mRNA-loaded DCs||I||Completed||
+None||Hematological Malignancies||NCT02528682 MiHA mRNA-loaded PD-L-silenced DC||I/II||Completed||
+None||Prostatic Neoplasms||NCT02692976 DCs loaded with protamine/mRNA encoding||II||Completed||
+None||None||None||KLH + DCs loading with MHC I binding||None||
+None||None||None||peptides, NY-ESO-1 and MUC1 PepTivator||None||
+Oslo University||Melanoma||NCT00961844 DCs -transfected with hTERT-, survivin-and||I/II||Terminated||
+Hospital||None||None||tumor cell derived RNA + ex vivo T cell||None||
+None||None||None||expansion and reinfusion+temozolomide||None||
+None||None||NCT01278940 mRNA-transfected DCs + IL-2||I/II||Completed||
+None||Prostate cancer||NCT01197625 Autologous DCs loaded with mRNA from||I/II||Active, not||
+None||None||None||primary prostate cancer tissue, hTERT, and||None||recruiting||
+None||None||None||survivin||None||
+None||None||NCT01278914 mRNA-transfected DCs||I/II||Completed||
+None||Glioblastoma||NCT00846456 Tumor stem cell-derived mRNA-||I/II||Completed||
+None||None||None||transfected DCs||None||
+None||None||NCT03548571 DCs transfected with mRNA encoding survivin||II/III||Recruiting||
+None||None||None||and hTERT + temozolomide||None||
+None||Ovarian cancer||NCT01334047 DCs loaded with amplified ovarian cancer||I/II||Terminated||
+None||None||None||stem cell mRNA, hTERT, and survivin||None||
+Antwerp University||AML||NCT00834002 WT1mRNA-transfected autologous DCs||I||Completed||
+Hospital||None||NCT01686334 DCs EP with autologous WT1 mRNA||II||Recruiting||
+None||AML, CML, multiple myeloma||NCT00965224 DCs EP with autologous WT1 mRNA||II||Unknown||
+None||Multiple solid tumors||NCT01291420 WT1 mRNA-EP autologous DCs||I/II||Unknown||
+None||Mesothelioma||NCT02649829 DCs loaded with WT1 + chemotherapy||I/II||Recruiting||
+None||Glioblastoma||NCT02649582 Autologous WT1 mRNA-loaded DCs +||I/II||Recruiting||
+None||None||None||temozolomide||None||
+Argos Therapeutics||Renal cell carcinoma||NCT01482949 DC EP with autologous tumor mRNA +/-||II||Terminated||
+None||None||None||sunitinib||None||
+None||None||NCT00678119 DCs co-EP with CD40L IVT RNA and||II||Completed||
+None||None||None||autologous total tumor RNA + sunitinib||None||
+None||None||NCT00272649 DCs co-EP with CD40L IVT RNA and||I/II||Completed||
+None||None||None||autologous total tumor RNA||None||
+None||None||NCT01582672 DCs EP with Autologous tumor mRNA plus||III||Terminated||
+None||None||None||sunitinib||None||
+None||None||NCT00087984 Autologous tumor total RNA-transfected DCs I/II||Completed||
+
+----
+
+DESCRIPTION TABLE: 
+. continued||None||None||None||None||
+Sponsor||Cancer type||Identifier||Drug administration||Phase Status||
+None||Pancreatic cancer||NCT00664482 Autologous DCs EP with tumor total RNA||NA||Completed||
+BioNTech||Melanoma||NCT01684241 Naked RNA encoding TAAs||I||Completed||
+None||None||NCT02035956 Personalized poly-epitopic RNA-based vaccine I||Completed||
+None||None||NCT02410733 Lipo-MERIT, encoding for 4 melanoma||I||Active, not||
+None||None||None||associated non-mutated antigens||None||recruiting||
+None||None||NCT04526899 RNA-LPX with NY-ESO-1, MAGE-A3, tyrosinase,||II||Recruiting||
+None||None||None||and TPTE +/-cemiplimab||None||
+None||Breast cancer||NCT02316457 RNA-LPX with TNBC TAAs, p53, and neo-Ags I||Active, not||
+None||None||None||None||None||recruiting||
+None||Prostate cancer||NCT04382898 RNA-LPX with prostate TAAs +/-cemiplimab I/II||Recruiting||
+CureVac||Prostate cancer||NCT02140138 CV9104 with or without needle-free||II||Terminated||
+None||None||None||injection device||None||
+None||None||NCT00831467 RNActive TAAs mRNA CV9103||I/II||Completed||
+None||None||NCT01817738 RNActive TAAs mRNA CV9104||II/II||Terminated||
+None||NSCLC||NCT00923312 RNActive TAAs mRNA CV9201||I/II||Completed||
+None||None||NCT01915524 RNActive TAAs mRNA CV9202 + local radiation I||Terminated||
+Guangdong 999||Glioblastoma||NCT02808364 Autologous DCloaded with TAA mRNA||I/II||Unknown||
+Brain Hospital||None||NCT02709616 Autologous DC loaded with TAA mRNA||I/II||Unknown||
+None||Brain cancer||NCT02808416 Personalized cellular vaccine||I||Unknown||
+Herlev Hospital||Breast cancer, melanoma||NCT00978913 DCs transfected with hTERT, survivin, and p53 I||Completed||
+None||Prostate cancer||NCT01446731 DCs transfected with PSA, PAP, survivin, and||II||Completed||
+None||None||None||hTERT mRNA+docetaxel||None||
+Life Research||Ovarian cancer||NCT01456065 DCs loaded with TERT-mRNA and survivin-||I||Unknown||
+Technologies||None||None||peptide||None||
+Ludwig-Maximilian-||AML||NCT01734304 DCs EP with mRNA encoding WT1, PRAME,||I/II||Completed||
+University of Munich||None||None||and CMVpp65||None||
+MD Anderson||AML||NCT00514189 Autologous DCs loaded with AML lysate||I||Terminated||
+Cancer center||None||None||and mRNA||None||
+Memorial Sloan||Melanoma||NCT01456104 Autologous LCs EP with mRNA encoding TAA I||Active,||
+Kettering||None||None||None||None||notrecruiting||
+Cancer Center||Multiple myeloma||NCT01995708 CT7, MAGE-A3, and WT1 mRNA-EP LCs||I||Active,||
+None||None||None||None||None||notrecruiting||
+Universitair||Melanoma||NCT01066390 DCs EP with TAA and TriMix mRNA||I||Completed||
+Ziekenhuis Brussel||None||NCT01302496 DCs EP with TAA and TriMix mRNA +||II||Completed||
+None||None||None||ipilimumab||None||
+None||None||NCT01676779 DC EP with TAA and TriMix mRNA||II||Completed||
+University Hospital||Melanoma||NCT01983748 Autologous DCs loaded with tumor mRNA||III||Recruiting||
+Erlangen||None||None||None||None||
+University Hospital||Melanoma||NCT00204516 mRNA encoding autologous melanoma||I/II||Completed||
+Tübingen||None||None||associated antigens+GM-CSF||None||
+None||None||NCT00204607 mRNA encoding MART-1, tyrosinase, gp100,||I/II||Completed||
+None||None||None||MAGEA1, MAGE-A3 and survivin+GM-CSF||None||
+None||Recurrent prostate cancer||NCT02452307 Peptide vaccine + montanide ISA-51+/-GM-||I/II||Unknown||
+None||None||None||CSF+/-imiquimod +/-mRNA/protamin||None||
+University of||AML, myelodysplastic syndromes||NCT03083054 Autologous DCs EP with WT1 mRNA||I/II||Active, not||
+Campinas||None||None||None||None||recruiting||
+University of Florida Prostate cancer||NCT00906243 CV9103 encoding 4 prostate specific antigens I/II||Terminated||
+None||Glioblastoma, Malignant Glioma||NCT02465268 pp65-shLAMP mRNA DCs + GM-CSF||II||Recruiting||
+None||Metastatic Prostate Cancer||NCT01153113 hTERT mRNA transfected DCs||I/II||Withdrawn||
+Ludwig Institute for||Metastatic NSCLC||NCT03164772 RNActive TAAs mRNA CV9202 + durvalumab||I/II||Completed||
+Cancer Research||None||None||+/-tremelimumab||None||
+Stemirna||Esophageal Cancer, NSCLC||NCT03908671 Personalized mRNA vaccine encoding neoAg NA||Not yet||
+Therapeutics||None||None||None||None||recruiting||
+Hospital Affiliated to||Esophagus Cancer||NCT02693236 Adenovirus-transfected autologous DCs +||I/II||Unknown||
+the Academy of||None||None||CIK cells||None||
+Military Medical Sciences||NSCLC with bone metastases||+ cytokine-induced killer NCT02688686 SOCS1, MUC1 and survivin mRNA-loaded DCs||I/II||Unknown||
+University Medical||Ovarian Cancer||NCT04163094 RNA-LPX with ovarian TAAs + carboplatin/||I||Recruiting||
+Center Groningen||None||None||paclitaxel||None||
+
+----
+
+DESCRIPTION TABLE: continued Wilms tumor 1; CML: chronic myeloid leukemia; DCs: dendritic cells; EP: electroporated; CD40L: CD40 ligand; IVT: in vitro transcribed; hTERT: human telomerase reverse transcriptase; LAMP-1: lysosome-associated membrane protein 1; TNBC: triple-negative breast cancer; TAA: tumor-associated antigen; CMV: cytomegalovirus; GM-CSF: granulocyte-macrophage colony-stimulating factor; BTSC: brain tumor stem cell; Td: tetanusdiphtheria; PSA: prostate-specific antigen; PAP: prostatic acid phosphatase; PRAME: melanoma antigen preferentially expressed in tumors; LCs: langerhans cells;
+Sponsor||Cancer type||Identifier||Drug administration||Phase Status||
+ModernaTX, Inc.||Melanoma||NCT03897881 mRNA-4157 encoding neoAg +||II||Recruiting||
+None||None||None||pembrolizumab||None||
+None||Solid tumors||NCT03313778 mRNA-4157 encoding neoAg +/-||I||Recruiting||
+None||None||None||pembrolizumab||None||
+Asterias||AML||NCT00510133 DCs transfected with hTERT mRNA with a||II||Completed||
+Biotherapeutics||None||None||LAMP-1 targeting sequence||None||
+National Cancer||Melanoma, Colon Cancer,||NCT03480152 Personalized cancer mRNA vaccine NCI-4650 I/II||Terminated||
+Institute||Gastrointestinal Cancer, Genitourinary||None||None||None||
+None||Cancer, Hepatocellular Cancer||None||None||None||
+Changhai Hospital||Esophageal Squamous Carcinoma,||NCT03468244 Personalized mRNA vaccine encoding neoAg NA||Recruiting||
+None||Gastric Adenocarcinoma, Pancreatic||None||None||None||
+None||Adenocarcinoma, Colorectal||None||None||None||
+None||Adenocarcinoma||None||None||None||
+AML: acute myeloid leukemia; WT1:||None||None||None||
+
+----
+
+DESCRIPTION TABLE: mRNA vaccine candidates for infectious diseases currently in clinical trials HIV: human immunodeficiency virus; NIAID: National Institute of Allergy and Infectious Diseases; DCs: dendritic cells; NA: not applicable; EP: electroporated; HA: hemagglutinin; GSK: GlaxoSmithKline; RSV: Respiratory syncytial virus; mAb: monoclonal Antibody; hMPV: human metapneumovirus; PIV3: parainfluenza virus type3; i.m: intramuscular; i.d, intradermal; i.nod, intranodal.   
+Sponsor(s)/Name ModernaTX, Inc./mRNA-1647 ModernaTX, Inc./mRNA-1443 Massachusetts General Hospital, NIAID/Undefined Fundacion Clinic per a la Recerca Biomédica/iHIVARNA-01 Argos Therapeutics/AGS-004 ModernaTX, Inc./mRNA-1893 ModernaTX, Inc./mRNA-1325 ModernaTX, Inc./mRNA-1010 ModernaTX, Inc./mRNA-1851 (VAL-339851) ModernaTX, Inc./mRNA-1440 (VAL-506440) Translate Bio, Sanofi/MRT-5400 Influenza A virus (H3N2 subtype) (i.m) Virus type (Administration route) CMV (i.m) CMV (i.m) HIV (DC loaded, i.d) HIV (DC loaded; i.nod) HIV (NA) HIV (DC EP; i.d) Zika virus (i.m) Zika virus (i.m) Influenza A virus (H1N1 and H3N2 subtypes), Influenza B virus (Yamagata lineage, Victoria lineage) (i.m) Influenza A virus (H7N9 subtype) (i.m) Influenza A virus (H10N8 subtype) (i.m) Translate Bio, Sanofi/MRT-5401 Influenza A virus (H3N2 subtype) (i.m) CureVac/ CV7201 Rabies virus (i.d, i.m) CureVac/ CV7202 Rabies virus (i.m) GSK/ GSK3903133A Rabies virus (i.m) ModernaTX, Inc./mRNA-1345 RSV (i.m) ModernaTX, Inc./mRNA-1777 (V171) RSV (i.m) ModernaTX, Inc./mRNA-1172 (V172) RSV (i.m) ModernaTX, Inc./mRNA-1944 Chikungunya virus (i.m) ModernaTX, Inc./mRNA-1388 (VAL-181388) Chikungunya virus (i.m) ModernaTX, Inc./mRNA-1653 hMPV (i.m) CMV: cytomegalovirus; Advances in COVID-19 mRNA vaccine development Fang et al.||Antigen type CMV pentamer and glycoprotein B CMV-associated HIV-associated HIV-associated with TriMix HIV-associated Ag and CD40L PrM-E PrM-E NA H7N9 HA H10N8 HA H3N2 HA H3N2 HA Rabies G protein Rabies G protein Rabies G protein Stabilized prefusion F glycoprotein Stabilized prefusion F glycoprotein Stabilized prefusion F glycoprotein Chikungunya mAb I Phase Identifier III NCT05085366 Recruiting Status II NCT04975893 Enrolling by invitation II NCT04232280 Active, not recruiting I NCT05105048 Not yet recruiting I NCT03382405 Completed I NCT03382405 Completed I/II NCT00833781 Completed II NCT02888756 Terminated I NCT02413645 Completed II NCT00672191 Completed II NCT01069809 Completed I/II NCT00381212 Completed I NCT02042248 Completed I NCT02707900 Terminated II NCT04917861 Recruiting I NCT04064905 Completed I NCT03014089 Completed I/II NCT04956575 Recruiting I NCT03345043 Completed I NCT03076385 Completed I Unregistered Unregistered I Unregistered Unregistered I NCT02241135 Completed I NCT03713086 Active, not recruiting I NCT04062669 Active, not recruiting I NCT04528719 Recruiting I Unregistered Unregistered I Unregistered Unregistered NCT03829384 Completed NA I NCT03325075 Completed Fusion proteins of hMPV and PIV3 I NCT04144348 Recruiting I NCT03392389 Completed||
+
+----
+
+DESCRIPTION TABLE: mRNA vaccine candidates for COVID-19 currently in clinical trials
+None||None||None||None||Advances in COVID-19 mRNA vaccine development||
+None||None||None||None||Fang et al.||None||
+Vacine name/||Antigen/Delivery||Route of||Phase Identifier (Number of participants;||Outcomes||
+Developer(s)||vehicles||administration/||None||Location)||None||
+None||None||Schedule/Dose||None||None||None||
+mRNA type: nucleoside-modified||None||None||None||None||
+BNT162b2/ BioNTech,Pfizer||Transmembrane prefusion spike/ LNP||IM/Day 0 + 21/ 30 μg||IV||NCT05057182 (300 participants; Hong Kong) NCT04852861 (150 participants; Belgium) NCT04952766 (240 participants; France)||Fully approved for use in individuals aged 16 or older 483 ; EUA for use in individuals aged 5 or older 106 ; EUA for use as a single booster in individuals aged 18 or older 395,396 ; 95% overall efficacy 385||
+None||None||None||None||NCT04961229 (504 participants; Not||None||
+None||None||None||None||Provided)||None||
+None||None||None||None||NCT05057169 (400 participants;||None||
+None||None||None||None||Hong Kong)||None||
+None||None||None||None||NCT04969250 (640 participants; Nigeria,||None||
+None||None||None||None||Spain, Switzerland, Uganda, United||None||
+None||None||None||None||States)||None||
+None||None||None||None||NCT05168709 (60 participants; Australia)||None||
+None||None||None||None||NCT04775069 (900 participants;||None||
+None||None||None||None||Hong Kong)||None||
+None||None||None||III||NCT04816669 (610 participants; USA)||None||
+None||None||None||None||NCT04805125 (431 participants;||None||
+None||None||None||None||Switzerland)||None||
+None||None||None||None||NCT04800133 (900 participants;||None||
+None||None||None||None||Hong Kong)||None||
+None||None||None||None||NCT04713553 (1,530 participants; USA)||None||
+None||None||None||II/III||NCT04368728 (43,998 participants;||None||
+None||None||None||None||Argentina, Brazil, Germany, South Africa,||None||
+None||None||None||None||Turkey, USA)||None||
+None||None||None||None||NCT04754594 (700 participants; Brazil,||None||
+None||None||None||None||South Africa, Spain, UK, USA)||None||
+None||None||None||II||ISRCTN73765130 (2,886 participants; UK)||None||
+None||None||None||None||NCT04894435 (1,200 participants;||None||
+None||None||None||None||Canada)||None||
+None||None||None||None||NCT04761822 (3,400 participants; USA)||None||
+None||None||None||None||NCT04824638 (300 participants; France)||None||
+None||None||None||None||NCT04860739 (676 participants; Spain)||None||
+None||None||None||None||EUCTR2021-001978-37 (600||None||
+None||None||None||None||participants; Spain)||None||
+None||None||None||None||NCT04649021 (950 participants; China)||None||
+None||None||None||None||ISRCTN69254139 (820 participants; UK)||None||
+None||None||None||None||NCT04907331 (3,000 participants; Austria)||None||
+None||None||None||None||NCT04895982 (360 participants; Brazil,||None||
+None||None||None||None||Germany, USA)||None||
+None||None||None||I/II||EUCTR2020-001038-36, NCT04380701||None||
+None||None||None||None||(476 participants; Germany)||None||
+None||None||None||None||NCT04889209 (800 participants; USA)||None||
+None||None||None||None||NCT04588480 (160 participants; Japan)||None||
+None||None||None||II||NCT04839315 (100 participants; USA)||None||
+None||None||None||None||NCT04816643 (4, 500 participants;||None||
+None||None||None||None||Finland, Poland, Spain, USA)||None||
+mRNA-1273/||Transmembrane||IM/Day 0 + 28/||IV||NCT04952402 (700 participants; Puerto||EUA obtained in several countries; EUA as||
+Moderna, NIAID, BARDA||prefusion spike/ LNP||100 μg||None||Rico, United States) NCT04969250 (640 participants; Nigeria, Spain, Switzerland, Uganda, United States) NCT05030974 (460 participants; Netherlands)||a single booster in individuals aged 18 or older 396 ; 100% efficacy against B.1.1.7; 95.7% efficacy against B.1.35 in Qatar 417 ; 94.1% efficacy at preventing COVID-19 infections, including severe cases in the US 410||
+None||None||None||None||NCT05079633 (220 participants; Taiwan)||None||
+None||None||None||None||NCT04978038 (414 participants; Canada,||None||
+None||None||None||None||Ontario)||None||
+None||None||None||None||NCT04760132 (10,000 participants;||None||
+None||None||None||None||Denmark)||None||
+
+----
+
+DESCRIPTION TABLE: continued
+Vacine name/||Antigen/Delivery||Route of||Phase Identifier (Number of participants;||Outcomes||
+Developer(s)||vehicles||administration/||None||Location)||None||
+None||None||Schedule/Dose||None||None||None||
+None||None||None||III||NCT04811664 (37,500 participants; USA)||None||
+None||None||None||None||NCT04470427 (30,420 participants; USA)||None||
+None||None||None||None||NCT04860297 (240 participants; USA)||None||
+None||None||None||None||NCT04806113 (220 participants; Canada)||None||
+None||None||None||None||NCT04805125 (431 participants;||None||
+None||None||None||None||Switzerland)||None||
+None||None||None||II/III||NCT04649151 (3,732 participants; USA)||None||
+None||None||None||None||NCT04796896 (6,975 participants; USA)||None||
+None||None||None||II||ISRCTN73765130 (2,886 participants; UK)||None||
+None||None||None||None||NCT04847050 (120 participants; USA)||None||
+None||None||None||None||NCT04894435 (1,200 participants;||None||
+None||None||None||None||Canada)||None||
+None||None||None||None||NCT04748471 (180 participants; France)||None||
+None||None||None||None||NCT04761822 (3,400 participants; USA)||None||
+None||None||None||None||NCT04405076 (660 participants; USA)||None||
+None||None||None||I/II||NCT04889209 (800 participants; USA)||None||
+None||None||None||I||NCT04785144 (135 participants; USA)||None||
+None||None||None||None||NCT04813796 (125 participants; USA)||None||
+None||None||None||None||NCT04839315 (100 participants; USA)||None||
+None||None||None||None||NCT04283461 (120 participants; USA)||None||
+BNT162b1/||Secreted spike||IM/Day 0 + 21/||II/III||NCT04368728 (43,998 participants;||8-50-fold increase in GMCs of RBD-||
+BioNTech,Pfizer||RBD/LNP||10, 20, 30 or||None||Argentina, Brazil, Germany, South Africa,||binding IgG; 1.9-4.6-fold neutralizing||
+None||None||100 μg||None||Turkey, USA)||GMTs compared to the convalescent||
+None||None||None||II/II||EudraCT 2020-001038-36, NCT04380701 (476 participants; Germany)||panel; higher rate of systemic events compared to BNT162b2 278||
+None||None||None||I||ChiCTR2000034825, NCT04523571(144||None||
+None||None||None||None||participants; China)||None||
+BNT162b3/||Transmembrane||IM/Day 0 + 21/||I/II||NCT04537949, EUCTR2020-003267-26-DE||Unknown||
+BioNTech,Pfizer||spike RBD/LNP||30 μg||None||(96 participants; Germany)||None||
+mRNA-1273.211/ Moderna,||Transmembrane prefusion spike/||IM/Day0 + 28/ 20, 50 μg||II||NCT04405076 (660 participants; USA)||Increased neutralizing GMTs when used as a booster 415||
+NIAID, BARDA||LNP||None||None||None||None||
+mRNA-1273.351/ Moderna,||Transmembrane prefusion spike/||IM/Day0 + 28/ 20 or 50 μg||I||NCT04785144 (135 participants; USA)||Increased neutralizing GMTs when used as a booster 415||
+NIAID, BARDA||LNP||None||None||None||None||
+mRNA-1283/||Transmembrane||IM/Day0 + 28/||I||NCT04813796 (125 participants; USA)||Unknown||
+Moderna,||prefusion spike/||NA||None||None||None||
+NIAID, BARDA||LNP||None||None||None||None||
+TAK-919/Takeda,||Transmembrane||IM/Day0 +||I/II||NCT04677660 (200 participants; Japan)||Approved in Japan 484||
+Moderna||prefusion spike/||Day29/100 μg||None||None||None||
+None||LNP||None||None||None||None||
+ChulaCov19/||Transmembrane||IM/Day0 + 21/||I/II||NCT04566276 (96 participants; Thailand) Unknown||
+Chulalongkorn||spike/LNP||10, 25 or 50 μg||None||None||None||
+University||None||None||None||None||None||
+PTX-COVID19-B/||Transmembrane||IM/Day0 + 28/||I||NCT04765436 (60 participants; Canada)||High neutralization titers against VOCs 432||
+Providence||spike/LNP||16, 40 or||None||None||None||
+Therapeutics||None||100 μg||None||None||None||
+mRNA type: unmodified nucleosides||None||None||None||None||
+CVnCoV/CureVac||Transmembrane prefusion spike/||IM/Day0 + 29/ 12 μg||III||NCT04652102, EUCTR2020-003998-22 (39,693 participants; Argentina, Belgium,||48.2% efficacy 425 ; EMA terminated rolling review 429||
+None||LNP||None||None||Colombia, Dominican Republic, Germany,||None||
+None||None||None||None||Mexico, Netherlands, Panama,||None||
+None||None||None||None||Peru, Spain)||None||
+None||None||None||None||NCT04860258 (1,200 participants;||None||
+None||None||None||None||Belgium)||None||
+None||None||None||None||NCT04848467 (1,000 participants;||None||
+None||None||None||None||Argentina, Colombia, Peru)||None||
+
+----
+
+DESCRIPTION TABLE: continued ID: intradermal; BARDA: Biomedical Advanced Research and Development Authority; EUA: emergency use authorization; LNP: lipid nanoparticle; NIAID: National Institute of Allergy and Infectious Diseases; PLA: People Liberation Army; RBD: receptor-binding domain; VOCs: variant of concerns; GMCs: geometric mean concentrations, GMTs: geometric mean titers; NA: not applicable; Clinical trials are regularly updated, therefore locations and the number of participants of clinical trials reported above are subjected to change.
+Vacine name/||Antigen/Delivery||Route of||Phase Identifier (Number of participants;||Outcomes||
+Developer(s)||vehicles||administration/||None||Location)||None||
+None||None||Schedule/Dose||None||None||None||
+None||None||None||II||ISRCTN73765130 (2,886 participants; UK)||None||
+None||None||None||None||NCT04515147, PER-054-20 (674||None||
+None||None||None||None||participants; Panama, Peru)||None||
+None||None||None||I||NCT04449276 (280 participants; Belgium,||None||
+None||None||None||None||Germany)||None||
+ARCoV/Abogen, Walvax||Secreted spike RBD/LNP||IM/ Day0 + 28/ 15 μg||III||NCT04847102 (28,000 participants; China, Mexico)||2-fold neutralizing GMTs compared to convalescent panel. 439||
+Biotechnology, PLA||None||None||II||ChiCTR2100041855(420||None||
+None||None||None||None||participants; China)||None||
+None||None||None||I||ChiCTR2000034112(568||None||
+None||None||None||None||participants; China)||None||
+BNT162a1/||Secreted spike||IM/NA/NA||I/II||EudraCT 2020-001038-36, NCT04380701||Unknown||
+BioNTech, Pfizer||RBD/LNP||None||None||(476 participants; Germany)||None||
+MRT5500/Sanofi, Translate Bio||Transmembrane prefusion spike/||IM/Day0 + 21/ NA||I/II||NCT04798027 (333 participants; Honduras, USA)||Terminated 436 ; 91-100% seroconversion rate 437||
+None||LNP||None||None||None||None||
+mRNA-type: self-amplifying RNA||None||None||None||None||
+ARCT-021/Arcturus||Transmembrane||IM/Day0 + 28/||II||NCT04668339 (600 participants;||Seroconversion in most participants 441||
+Therapeutics||prefusion spike/||5.0 μg or 7.5 μg||None||Singapore, USA)||None||
+None||LNP||None||None||NCT04728347 (106 participants;||None||
+None||None||None||None||Singapore)||None||
+None||None||None||I/II||NCT04480957 (92 participants; Singapore)||None||
+ARCT-165/Arcturus||NA/LNP||IM/Day0 + 29/||I/II||NCT05037097 (72 participants;||Unknown||
+Therapeutics||None||NA||None||Singapore, USA)||None||
+ARCT-154/Arcturus||NA||IM/Day0 + 29/||I/II/III NCT05012943 (2,1000 participants;||Unknown||
+Therapeutics||None||5 μg||None||Vietnam)||None||
+BNT162c2/||Transmembrane||IM/Day0 + 21/||I/II||EudraCT 2020-001038-36, NCT04380701||Unknown||
+BioNTech, Pfizer||prefusion spike/||NA||None||(476 participants; Germany)||None||
+None||LNP||None||None||None||None||
+LNP-nCoV saRNA/||Transmembrane||IM/NA/||I||ISRCTN17072692 (320 participants; UK)||39-61% seroconversion rate 212||
+Imperial College||prefusion spike/||0.1~10 μg||None||None||None||
+London, Acuitas||LNP||None||None||None||None||
+Therapeutics||None||None||None||None||None||
+EXG-5003/lixirgen||NA/LNP||ID/Day0/NA||I/II||NCT04863131 (60 participants; Japan)||Unknown||
+Therapeutics/||None||None||None||None||None||
+Fujita Health||None||None||None||None||None||
+University||None||None||None||None||None||
+HDT-301/SENAI||NA/LION||IM/Day0 + 28/||I||NCT04844268 (90 participants; NA)||Unknown||
+CIMATEC; HDT||None||1 μg, 5 μg or||None||None||None||
+None||None||25 μg||None||None||None||
+LNP-nCOV||NA/LNP||IM/Day 0 + 28/||I||NCT04934111 (42 participants; Uganda) Unknown||
+saRNA02/RC/ UVRI||None||5.0 μg||None||None||None||
+and LSHTM||None||None||None||None||None||
+Uganda||None||None||None||None||None||
+Research Unit||None||None||None||None||None||
+SAM-LNP-S/||Transmembrane||IM/Day0 + 30||I||NCT04776317 (147 participants; USA)||Unknown||
+Gristone||spike/LNP||or Day0 +||None||None||None||
+Oncology, NIAID||None||85~130/ 30 μg||None||None||None||
+None||None||or 3 μg||None||None||None||
+CoV2 SAM (LNP)/||Transmembrane||IM/Day0 + 30/||I||NCT04758962 (10 participants; USA)||Unknown||
+GlaxoSmithKline||spike/LNP||1.0 μg||None||None||None||
+IM: intramuscular;||None||None||None||None||None||
+
+----
+

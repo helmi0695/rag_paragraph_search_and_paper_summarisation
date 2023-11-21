@@ -1,0 +1,141 @@
+ABSTRACT
+ Synthetic modified messenger RNA (mRNA) has manifested great potentials for therapeutic applications such as vaccines and gene therapies, with the recent mRNA vaccines for global pandemic COVID-19 (corona virus disease 2019) attracting the tremendous attention. The chemical modifications and delivery vehicles of synthetic mRNAs are the two key factors for their in vivo therapeutic applications. Chemical modifications like nucleoside methylation endow the synthetic mRNAs with high stability and reduced stimulation of innate immunity. The development of scalable production of synthetic mRNA and efficient mRNA formulation and delivery strategies in recent years have remarkably advanced the field. It is worth noticing that we had limited knowledge on the roles of mRNA modifications in the past. However, the last decade has witnessed not only new discoveries of several naturally occurring mRNA modifications but also substantial advances in understanding their roles on regulating gene expression. It is highly necessary to reconsider the therapeutic system made by synthetic modified mRNAs and delivery vectors. In this review, we will mainly discuss the roles of various chemical modifications on synthetic mRNAs, briefly summarize the progresses of mRNA delivery strategies, and highlight some latest mRNA therapeutics applications including infectious disease vaccines, cancer immunotherapy, mRNA-based genetic reprogramming and protein replacement, mRNA-based gene editing.The development of synthetic mRNA drug holds great promise but lies behind small molecule and protein drugs largely due to the challenging issues regarding its stability, immunogenicity and potency. In the last 15 years, these issues have been substantially addressed by synthesizing chemically modified mRNA and developing powerful delivery systems; the mRNA therapeutics has entered an exciting new era begun with the approved mRNA vaccines for the COVID-19 infection disease. Here, we provide recent progresses in understanding the biological roles of various RNA chemical modifications, in developing mRNA delivery systems, and in advancing the emerging mRNA-based therapeutic applications, with the purpose to inspire the community to spawn new ideas for curing diseases.
+----
+
+TITLE PARAGRAPH: Introduction
+Messenger RNA (mRNA) lies in the middle layer of central dogma serving as the carrier in the genetic information flow from DNA to protein. Synthetic mRNA for therapeutic applications has attracted considerable interest from both academia and industry since it was first demonstrated to be transferred to and expressed in the mouse muscle in vivo in 1990 
+Synthetic mRNA can be cost-effectively produced in a large scale by the in vitro transcription technique, and be delivered for fast and transient expression in cytoplasm without the risk of integration into genome, however, the unmodified synthetic mRNA is not stable and stimulates the activation of cellular innate immunity. The synthetic unmodified mRNA largely suffers from the degradation issue due to the high activity of environmental RNases. Upon entering cells, the unmodified RNA molecules can induce the production of type I interferons, interleukin-6, and other proinflammatory cytokines through multiple signaling receptors such as endosomal Toll-like receptor (TLR) 3, 7, or 8, and cytoplasmic protein kinase R (PKR), 2 -5 -oligoadenylate synthetase (OAS), retinoic-acid inducible gene I (RIG-I) or melanoma differentiationassociated 5 (MDA5) 
+In order to improve the stability and reduce the immunogenicity of synthetic mRNA, chemical modifications on the ribose, the RNA termini, and nucleobases have been proposed and examined, and a substantial success has been made in the last 15 years 
+The delivery of macromolecular mRNA is another key issue for therapeutic applications. The RNA molecules are negatively charged polynucleotides. Various carriers for the in vivo delivery of mRNA molecules have been developed, including cationic lipid nanoparticles, cationic polymers and others 
+In this review, we will mainly discuss the roles of various chemical modifications on synthetic mRNAs, briefly summarize the progresses of mRNA delivery strategies, and highlight some latest therapeutic applications including infectious disease vaccines, cancer immunotherapies, genetic reprogramming, protein replacement, and mRNA-based gene editing. At last, the concerns and perspectives of mRNA therapeutics are discussed.
+
+----
+
+TITLE PARAGRAPH: Chemical modifications of synthetic mRNA
+The cellular mRNA consists of elements including 5 -cap, 5untranslated region (5 -UTR), coding sequence region (CDS), 3 -UTR, and polyadenylated tail (poly(A)) ( Fig. 
+
+----
+
+TITLE PARAGRAPH: Modifications of mRNA cap and tail
+The 5 -cap and poly(A) tail are the hallmarks of eukaryotic mRNA. The native form of 5 -cap in cellular mRNA is featured with 7-methylguanosine (m 7 G) triphosphate group, which is formed in co-transcriptional process and is able to protect mRNA from 5 end degradation by cellular exonucleases 
+The cap mimics in synthetic mRNA were designed and made in order to enhance its translation efficiency and stability, as well as to reduce intracellular innate immunogenicity by impeding stimulation of RIG-I 
+Apart from the modifications in guanosine, chemical manipulations of phosphate bridge have also yielded improved properties. The substitution of oxygen with sulfur at the β position of the triphosphate bridge in m 7 GpppG results in high affinity of the cap to eIF4E and low susceptibility to the decapping complex DCP1/DCP2 
+The 3 -end of cellular mRNA in eukaryotes is decorated with poly(A) which plays a key role in regulating mRNA stability and translation efficiency 
+
+----
+
+TITLE PARAGRAPH: Modifications of pyrimidine bases
+Cytosine (C), uracil (U), adenine (A) and guanine (G) are four canonical bases of mRNA. The AU-rich mRNAs generally exhibit a lower protein production yield than the GC-rich ones 
+impedes stimulation of TLR7/8, PKR, OAS and RIG-Imediated signaling pathways 
+are not yet fully understood ( Fig. 
+Recently, m 1 modification ( Fig. 
+
+----
+
+TITLE PARAGRAPH: Modifications of purine bases
+The m 7 G modification is well known to exist at mRNA 5 -cap, while it has been recently discovered to exist in the internal region of cellular mRNA and has exhibited a regulatory role to enhance mRNA translation 
+Discovered in 1974, m 6 A is naturally occurring and the most prevalent internal modification in cellular mRNA 
+Synthetic IVT mRNAs with a partial ( e.g. , 5%) or full replacement of A with m 6 A have revealed their ability to escape from recognition by innate immune system, however, their translatability is either not improved or completely abolished 
+
+----
+
+TITLE PARAGRAPH: Modifications of ribose
+The methylation at 2 -OH of ribose (2 -OMe) represents one of the most common RNA modifications found in a variety of cellular RNAs, and naturally occurs in all four canonical nucleosides (Nm: Am/Gm/Cm/Um) and other non-canonical nucleosides 
+
+----
+
+TITLE PARAGRAPH: Synthetic mRNA delivery systems
+Efficient and safe delivery of synthetic mRNA represents one key challenge in the development of mRNA-based therapeutics. The synthetic RNA is a negatively charged macromolecular polynucleotide; its naked form is subjected to degradation by serum nucleases and is unable to readily pass through the cell membrane which contains the negatively charged lipid bilayer structure. Therefore, a vector or carrier ( e.g. , lipid and polymer) is generally needed to deliver the synthetic mRNA to the target cells, and the formulation of mRNA/vector into specific shape of nanoparticles in the presence of certain auxiliary components represents the major delivery strategy. An ideal delivery system should take the following issues into account: (i) biological safety, (ii) circulation time mainly influenced by renal clearance through glomerular filtration (8 nm cutoff) and mononuclear phagocyte system (MPS) clearance, and (iii) the performance of targeted cellular uptake and endosomal release 
+Although viral vectors have been used to deliver DNA, they have limitations for mRNA delivery mainly due to their small packing size, immunogenicity, cytotoxicity, and complex production process 
+
+----
+
+TITLE PARAGRAPH: Lipid and lipidoid vectors
+The lipid can be cationic, neutral, and zwitterionic, and it is the major class of vector material for mRNA delivery. The lipid molecules can be formulated with synthetic mRNAs into various nanostructures such as lipid nanoparticle (LNP) and liposome. The LNP has become one of the most commonly used mRNA delivery strategies due to its large payload, stability, and biocompatibility 
+Cationic lipids can be cytotoxic when used alone for mRNA formulation because they carry a high density of positive charge; the introduction of helper lipids into the formulation recipe could help address the issue. The helper lipids, for instance, 1,2dioleoyl-sn-glycero-3-phosphoethanolamine (DOPE), phosphatidyl-choline (PC), PEGylating lipid, and cholesterol (CHOL) ( Fig. 
+Hitherto, the combination of ionizable/cationic lipid and helper lipid to encapsulate synthetic mRNAs have represented the most popular choice to make LNP for both cellular and in vivo applications. The classic LNP contains four components: a cationic lipid, the modified PC or PE, CHOL and PEGylating lipid. For example, ionizable cationic lipid Dlin-MC3-DMA, PC, CHOL, and PEGylating lipid with a ratio of 50/10/38.5/1.5 (mol/mol) were utilized to encapsulate mRNA at an RNA to total lipid ratio of around 0.05 (wt/wt) 
+In order to open up more possibilities for lipid-based vectors, lipidoids molecules have been developed for the delivery purpose 
+
+----
+
+TITLE PARAGRAPH: Polymer vectors
+Polymer vectors have shown a great potential as another category of mRNA carriers, although not as clinically advanced as the lipid-based mRNA delivery system, ( Fig. 
+Poly( β-amino ester)s (PBAEs) exhibit lower toxicity, biodegradability and pH-responsive property; they potentially possess the same advantage to PEI in facilitating endosomal release of mRNA 
+
+----
+
+TITLE PARAGRAPH: Therapeutic applications
+Benefited from the progresses in the knowledge of mRNA modifications and the delivery technologies, the therapeutic applications of synthetic modified mRNAs have developed rapidly in recent years. A broad range of the synthetic modified mRNA-based therapeutic applications are currently being explored, which can be divided into following major areas: infectious disease vaccines, cancer immunotherapy, mRNA-based gene editing, mRNA-based genetic reprogramming and protein replacement ( Table 
+
+----
+
+TITLE PARAGRAPH: Infectious disease vaccines
+An important application of synthetic modified mRNAs is the vaccination for infectious diseases 
+Compared to the conventional vaccines (virus vaccines, viralvector vaccines, protein-based vaccines), mRNA vaccines exhibit several important advantages 
+The global pandemic of the COVID-19 has caused tremendous public health crisis 
+Besides the COVID-19 mRNA vaccines, many other mRNA vaccines have shown protective immunization in previous preclinical studies against multiple infectious diseases including influenza 
+
+----
+
+TITLE PARAGRAPH: Cancer immunotherapy
+Synthetic modified mRNA-based delivery technologies have been widely utilized among both preclinical and clinical studies in the cancer immunotherapy field. The mRNA-based cancer immunotherapy can be divided into two major classes. The first class employs the direct injection of mRNA formulated with delivery materials into target cells like antigen presenting cells (APCs), especially dendritic cells (DCs) 
+The second class of mRNA-based cancer immunotherapy involves the engineering of chimeric antigen receptors (CAR) T cells 
+
+----
+
+TITLE PARAGRAPH: Genetic reprogramming and protein replacement
+In 2006, Yamanaka et al. found that human somatic cell could be reprogrammed into induced pluripotent stem cells (iPSC) via the forced expression of four transcription factors OCT3/4, SOX2, MYC and KLF4 (now often referred to as Yamanaka factors) 
+The protein-replacement therapy is the most straightforward and obvious application for the synthetic modified mRNAs, which can induce expression of desired proteins to replace proteins that are insufficient or aberrant in some diseases ( Fig. 
+
+----
+
+TITLE PARAGRAPH: mRNA-based gene editing
+In the recent years, clustered regularly spaced short palindromic repeat (CRISPR)-associated protein 9 (Cas9) system has become a powerful tool for site-specific editing of cellular genomes, which hold great promise to permanently cure genebased diseases 
+
+----
+
+TITLE PARAGRAPH: Conclusions and perspectives
+We have the knowledge that synthetic mRNA undergoes transient protein expression after delivered to cytoplasm and can be completely degraded via physiological metabolic pathways, which can avoid the risk of genomic integration. This transient feature meets the need for many applications which require protein expression for only limited periods of time, such as gene editing, cell reprogramming, and some immunotherapies. However, the synthetic mRNA-based therapeutics also suffer from some drawbacks such as instability, immunogenicity and inefficient delivery, which have long hindered the clinical progression. Nowadays, these issues have been substantially addressed mainly due to our increased knowledge on understanding mRNA modifications and structures, and the advances of nucleic acid delivery technologies.
+In the last decade, the field of naturally occurring chemical modifications on cellular mRNA, also known as RNA epigenetics or RNA epitranscriptomics, has been under the spotlight. Among these natural mRNA modifications, m 6 A is the most abundant and the most extensively studied regarding its functional roles in mRNA fate determination at a posttranscriptional level. The m 5 C and modifications were discovered to naturally exist in cellular mRNA in recent years, and are being actively investigated for its functional roles in control of gene expression. The cell itself may have modification code deposited on specific mRNA to regulate its metabolism and fate.
+These progresses in understanding the roles of natural mRNA modifications inspire us to rethink about the therapeutic applications using synthetic modified mRNAs. It should be pointed out that a certain base modification tends to be site-specific in natural cellular mRNA at a low modified/unmodified ratio (less than 1%), while it is randomly distributed in synthetic mRNA at a higher modified/unmodified ratio (25 -100%). It can be seen that the modification distribution and extent exert a big impact on the RNA functions. The m 6 A modification in cytoplasmic mRNA, which is enriched near stop codon and at 3 -UTR at 0.3 -0.5%, plays pivotal roles in regulating mRNA decay and translation in a contextdependent manner, while the synthetic mRNAs with partial or full substitution of A with m 6 A are transfected into cell and reveal a very poor translation efficiency, possibly due to the activation of the cellular m 6 A-mediated decay pathway. The high translation efficiency of m 5 C-and -modified synthetic mRNAs is mainly attributed to their excellent stability by avoiding the activation of the RNA-binding protein-mediated degradation pathways. These results remind us that there is a vast room to explore in this field if we can synthesize site-specifically modified mRNA in a tailor-made way. However, it is a lack of such method to prepare a long mRNA molecule in a scalable fashion. Further, our understanding on the biology of natural mRNA modifications needs to be enhanced because there is a lot more knowledge unknown. Recently, there are an increased number of naturally occurring cellular mRNA modifications discovered within CDS, such as m 7 G 
+With regard to the delivery vectors, new lipid and polymer materials with high biocompatibility, high load efficiency, and low immunogenicity are critically needed. Of note, we should consider more about the mRNA/vector formulation strategies. Although the LNP formulation strategy represents the best choice in current stage to deliver synthetic mRNA, there is still much room for improvement. How to balance the requirements in circulation time of LNP, tissue-specific targeting, and efficient cellular uptake and endosomal release of cargo is still a complex pharmacology issue. More auxiliary elements such as specific cell-targeting and environment-responsive ligands probably need to be incorporated on the surface of LNP.
+Finally, the field of synthetic modified mRNA for therapeutic applications is gaining the momentum because of its great potentials. We have witnessed a remarkable progress in miscellaneous applications including infectious diseases vaccines, cancer immunotherapy, genetic reprogramming and protein replacement, and mRNA-based gene editing. The striking achievements are the two approved COVID-19 mRNA vaccines in which the mRNAs are m 1 -modified. Other therapeutic products are still in the preclinical or clinical stages and need a long-term validation of efficacy and safety. It is clear that some issues exist in many aspects of the real applications such as the design of modified mRNA constructs, scalable production and purification, the delivery system, immunogenicity, dosage, cell targeting selectivity, and cell transfection and cargo release efficiency. Although the challenges are faced, we see a bright vista.
+
+----
+
+TITLE PARAGRAPH: Declaration of Competing Interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+----
+
+DESCRIPTION TABLE: . LNP, lipid nanoparticle; CNE, cationic nanoemulsion; DENV, dengue virus; prM-E, premembrane and envelope glycoproteins; CAR, chimeric antigen receptors; IL-22BP, interleukin-22 binding protein; VSVMP, vesicular stomatitis virus matrix protein; MUC1, tumor-associated antigens mucin 1; CEA, carcinoembryonic; HER2, human epidermal growth factor receptor 2; MAA, melanoma-associated antigen; VEGF-A, vascular endothelial growth factor-A; CCR5, human C-C chemokine receptor 5; TALENs, transcription activator-like effector nucleases; PKLR , pyruvate kinase L/R gene; Cpf1, CRISPR from Prevotella and Francisella 1.
+Modification type||Delivery system/Method||mRNA encoding||Application||None||None||Year||Refs||
+m 1||LNP||Spike protein||Infectious disease||COVID-19||mRNA-1273||2020||[ 157,160 ]||
+m 1||LNP||Spike protein||vaccines||None||BNT162||2020||[ 159,161 ]||
+Unknown||LNP||Spike protein||None||None||ARCoV||2020||[ 162 ]||
+m 1||LNP||Haemagglutinin||None||Influenza||None||2019||[ 151,165 ]||
+m 1||LNP||Structural proteins||None||DENV||None||2020||[ 167 ]||
+m 1||LNP||Glycoproteins C, D, and E||None||HSV-2||None||2019||[ 169 , 170 ]||
+Unknown||CNE||Glycoprotein G||None||Rabies||None||2020||[ 171 ]||
+m 1||LNP||prM-E protein||None||ZIKV||None||2017||[ 113 , 168 ]||
+m 1||LNP||Envelope||None||HIV-1||None||2019||[ 172 , 173 ]||
+Unknown||T cells transfected ex vivo||CAR-HER2||Cancer||Glioblastoma||None||2013||[ 179 ]||
+Unknown||T cells transfected ex vivo||CAR-CD19||immunotherapy||Leukemia||None||2011||[ 180 ]||
+Unknown||DCs transfected ex vivo||IL-22BP; VSVMP||None||Colon cancer||None||2018||[ 181 , 182 ]||
+Unknown||LNP||MUC1, CEA, HER2 etc.||None||Renal cell cancer||2011||[ 183 ]||
+Unknown||DCs transfected ex vivo||MAA||None||Melanoma||None||2013||[ 177 ]||
+; m 5 C||Transfection ex vivo||Yamanaka factors||Genetic||Generating iPSCs||2010||[ 64 ]||
+Unknown||Transfection ex vivo||VEGF-A||reprogramming||Differentiation from iPSCs||2016||[ 189 ]||
+Unknown||DCs transfected ex vivo||IL-4||and protein-||Autoimmune diabetes||2010||[ 190 ]||
+Unknown||Transfected ex vivo||IL-10||replacement||Autoimmune myocarditis||2012||[ 191 ]||
+s 2 U; m 5 C||LNP||Surfactant protein B||None||Congenital lung disease||2011||[ 66 ]||
+Unknown||Transfection ex vivo||VEGF-A||None||Heart failure||None||2020||[ 29 ]||
+Unknown||Transfection ex vivo||Cas9 nuclease||mRNA-based gene||Editing CAR T cells||2017||[ 194 ]||
+None||Transfection ex vivo||Cas9 nuclease||editing||Editing CAR T cells||2018||[ 195 ]||
+Unknown||Transfection ex vivo||Zinc-finger nucleases||None||Engineering animal models||2009||[ 201 ]||
+Unknown||Transfection ex vivo||Zinc-finger nucleases||None||Editing HIV-1 CCR5 gene||2017||[ 29 ]||
+Unknown||Transfection ex vivo||TALEN||None||Editing PKLR gene||2019||[ 203 ]||
+Unknown||Transfection ex vivo||Cpf1||None||Engineering animal models||2016||[ 204 ]||
+
+----
+

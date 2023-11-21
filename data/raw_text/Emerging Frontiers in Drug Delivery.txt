@@ -1,0 +1,68 @@
+ABSTRACT
+ Medicine relies on the use of pharmacologically active agents (drugs) to manage and treat disease. However, drugs are not inherently effective; the benefit of a drug is directly related to the manner by which it is administered or delivered. Drug delivery can affect drug pharmacokinetics, absorption, distribution, metabolism, duration of therapeutic effect, excretion, and toxicity. As new therapeutics (e.g., biologics) are being developed, there is an accompanying need for improved chemistries and materials to deliver them to the target site in the body, at a therapeutic concentration, and for the required period of time. In this Perspective, we provide an historical overview of drug delivery and controlled release followed by highlights of four emerging areas in the field of drug delivery: systemic RNA delivery, drug delivery for localized therapy, oral drug delivery systems, and biologic drug delivery systems. In each case, we present the barriers to effective drug delivery as well as chemical and materials advances that are enabling the field to overcome these hurdles for clinical impact.
+----
+
+TITLE PARAGRAPH: INTRODUCTION
+Medicine relies on the use of pharmacologically active agents (therapeutics or drugs) to manage or reverse the course of disease. The current global pharmaceutical market is valued at $980 billion annually, and, in the U.S., nearly 50% of the population has used at least one prescription medication in the past 30 days. 
+In the ideal case, drugs would be applied in vivo at exactly the therapeutic concentration and would precisely target cells that cause disease. However, drug delivery is not easily controlled. Drug release rates, cell-and tissue-specific targeting, and drug stability are difficult to predict. To address these limitations, drug delivery systems (DDS) have been designed using a wide array of materials and chemical strategies. Here, we define DDS as technologies that are designed to improve the specificity of therapeutics by stabilizing them in vivo, controlling their release, and localizing their effect. Many materials have released therapeutics for prolonged periods of time and at targeted locations within the body; the properties of DDS are tailored to the physicochemical attributes of the drug and the intended route of administration (Figure 
+
+----
+
+TITLE PARAGRAPH: DRUG DELIVERY SYSTEMS FOR CONTROLLED
+RELEASE One important class of DDS is controlled release systems (CRS), which are engineered to deliver drugs for days to years with a predetermined release profile. An ideal CRS confers several advantages. 
+Given these design constraints, it was unknown whether materials could control the release of drugs in the body. However, in the 1960s, it was observed that hydrophobic, lipophilic small molecules diffused through silicone tubing. 
+Data accumulated over the past 40 years has revealed a few concepts that are fundamental to DDS. First, DDS efficacy is intimately related to the chemical structure of the material. For example, minor chemical modifications to polymer structure can drastically affect material degradation, safety, and targeting. Second, the physical shape and size of DDS matters; this can affect material properties and even interactions with the immune system. Third, DDS actively engage with the body, even when they are not designed to.
+
+----
+
+TITLE PARAGRAPH: SYSTEMIC RNA DELIVERY
+RNAs can manipulate gene expression through several biological mechanisms. For example, siRNAs and miRNAs can inhibit protein production; long, non-coding RNAs (lncRNAs) can affect epigenetic signaling; mRNA can produce functional protein; and sgRNAs, along with the Cas9 enzyme, can induce permanent changes to genomic DNA. 
+Early work focused on targeting siRNA to the liver because DDS are often cleared by it, and because its dysfunction can lead to diseases including cancer, cardiovascular dysfunction, and metabolic disorders, among others. 
+mRNAs are especially attractive therapeutic molecules, since they can act as gene therapies that replace deficient or dysfunctional protein. 
+
+----
+
+TITLE PARAGRAPH: DRUG DELIVERY SYSTEMS FOR LOCALIZED THERAPY
+One potential limitation to systemic administration is insufficient therapeutic concentrations at the desired site of action. This is even true for DDS that target specific cellular markers; different cell types can express the same ligands, or express them at densities that are insufficient for binding. One way to overcome these challenges is to implant drug delivery depots locally at the target site. For example, surgical implantation of chemotherapeutic (carmustine, or BCNU)loaded polyanhydride wafers (Gliadel) at the site of tumor resection in the brain has been used to target therapeutics to the tumor margin in glioblastoma multiforme. 
+Locally administered DDS can improve drug efficacy by overcoming biological obstacles that vary from disease to disease. For example, chemotherapeutics are often constrained by dose-limiting toxicity. To avoid off-target effects and maximize potency, clinicians have used intratumoral implanta-Figure 
+tion to directly apply chemotherapeutics. These systems stabilized the chemotherapeutics, enabled loading and release of insoluble drugs, lowered the overall required dose, directed the biological effect to target cells, and reduced off-target toxicity. 
+Coronary stenting and other catheter-based interventions have revolutionized the treatment of coronary artery disease; however, they can still be complicated by restenosis after implantation. 
+In Situ Forming Injectables. To localize therapeutics in a minimally invasive manner via direct injection and provide a controlled release depot at the site of application, in situ forming materials have been designed that transition from a liquid precursor solution to a solid in the body (Figure 
+Injectable materials can also be engineered to spontaneously form three-dimensional structures in physiological conditions. For example, mesoporous silica rods that form macroporous three-dimensional structures in vivo have been designed. 
+Temperature changes can also be used to induce liquid-gel transitions in polymers, thereby forming injectable drug depots. Polymers can be designed with a lower critical solution temperature (LCST) close to 37 °C. The LCST is the temperature at which a polymer will precipitate out of aqueous solution; polymer precipitation forms structures that store and release drugs. Notably, polymer structure influences both the absolute LCST as well as the "sharpness" of the LCST curve. 
+To minimize the effect of local physiology on material properties and drug release, shear-thinning and self-healing hydrogels have been developed. These materials are designed with strong, reversible, non-covalent bonds. As a result, they form gels outside the body, become liquid when a shearing force is applied during injection, and quickly re-form into solid hydrogels in the body. 
+
+----
+
+TITLE PARAGRAPH: ORAL DRUG DELIVERY SYSTEMS
+Oral ingestion remains the preferred route for the application of pharmaceuticals, since it does not require a skilled health care professional and allows patients to self-administer drugs conveniently. 
+DDS for Oral Administration of Biologics. Oral delivery is particularly challenging for biotherapeutics, since these drugs are readily degraded by proteases, nucleases, and other enzymes in the gut, and are much larger than traditional small molecules. 
+Nordisk is currently developing an orally available long-acting GLP-1 analogue (semaglutide) for the treatment of obesity. 
+Extended Release DDS for Oral Administration. Traditional oral administration requires frequent dosing as the normal residence time in the GI tract is less than 30 h. 
+
+----
+
+TITLE PARAGRAPH: BIOLOGIC DRUG DELIVERY SYSTEMS
+Biologic DDS, in which the delivery vehicle is composed of living systems, provide another approach to deliver therapeutics and treat disease (Figure 
+Microvesicles as Natural Drug Carriers. Cell-derived membrane vesicles or microvesicles (e.g., exosomes, shedding vesicles, apoptotic bodies) are secreted by most cells in the body and are found in most bodily fluids. 206 Initially termed "platelet dust" and observed to regulate coagulation of blood, 207 microvesicles are now known to facilitate cell-cell communication and paracrine transport of RNA and protein. 
+Many diseases, including diabetes mellitus, arise from cell dysfunction or death and could be reversed by autologous or allogeneic transplantation of appropriate cells. 
+
+----
+
+TITLE PARAGRAPH: CONCLUDING THOUGHTS
+The clinical and commercial impact of drug delivery and controlled release systems over the recent decades have been directly enabled by advances in synthetic chemistry, polymer physics, materials science, and bioengineering. However, despite the successes, many challenges and unmet clinical needs remain. New classes of therapeutics (e.g., biologics) and administration demands (e.g., orally administered extended release devices and injectable materials for site-specific delivery) necessitate advanced DDS that protect sensitive molecules, specifically target diseased regions of the body, and release drugs over the course of months to treat chronic disease. Medicine is no longer limited to orally available formulations that require two or three times daily ingestion. We can now tackle pathology at the site of action, engaging biological mechanisms that underpin its origin to manage and reverse the progress of disease.
+The emerging frontiers of drug delivery discussed in this paper have the potential for tremendous clinical impact in the coming decades. Systemic delivery of RNAs can treat disease at the genetic level, seeking out aberrant regions of the body and repairing their function at the most basic level. Injectable materials can localize therapeutics to the site of action in order to mitigate off-target toxicity and increase clinical effect. Oral delivery of biologics can increase the indication and impact of this growing field of therapeutics. Extended release devices delivered to the GI tract can aid in the management of chronic disease and avoid adherence issues. Finally, living systems can be re-engineered to work with the body, and not against, to treat disease using the outstanding delivery mechanisms of microvesicles, pathogens, and cells (e.g., selective targeting, prolonged circulation, and immune tolerance).
+Indeed, as therapeutics continue to improve, there will be a growing need for improved DDS. Materials will be required to control the delivery of gene editing technologies including CRISPR-Cas9, zinc-finger nucleases, and transcription activator-like effector nucleases, to ensure permanent modifications to the genetic code are localized to diseased cells. Chemical strategies for the safe delivery of gene editing technologies will require improved nucleic acid delivery, since the targeting RNA needs to be delivered concurrently with mRNA encoding the nuclease, and since this protein/RNA complex needs to form in the cytoplasm and migrate to the nucleus. Nucleic acid delivery will likely improve as we understand how biological pathways affect nanoparticle targeting and endosomal escape. 
+
+----
+
+TITLE PARAGRAPH: ■ AUTHOR INFORMATION
+Corresponding Author *rlanger@mit.edu
+
+----
+
+TITLE PARAGRAPH: Notes
+The authors declare competing financial interests: R.L. discloses financial interest in Alkermes, BIND Therapeutics, Selecta Biosciences, Blend Therapeutics, and Lyndra. Alkermes, BIND, Selecta, Blend, and Lyndra did not support this work in any form.
+
+----
+

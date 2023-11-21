@@ -1,0 +1,218 @@
+ABSTRACT
+ In the past few years, there has been increasing focus on the use of messenger RNA (mRNA) as a new therapeutic modality. Current clinical efforts encompassing mRNA-based drugs are directed toward infectious disease vaccines, cancer immunotherapies, therapeutic protein replacement therapies, and treatment of genetic diseases. However, challenges that impede the successful translation of these molecules into drugs are that (i) mRNA is a very large molecule, (ii) it is intrinsically unstable and prone to degradation by nucleases, and (iii) it activates the immune system. Although some of these challenges have been partially solved by means of chemical modification of the mRNA, intracellular delivery of mRNA still represents a major hurdle. The clinical translation of mRNA-based therapeutics requires delivery technologies that can ensure stabilization of mRNA under physiological conditions. Here, we (i) review opportunities and challenges in the delivery of mRNA-based therapeutics with a focus on non-viral delivery systems, (ii) present the clinical status of mRNA vaccines, and (iii) highlight perspectives on the future of this promising new type of medicine.
+----
+
+TITLE PARAGRAPH: Introduction
+Vaccination has had a tremendous impact on global health and the quality of human life by reducing the mortality and morbidity caused by infectious diseases. The development of vaccines is predicated on the classical 3I's paradigm of "isolating, inactivating and injecting" the causative microorganism, coined by Louis Pasteur 
+Nucleic acid-based vaccines, i.e., DNA (as plasmids) and RNA (as messenger RNA (mRNA)) vaccines, pave the way for safe and efficacious biologics to mimic inoculation with live organism-based vaccines, particularly for stimulation of cell-mediated immunity 
+
+----
+
+TITLE PARAGRAPH: mRNA as Vaccines
+The central dogma of molecular biology states that DNA is transcribed into mRNA, which is subsequently translated into protein 
+Two classes of mRNAs, i.e., non-replicating and self-amplifying mRNA, are commonly used as vaccine vectors. Non-replicating mRNA encodes only the protein antigen(s) of interest, while self-amplifying mRNA also encodes proteins enabling RNA replication 
+
+----
+
+TITLE PARAGRAPH: Fundamental Pharmacology of mRNA Vaccines
+In vitro transcribed (IVT) mRNA is employed therapeutically as it mimics fully mature native mRNA present in the eukaryotic cytosol 
+The pharmacodynamic activity of both native and IVT mRNA takes place in the cytosol (Figure 
+
+----
+
+TITLE PARAGRAPH: Approaches for Enhancing mRNA Stability
+The development of mRNA-based drugs dates back to 1990 with the successful expression of a number of different proteins upon injecting mRNA encoding these proteins directly into the muscles of mice 
+In a cell-free system, mRNA can be synthesized by IVT of a DNA template (e.g., a linearized plasmid or a PCR product), which encodes all the structural elements of a functional mRNA. To perform an IVT reaction, all the elements of the natural transcription process are required, i.e., a DNA template, an RNA polymerase, and nucleotide building blocks. During the subsequent purification of the mRNA, the DNA template is often degraded by the addition of DNases, followed by purification by means of other conventional methods for isolating mRNA, e.g., precipitation and chromatography. This process results in highly pure mRNA products ready for use 
+
+----
+
+TITLE PARAGRAPH: Molecular Stabilization
+Strategies including engineering of sequences and/or structure to enhance mRNA stability (extend the half-life) and translation are often instrumental in increasing the protein expression levels. Techniques employed to achieve this includes elongation of the poly(A) tail, modification of the 5' cap, engineering of the UTRs and the sequence patterns in the ORF, and/or incorporation of modified nucleotides (Figure 
+
+----
+
+TITLE PARAGRAPH: Cap Analog
+A synthetic cap analogue can readily be added to the mRNA because the 5' end cap is not encoded by the DNA template. Natural eukaryotic mRNA has a 7-methylguanosine (m7G) cap coupled to the mRNA during the transcription process via a 5'-5'-triphosphate bridge (ppp) 
+Three different classes of m7GpppG cap analogs are used 
+
+----
+
+TITLE PARAGRAPH: Cap Analog
+A synthetic cap analogue can readily be added to the mRNA because the 5' end cap is not encoded by the DNA template. Natural eukaryotic mRNA has a 7-methylguanosine (m7G) cap coupled to the mRNA during the transcription process via a 5'-5'-triphosphate bridge (ppp) 
+Three different classes of m7GpppG cap analogs are used 
+ARCAs juxtaposing the traditional cap analogues have been shown to exhibit more than four times RNA transcription efficiency 
+
+----
+
+TITLE PARAGRAPH: 5' and 3' Untranslated Regions (UTRs)
+The importance of incorporation of 5'-and 3'-UTRs has been noted during in vitro post-transcriptional regulation of gene expression 
+
+----
+
+TITLE PARAGRAPH: Poly(A) Tail
+The poly(A) tail plays a significant role in mRNA translation as well as for the enzymatic stability of mRNA. The poly(A) tail binds to several polyadenosyl binding proteins (PABPs) while working synergistically with 5'm7Gcap sequences to regulate translational efficiency 
+It has been shown that a gradual increase in the poly(A) tail length of IVT mRNA to 120 bases commensurately increases the protein expression level, while an increase in the number of bases beyond 120 does not further enhance protein expression 
+
+----
+
+TITLE PARAGRAPH: Formulation Strategies
+Despite the promising potential of mRNA-based vaccines, efficient intracellular delivery of mRNA to the cytosol continues to pose a major hurdle, especially for mRNA administered systemically. The large molecular weight (10 5 -10 6 Da) 
+
+----
+
+TITLE PARAGRAPH: Naked RNA
+The simplest administration strategy comprises intramuscular (i.m.) injection of naked mRNA, and proof of concept was originally demonstrated by in vivo reporter gene expression in mice 
+
+----
+
+TITLE PARAGRAPH: Viral Vectors
+Delivery of mRNA can be mediated by viral and non-viral vectors. Non-viral vectors can further be categorized into lipid-based delivery systems, polymer-based delivery systems, and lipid-polymer hybrid systems 
+
+----
+
+TITLE PARAGRAPH: Polymer-Based Vectors
+Diethylaminoethyl (DEAE) dextran was the first polymer to be tested as a delivery reagent for IVT mRNA 
+
+----
+
+TITLE PARAGRAPH: Lipid-Based Vectors
+Vectors based on lipids or lipid-like compounds (lipidoids) represent the most commonly used non-viral gene carriers 
+Liposomes are closed membrane structures, which are formed by self-assembly when phospholipids are dispersed in aqueous systems 
+Alternatively, new gene delivery vectors containing ionizable lipids [152] and lipid-like materials termed lipidoids 
+
+----
+
+TITLE PARAGRAPH: Lipid-Polymer Hybrid Nanoparticles
+Lipid-polymer hybrid nanoparticles (LPNs) have been demonstrated previously to exhibit effective functional delivery of siRNA in vitro [158] and therapeutic delivery of siRNA in vitro and in vivo [159]. This hybrid delivery system has also shown promising results for delivery of mRNA, with the mRNA being encapsulated in a hybrid nanoparticle composed of the lipid-like material N1, N3, N5-tris(2-aminoethyl)benzene-1,3,5-tricarboxamide (TT) in TT3:DOPE:Cholesterol:DMG-PEG2000 (1,2-dimyristoyl-sn-glycerol, methoxypolyethylene glycol) with a polymeric PLGA core [160]. In addition, optimized LPNs consisting of the degradable polymer PBAE, formulated with PEG-Lipid C14-2000, showed successful delivery of mRNA to the lungs [161]. This, along with reported co-delivery of siRNA and mRNA with lipidoid polymer hybrid nanoparticles [162], shows that LPNs are an emerging nucleic acid delivery system. The hybrid formulation is thermodynamically favorable, with respect to hydrophobic, van der Waal, and electrostatic interactions 
+
+----
+
+TITLE PARAGRAPH: Peptide-Based Vectors
+Peptide-based systems for mRNA delivery are gaining momentum due to the versatility peptides can offer. Peptide-based delivery systems, both alone and in combination with other materials such as polymers, have been reported in the literature. In a study concerning ovarian cancer therapy, the commercially available cell-penetrating peptide (CPP) PepFect14 was complexed with eGFP mRNA via attractive electrostatic interactions [164]. This nanoparticulate formulation was more efficient in transfecting eGFP mRNA into cells associated with ovarian cancer than commercially available lipofectamine MessengerMAX. Similarly, the CPP RALA has been used to effectively deliver both eGFP and OVA mRNA and has been demonstrated to outperform the cationic lipid DOTAP and the fusogenic lipid DOPE [165]. However, current limitations include targeted cell delivery [164] and short circulation half-life due to the low stability in serum-containing medium 
+Recently, a novel polymer-peptide hybrid mRNA delivery nanoplatform was introduced [167] combining both polymer (PLA) based micelles and a cationic fusogenic peptide (RALA) to achieve appropriate degradability, mRNA stability, and endosomolytic properties for translation. It was reported to protect eGFP as well as FLuc mRNA against serum nuclease degradation and achieve DC transfection. Indeed, peptide-based vectors and hybrids are promising and interesting additions to the various existing non-viral carriers for the delivery of mRNA. 
+
+----
+
+TITLE PARAGRAPH: Cell-Specific mRNA Delivery
+Cell-specific delivery of mRNA would be beneficial for the development of mRNA-based therapeutics. This can enhance the delivery of mRNA molecules to the targeted cells and hence reduce the required mRNA dose, as well as reducing potential off-target effects. It has been reported that lymphoid organs can be targeted by adjusting the net charge of the formulation 
+
+----
+
+TITLE PARAGRAPH: Conclusions and Future Perspectives
+The field of mRNA-based therapeutics spans from protein replacement therapy and gene editing to vaccination. With the dozens of mRNA-based vaccine candidates currently in pre-clinical and clinical phases of development, it is evident that the mRNA-based vaccine technology is a promising tool for the development of novel therapeutic and prophylactic vaccines against infectious diseases and cancer. However, the multifarious obstacles associated with mRNA's extremely large size, charge, intrinsic instability, and high susceptibility to enzymatic degradation hamper the translation of mRNA-based therapeutics from the bench to the bedside. Therefore, the wider application of mRNA-based therapeutics is still limited by the need for improved vectors or drug delivery systems. Advanced delivery systems can be applied to overcome the poor stability, cell targeting, and translational efficiency of naked mRNA. However, many clinically tested mRNA vaccine candidates are formulated without any delivery system, which suggests a need for further improvement of delivery systems for mRNA vaccines. Presently, lipoplexes and lipid-based nanoparticles are mostly used for delivering mRNA. Additionally, polymers and lipid-polymer hybrid nanoparticles offer great promise in terms of safety, stability, high transfection efficiency, and low price. Continued advancement in mRNA formulation and delivery using different nanomaterials can improve the wider use of mRNA for the treatment and prevention of infectious diseases and cancers.
+
+----
+
+DESCRIPTION TABLE: Examples of ongoing clinical trials of mRNA-based vaccines.
+mRNA||Mechanism of Action||Disease/Condition||Administration Route||Study Phase||Sponsor/Collaborator||National Clinical Trial Identifier||
+Therapeutic||None||None||None||None||None||None||
+mRNA||None||None||None||None||None||None||
+W_ova1 vaccine||Induction of an anti-tumor immune response||Ovarian cancer||Intravenous||Phase I||University Medical Center Groningen/BioNTech||NCT04163094||
+CT7, MAGE-A3, and WT1 mRNA-electroporated Langerhans cells (LCs)||Electroporation of dendritic cells with antigen mRNA||Multiple Myeloma||Subcutaneous||Phase I||Memorial Sloan Kettering Cancer Center||NCT01995708||
+Personalized Cellular mRNA||Immunization with DCs pulsed with mRNA encoded tumor antigens||Brain cancer/Neoplasm Metastases||Not specified||Phase I||Guangdong 999 Brain Guangzhou Hospital/Beijing, Tricision, Trinomab, Jinan University||NCT02808416||
+Personalized mRNA||Immunization with DCs pulsed with personalized mRNA||Glioblastoma||Not specified||Phase I||Guangdong 999 Brain Guangzhou Hospital/Beijing Tricision, Trinomab, Jinan University||NCT02808364||
+None||None||None||None||None||Radboud||None||
+MiHA mRNA||Immunization with DCs loaded with MiHA mRNA||Hematological malignancies||Intravenous||Phase I Phase II||University/ZonMw: Research and Development The Netherlands Organization for Health||NCT02528682||
+None||None||None||None||None||Dutch Cancer Society||None||
+None||None||None||None||None||Zwi Berneman/Kom Op||None||
+None||None||None||None||None||Tegen Kanker||None||
+WT1-mRNA||Immunization with DCs electroporated with WT1-mRNA||Acute myeloid leukemia||Not Specified||Phase II||stichting tegen kanker Research Foundation -Flanders (FWO: Fonds||None||
+None||None||None||None||None||Wetenschappelijk||None||
+None||None||None||None||None||Onderzoek)||None||
+
+----
+
+DESCRIPTION TABLE: Cont.    
+mRNA||Mechanism of Action||Disease/Condition||Administration Route||Study Phase||Sponsor/Collaborator||National Clinical Trial Identifier||
+Therapeutic||None||None||None||None||None||None||
+mRNA||None||None||None||None||None||None||
+None||Immunization with||None||None||None||None||None||
+Human CMV pp65-LAMP mRNA||DCs pulsed with CMV pp65-LAMP||Glioblastoma||Intradermal||Phase II||Gary Archer Ph.D./Duke University||NCT03927222||
+None||mRNA||None||None||None||None||None||
+None||None||Advanced esophageal||None||None||None||None||
+None||None||squamous carcinoma,||None||None||None||None||
+Personalized mRNA||Personalized mRNA tumor vaccine encoding neoantigen||gastric adenocarcinoma, adenocarcinoma, pancreatic||Subcutaneous||Enrolling||Changhai Therapeutics Hospital/Stemirna||NCT03468244||
+None||None||colorectal||None||None||None||None||
+None||None||adenocarcinoma||None||None||None||None||
+None||None||None||None||None||Ludwig Institute for Cancer||None||
+None||None||None||None||None||Research/Cancer Research||None||
+mRNA[BI 1361849 (formerly CV9202)]||Not specified||Metastatic non-small cell lung cancer||Not specified||Phase I Phase II||Institute, New York City, Boehringer Ingelheim||NCT03164772||
+None||None||None||None||None||MedImmune, CureVac,||None||
+None||None||None||None||None||PharmaJet||None||
+None||None||Neoplasms,||None||None||None||None||
+None||None||carcinoma,||None||None||None||None||
+mRNA-5671/V941||Not specified||non-small-cell lung,||Intramuscular||Phase I||Merck Sharp & Dohme||NCT03948763||
+None||None||pancreatic neoplasms,||None||None||None||None||
+None||None||colorectal neoplasms||None||None||None||None||
+mRNA-4157||Immunostimulants||Solid tumors||Not specified||Phase I||Moderna/Merck Sharp & Dohme||NCT03313778||
+
+----
+
+DESCRIPTION TABLE: Cont.    
+mRNA||Mechanism of Action||Disease/Condition||Administration Route||Study Phase||Sponsor/Collaborator||National Clinical Trial Identifier||
+Therapeutic||None||None||None||None||None||None||
+mRNA||None||None||None||None||None||None||
+mRNA-4157||Immunotherapy with the personalized cancer vaccine||Cutaneous melanoma||Not specified||Phase II||Moderna/Merck Sharp & Dohme||NCT03897881||
+None||None||Esophageal cancer||None||None||Stemirna Therapeutics/The||None||
+Personalized mRNA||Encoding neoantigen||Non-small cell lung||Subcutaneous||Enrolling||First Affiliated Hospital of||NCT03908671||
+None||None||cancer||None||None||Zhengzhou University||None||
+None||Alpha-galactosidase||None||None||None||None||None||
+mRNA-3704||stimulants; Methylmalonyl CoA mutase stimulants; Protein synthesis||Methylmalonic acidemia, metabolism, inborn errors||Intravenous||Phase I Phase II||Moderna||NCT03810690||
+None||stimulants||None||None||None||None||None||
+None||None||Relapsed/Refractory||None||None||None||None||
+mRNA-2416||OX40 ligand modulators||solid tumor malignancies or||Intratumoral||Phase I||Moderna||NCT03323398||
+None||None||lymphoma||None||None||None||None||
+mRNA-2752||IL36G protein stimulants; Interleukin 23 ligand modulators stimulants; OX40||Relapsed/Refractory lymphoma solid tumor malignancies or||Intratumoral||Phase I||Moderna/AstraZeneca||NCT03739931||
+
+----
+
+DESCRIPTION TABLE: Cont.    
+mRNA||Mechanism of Action||Disease/Condition||Administration Route||Study Phase||Sponsor/Collaborator||National Clinical Trial Identifier||
+Prophylactic mRNA||None||None||None||None||None||None||
+mRNA-1647, mRNA-1443||Not specified||Cytomegalovirus||Not specified||Phase I||Moderna||NCT03382405||
+None||None||None||None||None||Moderna/Biomedical||None||
+mRNA-1893||Not specified||Zika virus||Not specified||Phase I||Advanced Research and||NCT04064905||
+None||None||None||None||None||Development Authority||None||
+mRNA-1653||A combined human metapneumovirus and human type 3 vaccine parainfluenza virus||Human Parainfluenzavirus metapneumovirus and Human||Not specified||Phase I||Moderna.||NCT03392389 NCT04144348||
+None||Encoding for an||None||None||None||None||None||
+mRNA-1944||anti-Chikungunya virus monoclonal||Chikungunya virus||Parenteral||Phase I||Moderna||NCT03829384||
+None||antibody||None||None||None||None||None||
+None||None||Metapneumovirus||None||None||None||None||
+mRNA-1653||Immunostimulants||and Parainfluenza||Parenteral||Phase I||Moderna||NCT03392389||
+None||None||virus||None||None||None||None||
+CV7202||Immunostimulants||Rabies||Intramuscular||Phase I||CureVac||NCT03713086||
+
+----
+
+DESCRIPTION TABLE: Examples of nanoparticulate drug delivery systems for mRNA delivery.
+Drug Delivery Systems||Composition||RNA||Disease/Condition||References||
+Polymers||Poly(glycoamidoamine)||Erythropoietin (EPO) mRNA||Anemia and myelodysplasia||[168]||
+None||Polyethyleneimine||HIV-1 gag mRNA||HIV||[169]||
+None||Poly(β-amino ester) (PBAE)||eGFP mRNA||N/A||[170]||
+None||Triblock copolymer (comprising DMAEMA, PEGMA, DEAEMA and BMA)||eGFP and ovalbumin||N/A||[171]||
+None||DEAE-Dextran||Luciferase-encoding mRNA||N/A||[172]||
+Lipids||DOTAP/DOPE||HxB-2 HIV-1 Gag antigen mRNA||HIV||[126]||
+None||DOPE/DC-Cholesterol [2:1]||eGFP mRNA||N/A||[106]||
+None||DOTAP/Cholesterol [1:1] liposome with DSPE-PEG and DSPE-PEG-AA||HSV I Thymidine kinase mRNA||Cancer||[142]||
+None||C12-200:Cholesterol: DOPE:C14-PEG2000||EPO mRNA||N/A||[157]||
+None||A18||Ovalbumin mRNA||Melanoma||[173]||
+None||cKK-E12||HER2 antibody mRNA||Cancer||[174]||
+None||(6Z,9Z,28Z,31Z)-heptatriaconta-||None||None||None||
+None||6,9,28,31-tetraen-19-yl||None||None||None||
+None||4-(dimethylamino)butanoate (MC3), DSPC, cholesterol, and 1,2-dimyristoyl-rac-glycerol,||Human erythropoietin||None||[175]||
+None||methoxypolyethylene glycol||None||None||None||
+None||(PEG2000-DMG)||None||None||None||
+None||DOTAP/DOPE [1:1]||HIV-1 antigen Gag mRNA||HIV||[126]||
+None||3β-[N-(N',N'-dimethylaminoethane) carbamoyl](DC-Cholesterol)/DOPE (1:2)||eGFP mRNA||N/A||[106]||
+Lipid polymer hybrid NPs||TT3:DOPE:Cholesterol:DMG-PEG2000 with PLGA core||Firefly luciferase eGFP mRNA (FLuc) mRNA and||N/A||[160]||
+None||PBAE:C14-PEG2000||FLuc mRNA||N/A||[161]||
+None||PBAE:EDOPC/DOPE/DSPE-PEG||Ovalbumin mRNA||N/A||[176]||
+None||PBAE: DOPC, DOTAP, and DSPE-PEG||eGFP mRNA||N/A||[105]||
+Peptides and||None||None||None||None||
+peptide-polymer||PepFect14||eGFP mRNA||Ovarian cancer||[164]||
+hybrids||None||None||None||None||
+None||RALA||eGFP mRNA OVA mRNA||N/A||[165]||
+None||RALA-PLA||eGFPmRNA FLuc mRNA||N/A||[167]||
+
+----
+

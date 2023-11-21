@@ -1,0 +1,231 @@
+ABSTRACT
+ This review provides an overview covering mRNA from its use in the COVID-19 pandemic to cancer immunotherapy, starting from the selection of appropriate antigens, tumor-associated and tumor-specific antigens, neoantigens, the basics of optimizing the mRNA molecule in terms of stability, efficacy, and tolerability, choosing the best formulation and the optimal route of administration, to summarizing current clinical trials of mRNA vaccines in tumor therapy.
+----
+
+TITLE PARAGRAPH: Introduction
+mRNA-messenger ribonucleic acid-is a single-strand copy of a selected part of the genetic sequence of a gene, negatively charged with secondary and tertiary structure formations. It is produced from DNA and-after appropriate modification-leads to the synthesis of a specific protein by a ribosome. It was first described in 1961 
+Table 
+
+----
+
+TITLE PARAGRAPH: Component
+Nucleotides Function mRNA is composed of nucleotide building blocks consisting of a selection of four different nucleobases, adenine, cystine, guanine, and uracil, coupled to ribose which contains a phosphate group as the linker to the next nucleotide. mRNA transfers the genetic information for the synthesis of a specific protein from the genes via the DNA to the protein production facility: the ribosome. The nucleotides constitute the alphabet of the genetic code. Three consecutive nucleotides, for example, AUG, function as codons. Accordingly, by using four letters of the alphabet, A, C, G, and U, 64 different codons are possible. In general, codons define the amino acid which will be recruited next in the protein synthesis. On top of that, a single codon or groups of codons have specific functions, for example, the codon AUG codes for the amino acid methionine and operates as the start codon for the coding part of the mRNA. Table 
+The task mRNA has to fulfil involves the following steps. It starts with the production of a single-strand copy of the genetic code laid down in the DNA, which is performed by RNA polymerase. This process is called transcription and leads to precursor mRNA (pre-mRNA), which-via splicing procedures-finally becomes mature mRNA. In parallel to transcription, the 5 cap is added to the molecule and the poly(A) tail is attached at the end of the chain. After that, the mRNA is transported from the nucleus of the cell to the cytosol. Various mechanisms can be utilized for this step involving different proteins, such as CBP20 and CBP80. Subsequently, ribosomes take over, read the code, and start the protein synthesis according to the codons provided in the coding section of the mRNA. The synthesis is terminated as soon as a stop codon is reached. Stop codons are UAG (amber), UAA (ochre), and UGA (opal). Thereafter, the mRNA is degraded by ribonucleases. mRNA activates the innate immune response through various RNA sensors such as toll-like receptors (TLRs), retinoic acid-inducible gene I (RIG-I), and protein kinase R (PKR) 
+
+----
+
+TITLE PARAGRAPH: Lessons Learned from COVID-19
+The unprecedented speed of the global spread of the COVID-19 pandemic caused by the coronavirus, SARS-CoV2, resulted in an extremely rapid development of mRNA vaccines 
+Although SARS viruses are common in humans, vaccines had not been developed since the course of the infection normally was very mild. The SARS outbreak in early 2000 triggered DNA vaccine development 
+
+----
+
+TITLE PARAGRAPH: •
+Methylation of the first nucleotide at position 20 (cap1 structure)
+
+----
+
+TITLE PARAGRAPH: •
+CleanCap system: 5 cap + 2 methylated adenosine followed by guanosine
+
+----
+
+TITLE PARAGRAPH: •
+Allows incorporation of cap1 at the 5 end of any mRNA and does not limit the concentration of any of the four nucleotides 
+mRNA which encodes the protein of interest, in the case of SARS-CoV-2, the spike protein, can be administered as such or as self-replicating or self-amplifying mRNA (saRNA) 
+mRNA vaccines are different from classic viral vaccines by providing, instead of the antigen itself, the genetic information for producing the antigen. Now, it is up to the host to start protein production. This is a huge benefit compared to administering the antigen to the host. No longer are cell lines required with their potential to produce multiple impurities and the consequence to establish tedious purification and quality control procedures. This is the same issue for DNA vaccines. mRNA vaccines have another significant advantage over DNA vaccines. They have one major hurdle less. DNA needs to enter the cell nucleus 
+Vaccine mRNA manufacturing is rapid and cheap by using an IVT from a DNA template with T7 RNA polymerase 
+mRNA is a large hydrophilic, negatively charged molecule with secondary and tertiary structure formations. The cell membranes are negatively charged as well. Additionally, ion pumps and ion channels maintain a negative potential (-40 to -80 mV) across the cell membrane, keeping the cytosol negatively charged by controlling the balance of most of the essential metal ions (for example, K + , Na + , Ca 2+ , and Mg 2+ ). Naked mRNA is therefore not able to pass this barrier 
+Although the mRNA molecule itself is chemically very stable in the dry state, it is rather unstable in the solution, and, moreover, is rapidly degraded by extracellular and intracellular exo-and endo-ribonucleases 
+Most mRNA vaccines use lipid nanoparticles (LNPs) as the carrier with a particle size between 1 and 100 nm. LNP formulations are composed of an ionizable or cationic lipid, a helper phospholipid, cholesterol or a cholesterol derivative, and a polyethylene glycol (PEG)-modified lipid. The purpose of the ionizable or cationic lipid is an interaction with the negatively charged mRNA. Examples are DLin-MC3-DMA (MC3) 
+In addition to LNP, other types of formulations such as liposomes 
+The approved SARS-CoV-2 mRNA vaccines use intramuscular (i.m.) administration. During their development, alternative injection routes have been evaluated, for example, intradermal application. A general consensus on what is the best route has not yet been achieved 
+Another important issue of mRNA vaccines, which had to be addressed carefully, is manufacturing. A major lesson from the COVID-19 pandemic is that synthesis of the active ingredient is simple because it is cell-free, scalable, and cost effective. Large-scale production of mRNA vaccines consists of a 1-or 2-step in vitro reaction followed by a purification platform with multiple steps that can include DNase digestion, precipitation, chromatography, or tangential flow filtration 
+The lessons to learn from the COVID-19 pandemic regarding mRNA vaccines are the following. The pandemic was the strongest driver possible for speeding up the development, production, and distribution of vaccines by providing more than necessary funding options and an immense public pressure to find solutions. Furthermore, mRNA is the ideal candidate for a vaccine since the target antigen is specific for the virus and-so far-has been rather stable regarding evading mutations. If the antigen should slip away, the development of new vaccines is rather straightforward and quick to establish from modifying the mRNA to manufacturing the final product. A still-unresolved issue is the storage temperature, which means freezing, in the case of Comirnaty at -90 • C to -60 • C and for Spikevax at -50 • C to -15 • C during storage and transport, which makes distribution rather cumbersome, in particular in hot areas such as Africa. Freeze-drying of the formulation has been tried as alternative; however, there is a danger of decreasing stability and losing activity 
+
+----
+
+TITLE PARAGRAPH: mRNA-Based Cancer Immunotherapy
+The objective of cancer immunotherapy is to manipulate the immune system to effectively eliminate cancer cells 
+The first marketed immunotherapies for cancer were recombinant versions of the cytokine interferon-α (IFNα), which were approved by the FDA in 1986 for hairy cell leukemia 
+mRNA represents the minimal genetic vector and contains only the elements directly required for the expression of the encoded protein 
+Antigen selection is the most difficult task in mRNA-based immunotherapy. In the COVID-19 case, the opposite was the case. The choice was easy and straightforward, at least at the beginning when the selected antigen, the spike protein of SARS-CoV-2, was rather stable and more or less exempt from mutations. This changed as soon as the Delta and Gamma variants appeared. In cancer immunotherapy, choices for antigens are tumorassociated antigens (TAAs) 
+Furthermore, mRNA vaccines are not constrained by the patient's HLA class. mRNA vaccines are preferable over DNA vaccines for several reasons. DNA has to reach the nucleus of the tumor cells in contrast to mRNA, for which it is sufficient to reach the cytosol. For mRNA, there is no danger of splice mutations 
+The mRNA modifications described in Section 2 to improve stability and efficacy apply to cancer vaccines as well. Since uridine-rich sequences activate Toll-like receptors 
+Despite all these efforts, the tumor is trying to avoid the effect of the treatment by various methods. Tumor escape mechanisms down-regulate the tumor cell surface antigens which means reducing the immunogenicity and thereby the efficacy of the mRNA vaccine 
+The route of administration of mRNA-based vaccines plays an important role 
+mRNA vaccines are not immunogenic, so that multiple administrations are possible 
+According to 
+The major obstacle to this objective is the high variability of antigens across different individuals 
+Neoantigens should be the major target whenever possible 
+Formulations for use in cancer treatment are similar to those described for COVID-19 administration. However, as opposed to the delivery systems of mRNA vaccines for pathogen infections, therapeutic mRNA vaccines for cancer treatments are required to generate both robust CD8 + and CD4 + T cell responses 
+The induction of CD4 + and CD8 + T cell responses was shown for several TAAs. In summary, the clinical efficacy of mRNA vaccines looks like a mixed bag of different outcomes ranging from no effect to a rather good response, which means that the route to sufficient efficacy still is rather steep but, nevertheless, nourishes high hopes for the future.
+
+----
+
+TITLE PARAGRAPH: Conclusions
+The tremendous success and unbelievable speed in developing and bringing to the market COVID-19 mRNA vaccines has raised high expectations for duplicating this performance in other indications, in particular in cancer therapy. mRNA vaccines are easy to design and can rapidly be modified if there is a need for change, exhibiting an extremely broad versatility of building blocks, structural elements, and formulations of the synthetic mRNA including the targeting of defined cells, duration of expression, and immunological effects. Dosing can be adjusted according to the individual needs of the patients, and there is the possibility to individualize treatment by adjusting the selection of antigen(s) to the specific tumor type of each patient. However, the hurdles in cancer immunotherapy are much higher than in fighting coronaviruses. In particular, the following issues need to be addressed: neoantigen use, LNP modifications, combination treatments, immune escape of cancer, and the therapeutic vs. prophylactic use of mRNA vaccines.
+If available, neoantigen-specific vaccines, which are currently considered a top priority in cancer immunotherapy, result in a potential killing of all cells exhibiting the neoantigen epitope but leave any other cancer cells unharmed (which might then start or continue multiplying). As a consequence, the cancer genotype and phenotype changes, and the tumor will continue growing 
+LNPs are state-of-the-art for mRNA vaccines. However, they bear several pitfalls. Since they are particles, they can be taken up by macrophages of the liver or the spleenirrespective of their administration route-thereby reducing the activity at the intended site of action, the tumor, and/or leading to side effects at off-target accumulation sites. The side effects might include toxicity and/or immunogenicity 
+A further issue that needs to be addressed is the observation that vaccine treatment may not successfully reach the tumor site, in particular solid tumors 
+The focus in cancer immunotherapy should also be directed towards prophylactic vaccination, which has already been very successful in HPV and HBV leading to cervical cancer and hepatocellular carcinoma. An extension to other tumor types seems mandatory. 
+
+----
+
+DESCRIPTION TABLE: Possible modifications of the mRNA molecule for use as COVID-19 vaccines with the spike protein of SARS-CoV-2 as target antigen. Most modifications used for approved vaccines are proprietary and therefore not publicly available.
+Position||Modification||Effect||Reference||
+5 cap||None||None||None||
+
+----
+
+DESCRIPTION TABLE: Cont.    
+•||Increases stability and translation||None||
+None||resulting in higher efficiency and longer||None||
+None||half-life||None||
+•||Increases protein synthesis during fibroblast conversion to induced||[21-29]||
+None||pluripotent stem cells||None||
+•||Improves translation||None||
+
+----
+
+DESCRIPTION TABLE: Active ingredients and formulations of mRNA and viral-based COVID-19 vaccines approved in the European Union. Data have been retrieved from the European Public Assessment Report (EPAR). The structural modifications provided in Table3do not reflect all changes that have been introduced into the mRNA molecules; major portions are proprietary and have not been disclosed publicly.
+Product||Active Ingredient||Formulation||Storage||
+Comirnaty, tozinameran, BNT162b2 BioNTech (Mainz, Germany)||Single-stranded, 5 -capped mRNA, encoding the spike antigen [glycoprotein (S)] of SARS-CoV-2 (isolate Wuhan-Hu-1) containing two consecutive proline mutations (P2 S); uridine substituted by N1-methylpseudouridine (1 mΨ)||Multidose concentrate to be diluted prior to i.m. injection; dispersion of mRNA in LNPs containing ALC-0315 and ALC-0159 (functional lipids), DSPC and cholesterol (structural lipids) in aqueous cryoprotectant buffer.||None||
+
+----
+
+DESCRIPTION TABLE: Selected neoantigens for use in mRNA vaccinations.
+Biomedicines 2023, 11, 308||None||11 of 29||
+Tumor Type||Neoantigen||Reference||
+Bladder cancer||AP2S1, P3H4, and RAC3||[174]||
+Melanoma||PTPRC, SIGLEC10, CARD11, LILRB1, and ADAMDEC1||[175]||
+Colorectal, NSCLC, and pancreatic cancers||KRAS||[176]||
+Esophageal squamous cell carcinoma (ESCC)||NLRC5, FCRL4, TMEM229B, and LCP2||[177]||
+
+----
+
+DESCRIPTION TABLE: Selected neoantigens for use in mRNA vaccinations.
+Tumor Type||Neoantigen||Reference||
+Bladder cancer||AP2S1, P3H4, and RAC3||[174]||
+Melanoma||PTPRC, SIGLEC10, CARD11, LILRB1, and ADAMDEC1||[175]||
+Colorectal, NSCLC, and pancreatic cancers||KRAS||[176]||
+Esophageal squamous cell carcinoma (ESCC)||NLRC5, FCRL4, TMEM229B, and LCP2||[177]||
+
+----
+
+DESCRIPTION TABLE: Selected neoantigens for use in mRNA vaccinations.
+Tumor Type||Neoantigen||Reference||
+Bladder cancer||AP2S1, P3H4, and RAC3||[174]||
+Melanoma||PTPRC, SIGLEC10, CARD11, LILRB1, and ADAMDEC1||[175]||
+Colorectal, NSCLC, and pancreatic cancers||KRAS||[176]||
+Esophageal squamous cell carcinoma (ESCC)||NLRC5, FCRL4, TMEM229B, and LCP2||[177]||
+
+----
+
+DESCRIPTION TABLE: Selected neoantigens for use in mRNA vaccinations.
+Tumor Type||Neoantigen||Reference||
+Bladder cancer||AP2S1, P3H4, and RAC3||[174]||
+Melanoma||PTPRC, SIGLEC10, CARD11, LILRB1, and ADAMDEC1||[175]||
+Colorectal, NSCLC, and pancreatic cancers||KRAS||[176]||
+Esophageal squamous cell carcinoma (ESCC)||NLRC5, FCRL4, TMEM229B, and LCP2||[177]||
+
+----
+
+DESCRIPTION TABLE: Selected neoantigens for use in mRNA vaccinations.
+Tumor Type||Neoantigen||Reference||
+Bladder cancer||AP2S1, P3H4, and RAC3||[174]||
+Melanoma||PTPRC, SIGLEC10, CARD11, LILRB1, and ADAMDEC1||[175]||
+Colorectal, NSCLC, and pancreatic cancers||KRAS||[176]||
+Esophageal squamous cell carcinoma (ESCC)||NLRC5, FCRL4, TMEM229B, and LCP2||[177]||
+Soft tissue sarcoma||HLTF, ITGA10, PLCG1, and TTC3||[178]||
+Glioblastoma||ADAMTSL4, COL6A1, CTSL, CYTH4, EGFLAM, LILRB2, MPZL2, SAA2, and LSP1||[179]||
+Glioma||NAT1, FRRS1, GTF2H2C, BRCA2, GRAP, NR5A2, ABCB4, ZNF90, ERCC6L, and ZNF813||[180]||
+Malignant mesothelioma||FAM134B, ALDH3A2, SAV1, RORC, and FN1||[181]||
+Stomach adenocarcinoma||ADAMTS18, COL10A1, PPEF1, and STRA6||[182]||
+Mesothelioma||AUNIP, FANCI, LASP1, PSMD8, and XPO5||[183]||
+
+----
+
+DESCRIPTION TABLE: Selection of mRNAs in development for cancer treatment. FixVac: Non-mutated antigens shared among patients with a specific cancer type, applicable for almost all types of tumor antigens. iNeST: Targeting 20 neoantigens unique to each patient, applicable for almost all types of tumor antigens.
+Name||mRNA||Indications||Admin.||Reference||
+BNT111 FixVac||4 TAAs: tyrosinase, NY-ESO-1, MAGE A3, TPTE||Advanced melanoma Phase I: Lipo-MERIT trial ± checkpoint inhibitor PD1 Phase II: + cemiplimab||Intravenous (i.v.) liposomal RNA (RNA-LPX)||[197] NCT02410733 NCT04526899||
+None||5 prostate cancer-specific||None||None||None||
+BNT112 FixVac||antigens: kallikrein-2, kallikrein-3, acid phosphatase prostate,||Prostate cancer Phase I/II + cemiplimab PRO-MERIT trial||i.v. RNA-LPX||[198] NCT04382898||
+None||HOXB13, NK3 homeobox 1||None||None||None||
+None||None||HPV16 + head and neck||None||None||
+BNT113 FixVac||HPV16-E6 and -E7||cancer; AHEAD-MERIT Phase II + pembrolizumab HARE-40||i.v. RNA-LPX||NCT04534205 NCT03418480||
+None||None||Phase I/II||None||None||
+BNT115||None||Ovarian cancer||None||None||
+W_ova1 Vaccine||3 ovarian cancer TAAs||Phase I +||i.v.||NCT04163094||
+FixVac||None||carboplatin/paclitaxel||None||None||
+None||None||NSCLC||None||None||
+BNT116||6 mRNAs each of which||Phase I/II + cemiplimab||i.v.||NCT05557591||
+FixVac||encodes for a different TAA||Phase I + cemiplimab or||Liposomes||NCT05142189||
+None||None||docetaxel, LuCa-MERIT-1||None||None||
+BNT121 IVAC MUTANOME||Personalized vaccine||Metastatic melanoma Phase I ± RBL001/RBL002||Intranodal||[3,172] NCT02035956||
+BNT122 (RO7198457 autogene||20 patient-specific antigens||Multiple solid tumors Phase I||i.v.||[199] NCT03289962||
+cevumeran) iNeST||None||Melanoma Phase II + pembrolizumab||i.v.||NCT03815058||
+None||None||NSCLC (adjuvant) Phase II + atezolizumab||i.v.||NCT04267237||
+None||None||CRC Phase II||i.v.||NCT04486378||
+None||None||Pancreatic cancer||None||None||
+None||None||Phase I + atezolizumab +||i.v.||NCT04161755||
+None||None||mFOLFIRINOX||None||None||
+BNT114 + BNT122 Personalized||IVAC_W_bre1_uID and IVAC_M_uID IVAC_W_bre1_uID/||Triple Negative Breast TNBC-MERIT Cancer||i.v.||NCT02316457||
+SAR441000 (BNT131)||IL-12sc, IL-15sushi, GM-CSF, IFNα||Solid tumors Phase I ± cemiplimab||Intratumoral||NCT03871348||
+None||None||Multiple solid tumors||None||None||
+BNT141||Encoded antibodies||Phase I/II ± nab-paclitaxel||i.v.||NCT04683939||
+None||None||and gemcitabine||None||None||
+None||None||Multiple solid CLDN6 +||None||None||
+BNT142||Encoded antibodies||tumors||i.v.||NCT05262530||
+None||None||Phase I/II||None||None||
+BNT151||Encoded cytokines: optimized IL-2||Multiple solid tumors Phase I/II (optimized IL-2)||i.v.||NCT04455620||
+
+----
+
+DESCRIPTION TABLE: Cont.    
+Name||mRNA||Indications||Admin.||Reference||
+BNT152||Encoded cytokines: IL-2, IL-7||Multiple solid tumors Phase I/II||i.v.||NCT04455620 NCT04710043||
+BNT153||Encoded cytokines: IL-2, IL-7||Multiple solid tumors Phase I||i.v.||NCT04710043||
+mRNA-2416||OX40L||Advanced malignancies Phase I/II ± durvalumab||Intratumoral LNP [3] NCT03323398||
+mRNA-2752||OX40L, IL-23, IL-36γ||Advanced malignancies Phase I/II ± durvalumab||Intratumoral LNP||[200] NCT03739931||
+None||None||High-risk melanoma, solid||None||None||
+mRNA-4157 (V941)||Up to 34 neoantigens, personalized||tumors KEYNOTE-603 Phase I + pembrolizumab KEYNOTE-942||i.m. LNP||[201-204] NCT03313778 NCT03897881||
+None||None||Phase II + pembrolizumab||None||None||
+mRNA-4650 NCI-4650||Up to 20 antigens + up to 15 HLA class I candidate neoantigens||Gastric or rectal cancer Phase I/II Phase I Melanoma||i.m.||[204,205] NCT03480152||
+mRNA-5671 Merck V941||4 KRAS mutations (G12D, G13D, G12C, and G12V), personalized||CRC, NSCLC, pancreatic adenocarcinoma Phase I ± pembrolizumab||i.m.||[204] NCT03948763||
+ECI-006||5 TAAs + 3 DC-activating antigens||Melanoma anti-PD-1 Phase I ± standard||Intranodal TriMix [204] NCT03394937||
+TriMix||3 mRNA encoding CD70, CD40L, and a constitutively active form of TLR4||Breast cancer Phase I||Intratumoral||NCT03788083||
+TriMixDC-MEL IPI||MAGE-A3, MAGE-C2, tyrosinase, and gp100||Melanoma Phase II + ipilimumab||Intratumoral||[206] NCT01302496||
+TriMix-DC||None||Melanoma Phase I Phase I/II||i.v. and intradermal||[207] NCT01066390||
+TriMix-DC + TLR-DC||None||Melanoma Phase I Phase I/II||i.v. (mRNA) intranodal (DCs)||[207] NCT01530698||
+TriMix: DC + mRNA (CD70, CD40) + TLR4||Tyrosinase, gp100, MAGE-A3, or MAGE-C2||Breast cancer Phase II + ipilimumab||Intratumoral||[206,207] NCT01302496||
+TriMixDC-MEL:||None||None||None||None||
+Autologous||None||None||None||None||
+monocyte-derived mRNA||CD40L, CD70, caTLR4||Melanoma Phase I||i.v.||[208]||
+co-electroporated||None||None||None||None||
+DCs + mRNA||None||None||None||None||
+
+----
+
+DESCRIPTION TABLE: Cont.    
+Name||mRNA||Indications||Admin.||Reference||
+CV8102||TLR7/8, RIG-1||Skin cancer Phase I||Intradermal Protamine||[209] NCT03291002||
+None||TL||Hepatocellular carcinoma Phase I + IMA970A + cyclophosphamide||Intradermal Protamine||NCT03203005||
+CV9103 RNActive ®||4 antigens for prostate cancer: PSA, PSMA, PSCA, STEAP||Prostate cancer Phase I/II Phase I/II||Intradermal||[210,211] NCT00906243 NCT00831467||
+None||None||None||Intradermal or||None||
+CV9104 Mixture of 6 mRNAs, each encoding 1 antigen||PSA, PSCA, PSMA, STEAP1, PAP, MUC1||Prostate cancer Phase I/II Phase II||needle-free injection device (Tropis ® , London, UK)||[210,212] NCT01817738 NCT02140138||
+None||None||None||Protamine||None||
+CV9201||5 mRNAs: NY-ESO-1, MAGE C1, MAGE C2, survivin, TBG||NSCLC Phase I/II||Intradermal||[213] NCT00923312 NCT03164772||
+CV9202 BI 1361849||6 mRNAs encoding 6 different antigens: NY-ESO-1, MAGE C1, MAGE C2, TPBG, survivin, MUC1||NSCLC Phase I + local radiation Phase I/II ± durvalumab and tremelimumab||Intradermal||[214-216] NCT01915524 NCT03164772||
+None||None||Advanced solid tumors,||None||None||
+MEDI1191||IL-12||prostate, breast cancer, NSCLC||Intratumoral LNP||[204,217] NCT03946800||
+None||None||Phase I + durvalumab||None||None||
+None||Melan-A, MAGE-A1,||Melanoma||Intradermal||[218]||
+Naked mRNA||MAGE-A3, survivin, GP100,||Phase I/II + GM-CSF||GM-CSF as||NCT00204516||
+None||and tyrosinase||Phase I/II + GM-CSF||adjuvant||NCT00204607||
+Naked mRNA||MUC1, CEA, Her-2/neu, telomerase, survivin, MAGE-A1||Renal cell cancer Phase I + durvalumab||Intradermal adjuvant GM-CSF as||[219]||
+SW1115C3||Cancer TSAs, personalized||Solid tumors Phase I||Subcutaneous||[209] NCT05198752||
+Tumor mRNA + pp65 flLAMP||None||Glioma, glioblastoma Phase I||i.v. liposome) RNA-LP (DOTAP||NCT04573140||
+
+----
+

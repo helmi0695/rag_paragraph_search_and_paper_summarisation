@@ -1,0 +1,172 @@
+ABSTRACT
+ Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and the resulting coronavirus disease 2019 (Covid-19) have afflicted tens of millions of people in a worldwide pandemic. Safe and effective vaccines are needed urgently.In an ongoing multinational, placebo-controlled, observer-blinded, pivotal efficacy trial, we randomly assigned persons 16 years of age or older in a 1:1 ratio to receive two doses, 21 days apart, of either placebo or the BNT162b2 vaccine candidate (30 μg per dose). BNT162b2 is a lipid nanoparticle-formulated, nucleoside-modified RNA vaccine that encodes a prefusion stabilized, membrane-anchored SARS-CoV-2 fulllength spike protein. The primary end points were efficacy of the vaccine against laboratory-confirmed Covid-19 and safety.A total of 43,548 participants underwent randomization, of whom 43,448 received injections: 21,720 with BNT162b2 and 21,728 with placebo. There were 8 cases of Covid-19 with onset at least 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among those assigned to placebo; BNT162b2 was 95% effective in preventing Covid-19 (95% credible interval, 90.3 to 97.6). Similar vaccine efficacy (generally 90 to 100%) was observed across subgroups defined by age, sex, race, ethnicity, baseline body-mass index, and the presence of coexisting conditions. Among 10 cases of severe Covid-19 with onset after the first dose, 9 occurred in placebo recipients and 1 in a BNT162b2 recipient. The safety profile of BNT162b2 was characterized by short-term, mild-to-moderate pain at the injection site, fatigue, and headache. The incidence of serious adverse events was low and was similar in the vaccine and placebo groups.A two-dose regimen of BNT162b2 conferred 95% protection against Covid-19 in persons 16 years of age or older. Safety over a median of 2 months was similar to that of other viral vaccines.
+----
+
+TITLE PARAGRAPH: 
+n engl j med 383;27 nejm.org December 31, 2020
+
+----
+
+TITLE PARAGRAPH: 2604
+T h e ne w e ngl a nd jou r na l o f m e dicine C oronavirus disease 2019 (Covid-19) has affected tens of millions of people globally 
+We previously reported phase 1 safety and immunogenicity results from clinical trials of the vaccine candidate BNT162b2, 
+Here, we report safety and efficacy findings from the phase 2/3 part of a global phase 1/2/3 trial evaluating the safety, immunogenicity, and efficacy of 30 μg of BNT162b2 in preventing Covid-19 in persons 16 years of age or older. This data set and these trial results are the basis for an application for emergency use authorization. 
+
+----
+
+TITLE PARAGRAPH: Me thods
+
+----
+
+TITLE PARAGRAPH: Trial Objectives, Participants and Oversight
+We assessed the safety and efficacy of two 30-μg doses of BNT162b2, administered intramuscu-larly 21 days apart, as compared with placebo. Adults 16 years of age or older who were healthy or had stable chronic medical conditions, including but not limited to human immunodeficiency virus (HIV), hepatitis B virus, or hepatitis C virus infection, were eligible for participation in the trial. Key exclusion criteria included a medical history of Covid-19, treatment with immunosuppressive therapy, or diagnosis with an immunocompromising condition.
+Pfizer was responsible for the design and conduct of the trial, data collection, data analysis, data interpretation, and the writing of the manuscript. BioNTech was the sponsor of the trial, manufactured the BNT162b2 clinical trial material, and contributed to the interpretation of the data and the writing of the manuscript. All the trial data were available to all the authors, who vouch for its accuracy and completeness and for adherence of the trial to the protocol, which is available with the full text of this article at NEJM.org. An independent data and safety monitoring board reviewed efficacy and unblinded safety data.
+
+----
+
+TITLE PARAGRAPH: Trial Procedures
+With the use of an interactive Web-based system, participants in the trial were randomly assigned in a 1:1 ratio to receive 30 μg of BNT162b2 (0.3 ml volume per dose) or saline placebo. Participants received two injections, 21 days apart, of either BNT162b2 or placebo, delivered in the deltoid muscle. Site staff who were responsible for safety evaluation and were unaware of group assignments observed participants for 30 minutes after vaccination for any acute reactions.
+
+----
+
+TITLE PARAGRAPH: Safety
+The primary end points of this trial were solicited, specific local or systemic adverse events and use of antipyretic or pain medication within 7 days after the receipt of each dose of vaccine or placebo, as prompted by and recorded in an electronic diary in a subset of participants (the reactogenicity subset), and unsolicited adverse events (those reported by the participants without prompts from the electronic diary) through 1 month after the second dose and unsolicited serious adverse events through 6 months after the second dose. Adverse event data through approximately 14 weeks after the second dose are included in this report. In this report, safety data are reported for all participants who provided informed consent and received at least one dose of vaccine or placebo. Per protocol, safety results for participants infected with HIV (196 patients) will be analyzed separately and are not included here.
+During the phase 2/3 portion of the study, a stopping rule for the theoretical concern of vaccine-enhanced disease was to be triggered if the one-sided probability of observing the same or a more unfavorable adverse severe case split (a split with a greater proportion of severe cases in vaccine recipients) was 5% or less, given the same true incidence for vaccine and placebo recipients. Alert criteria were to be triggered if this probability was less than 11%.
+
+----
+
+TITLE PARAGRAPH: Efficacy
+The first primary end point was the efficacy of BNT162b2 against confirmed Covid-19 with onset at least 7 days after the second dose in participants who had been without serologic or virologic evidence of SARS-CoV-2 infection up to 7 days after the second dose; the second primary end point was efficacy in participants with and participants without evidence of prior infection. Confirmed Covid-19 was defined according to the Food and Drug Administration (FDA) criteria as the presence of at least one of the following symptoms: fever, new or increased cough, new or increased shortness of breath, chills, new or increased muscle pain, new loss of taste or smell, sore throat, diarrhea, or vomiting, combined with a respiratory specimen obtained during the symptomatic period or within 4 days before or after it that was positive for SARS-CoV-2 by nucleic acid amplification-based testing, either at the central laboratory or at a local testing facility (using a protocol-defined acceptable test).
+Major secondary end points included the efficacy of BNT162b2 against severe Covid-19. Severe Covid-19 is defined by the FDA as confirmed Covid-19 with one of the following additional features: clinical signs at rest that are indicative of severe systemic illness; respiratory failure; evidence of shock; significant acute renal, hepatic, or neurologic dysfunction; admission to an intensive care unit; or death. Details are provided in the protocol.
+An explanation of the various denominator values for use in assessing the results of the trial is provided in Table 
+
+----
+
+TITLE PARAGRAPH: Statistical Analysis
+The safety analyses included all participants who received at least one dose of BNT162b2 or placebo. The findings are descriptive in nature and not based on formal statistical hypothesis testing. Safety analyses are presented as counts, percentages, and associated Clopper-Pearson 95% confidence intervals for local reactions, systemic events, and any adverse events after vaccination, according to terms in the Medical Dictionary for Regulatory Activities (MedDRA), version 23.1, for each vaccine group.
+Analysis of the first primary efficacy end point included participants who received the vaccine or placebo as randomly assigned, had no evidence of infection within 7 days after the second dose, and had no major protocol deviations (the population that could be evaluated). Vaccine efficacy was estimated by 100 × (1 -IRR), where IRR is the calculated ratio of confirmed cases of Covid-19 illness per 1000 person-years of follow-up in the active vaccine group to the corresponding illness rate in the placebo group. The 95.0% credible interval for vaccine efficacy and the probability of vaccine efficacy greater than 30% were calculated with the use of a Bayesian beta-binomial model. The final analysis uses a success boundary of 98.6% for probability of vaccine efficacy greater than 30% to compensate for the interim analysis and to control the overall type 1 error rate at 2.5%. Moreover, primary and secondary efficacy end points are evaluated sequentially to control the familywise type 1 error rate at 2.5%. Descriptive analyses (estimates of vaccine efficacy and 95% confidence intervals) are provided for key subgroups.
+
+----
+
+TITLE PARAGRAPH: R esult s
+
+----
+
+TITLE PARAGRAPH: Participants
+Between July 27, 2020, and November 14, 2020, a total of 44,820 persons were screened, and 43,548 persons 16 years of age or older underwent randomization at 152 sites worldwide (United States, 130 sites; Argentina, 1; Brazil, 2; South Africa, 4; Germany, 6; and Turkey, 9) in the phase 2/3 portion of the trial. A total of 43,448 participants received injections: 21,720 received BNT162b2 and 21,728 received placebo (Fig. 
+
+----
+
+TITLE PARAGRAPH: Safety
+
+----
+
+TITLE PARAGRAPH: Local Reactogenicity
+The reactogenicity subset included 8183 participants. Overall, BNT162b2 recipients reported more local reactions than placebo recipients. Among BNT162b2 recipients, mild-to-moderate pain at the injection site within 7 days after an injection was the most commonly reported local reaction, with less than 1% of participants across all age groups reporting severe pain (Fig. 
+
+----
+
+TITLE PARAGRAPH: Systemic Reactogenicity
+Systemic events were reported more often by younger vaccine recipients (16 to 55 years of age) than by older vaccine recipients (more than 55 years of age) in the reactogenicity subset and more often after dose 2 than dose 1 (Fig. 
+Fever (temperature, ≥38°C) was reported after the second dose by 16% of younger vaccine recipients and by 11% of older recipients. Only 0.2% of vaccine recipients and 0.1% of placebo recipients reported fever (temperature, 38.9 to 40°C) after the first dose, as compared with 0.8% and 0.1%, respectively, after the second dose. Two participants each in the vaccine and placebo groups reported temperatures above 40.0°C. Younger vaccine recipients were more likely to use antipyretic or pain medication (28% after dose 1; 45% after dose 2) than older vaccine recipients (20% after dose 1; 38% after dose 2), and placebo recipients were less likely (10 to 14%) than vaccine recipients to use the medications, The diagram represents all enrolled participants through November 14, 2020. The safety subset (those with a median of 2 months of follow-up, in accordance with application requirements for Emergency Use Authorization) is based on an October 9, 2020, data cutoff date. The further procedures that one participant in the placebo group declined after dose 2 (lower right corner of the diagram) were those involving collection of blood and nasal swab samples. regardless of age or dose. Systemic events including fever and chills were observed within the first 1 to 2 days after vaccination and resolved shortly thereafter. Daily use of the electronic diary ranged from 90 to 93% for each day after the first dose and from 75 to 83% for each day after the second dose. No difference was noted between the BNT162b2 group and the placebo group.
+
+----
+
+TITLE PARAGRAPH: Adverse Events
+Adverse event analyses are provided for all enrolled 43,252 participants, with variable followup time after dose 1 (Table 
+Vaccine efficacy among participants with hypertension was analyzed separately but was consistent with the other subgroup analyses (vaccine efficacy, 94.6%; 95% CI, 68.7 to 99.9; case split: BNT162b2, 2 cases; placebo, 44 cases). Figure 
+
+----
+
+TITLE PARAGRAPH: Discussion
+A two-dose regimen of BNT162b2 (30 μg per dose, given 21 days apart) was found to be safe and 95% effective against Covid-19. The vaccine met both primary efficacy end points, with more than a 99.99% probability of a true vaccine efficacy greater than 30%. These results met our prespecified success criteria, which were to establish a probability above 98.6% of true vaccine efficacy being greater than 30%, and greatly exceeded the minimum FDA criteria for authorization. 
+The cumulative incidence of Covid-19 cases over time among placebo and vaccine recipients begins to diverge by 12 days after the first dose, 7 days after the estimated median viral incubation period of 5 days, 
+The data presented in this report have significance beyond the performance of this vaccine candidate. The results demonstrate that Covid-19 can be prevented by immunization, * The total population without baseline infection was 36,523; total population including those with and those without prior evidence of infection was 40,137. † The surveillance time is the total time in 1000 person-years for the given end point across all participants within each group at risk for the end point. The time period for Covid-19 case accrual is from 7 days after the second dose to the end of the surveillance period. ‡ The credible interval for vaccine efficacy was calculated with the use of a beta-binomial model with prior beta (0.700102, 1) adjusted for the surveillance time. § Posterior probability was calculated with the use of a beta-binomial model with prior beta (0.700102, 1) adjusted for the surveillance time.  * Surveillance time is the total time in 1000 person-years for the given end point across all participants within each group at risk for the end point. The time period for Covid-19 case accrual is from 7 days after the second dose to the end of the surveillance period. † The confidence interval (CI) for vaccine efficacy is derived according to the Clopper-Pearson method, adjusted for surveillance time. ‡ Race or ethnic group was reported by the participants. "All others" included the following categories: American Indian or Alaska Native, Asian, Native Hawaiian or other Pacific Islander, multiracial, and not reported.
+The New England Journal of Medicine Downloaded from nejm.org on August 3, 2023. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+----
+
+DESCRIPTION TABLE: 
+None||BNT162b2||Placebo||Total||
+Characteristic||(N=18,860)||(N=18,846)||(N=37,706)||
+Sex -no. (%)||None||None||None||
+Male||9,639 (51.1)||9,436 (50.1)||19,075 (50.6)||
+Female||9,221 (48.9)||9,410 (49.9)||18,631 (49.4)||
+Race or ethnic group -no. (%) †||None||None||None||
+White||15,636 (82.9)||15,630 (82.9)||31,266 (82.9)||
+Black or African American||1,729 (9.2)||1,763 (9.4)||3,492 (9.3)||
+Asian||801 (4.2)||807 (4.3)||1,608 (4.3)||
+Native American or Alaska Native||102 (0.5)||99 (0.5)||201 (0.5)||
+Native Hawaiian or other Pacific Islander||50 (0.3)||26 (0.1)||76 (0.2)||
+Multiracial||449 (2.4)||406 (2.2)||855 (2.3)||
+Not reported||93 (0.5)||115 (0.6)||208 (0.6)||
+
+----
+
+DESCRIPTION TABLE: 
+None||None||None||None||None||None||Posterior||
+None||None||None||None||None||Vaccine Efficacy, %||Probability||
+None||None||None||None||None||(95% Credible||(Vaccine Efficacy||
+Efficacy End Point||None||BNT162b2||None||Placebo||Interval) ‡||>30%) §||
+None||No. of||Surveillance||No. of||Surveillance||None||None||
+None||Cases||Time (n) †||Cases||Time (n) †||None||None||
+None||None||(N=18,198)||None||(N=18,325)||None||None||
+Covid-19 occurrence at least||8||2.214 (17,411)||162||2.222 (17,511)||95.0 (90.3-97.6)||>0.9999||
+7 days after the second||None||None||None||None||None||None||
+dose in participants with-||None||None||None||None||None||None||
+out evidence of infection||None||None||None||None||None||None||
+None||None||(N=19,965)||None||(N=20,172)||None||None||
+Covid-19 occurrence at least||9||2.332 (18,559)||169||2.345 (18,708)||94.6 (89.9-97.3)||>0.9999||
+7 days after the second||None||None||None||None||None||None||
+dose in participants with||None||None||None||None||None||None||
+and those without evidence||None||None||None||None||None||None||
+of infection||None||None||None||None||None||None||
+
+----
+
+DESCRIPTION TABLE: The New England Journal of Medicine Downloaded from nejm.org on August 3, 2023. For personal use only. No other uses without permission. Copyright © 2020 Massachusetts Medical Society. All rights reserved. demonstration that RNA-based vaccines, which require only viral genetic sequence information to initiate development, are a major new tool to combat pandemics and other infectious disease outbreaks. The continuous phase 1/2/3 trial design may provide a model to reduce the protracted development timelines that have delayed the availability of vaccines against other infectious diseases of medical importance. In the context of the current, still expanding pandemic, the BNT162b2 vaccine, if approved, can contribute, together with other public health measures, to reducing the devastating loss of health,
+provide proof of concept that RNA-based vac-||provides a practical||
+cines are a promising new approach for protect-||None||
+ing humans against infectious diseases, and||None||
+demonstrate the speed with which an RNA-||None||
+based vaccine can be developed with a sufficient||None||
+investment of resources. The development of||None||
+BNT162b2 was initiated on January 10, 2020,||None||
+when the SARS-CoV-2 genetic sequence was re-||None||
+leased by the Chinese Center for Disease Control||None||
+and Prevention and disseminated globally by the||None||
+GISAID (Global Initiative on Sharing All Influ-||None||
+enza Data) initiative. This rigorous demonstration||None||
+of safety and efficacy less than 11 months later||None||
+
+----
+
+DESCRIPTION TABLE: 
+Efficacy End-Point||None||BNT162b2||None||Placebo||Vaccine Efficacy, %||
+Subgroup||None||(N=18,198)||None||(N=18,325)||(95% CI) †||
+None||None||Surveillance||None||Surveillance||None||
+None||No. of||Time||No. of||Time||None||
+None||Cases||(No. at Risk)*||Cases||(No. at Risk)*||None||
+Overall||8||2.214 (17,411)||162||2.222 (17,511)||95.0 (90.0-97.9)||
+Age group||None||None||None||None||None||
+16 to 55 yr||5||1.234 (9,897)||114||1.239 (9,955)||95.6 (89.4-98.6)||
+>55 yr||3||0.980 (7,500)||48||0.983 (7,543)||93.7 (80.6-98.8)||
+≥65 yr||1||0.508 (3,848)||19||0.511 (3,880)||94.7 (66.7-99.9)||
+≥75 yr||0||0.102 (774)||5||0.106 (785)||100.0 (-13.1-100.0)||
+Sex||None||None||None||None||None||
+Male||3||1.124 (8,875)||81||1.108 (8,762)||96.4 (88.9-99.3)||
+Female||5||1.090 (8,536)||81||1.114 (8,749)||93.7 (84.7-98.0)||
+Race or ethnic group ‡||None||None||None||None||None||
+White||7||1.889 (14,504)||146||1.903 (14,670)||95.2 (89.8-98.1)||
+Black or African American||0||0.165 (1,502)||7||0.164 (1,486)||100.0 (31.2-100.0)||
+All others||1||0.160 (1,405)||9||0.155 (1,355)||89.3 (22.6-99.8)||
+Hispanic or Latinx||3||0.605 (4,764)||53||0.600 (4,746)||94.4 (82.7-98.9)||
+Non-Hispanic, non-Latinx||5||1.596 (12,548)||109||1.608 (12,661)||95.4 (88.9-98.5)||
+Country||None||None||None||None||None||
+Argentina||1||0.351 (2,545)||35||0.346 (2,521)||97.2 (83.3-99.9)||
+Brazil||1||0.119 (1,129)||8||0.117 (1,121)||87.7 (8.1-99.7)||
+United States||6||1.732 (13,359)||119||1.747 (13,506)||94.9 (88.6-98.2)||
+
+----
+

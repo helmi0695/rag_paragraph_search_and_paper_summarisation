@@ -1,0 +1,185 @@
+ABSTRACT
+ Vaccines are needed to prevent coronavirus disease 2019 (Covid-19) and to protect persons who are at high risk for complications. The mRNA-1273 vaccine is a lipid nanoparticle-encapsulated mRNA-based vaccine that encodes the prefusion stabilized full-length spike protein of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes Covid-19.This phase 3 randomized, observer-blinded, placebo-controlled trial was conducted at 99 centers across the United States. Persons at high risk for SARS-CoV-2 infection or its complications were randomly assigned in a 1:1 ratio to receive two intramuscular injections of mRNA-1273 (100 μg) or placebo 28 days apart. The primary end point was prevention of Covid-19 illness with onset at least 14 days after the second injection in participants who had not previously been infected with SARS-CoV-2.The trial enrolled 30,420 volunteers who were randomly assigned in a 1:1 ratio to receive either vaccine or placebo (15,210 participants in each group). More than 96% of participants received both injections, and 2.2% had evidence (serologic, virologic, or both) of SARS-CoV-2 infection at baseline. Symptomatic Covid-19 illness was confirmed in 185 participants in the placebo group (56.5 per 1000 personyears; 95% confidence interval [CI], 48.7 to 65.3) and in 11 participants in the mRNA-1273 group (3.3 per 1000 person-years; 95% CI, 1.7 to 6.0); vaccine efficacy was 94.1% (95% CI, 89.3 to 96.8%; P<0.001). Efficacy was similar across key secondary analyses, including assessment 14 days after the first dose, analyses that included participants who had evidence of SARS-CoV-2 infection at baseline, and analyses in participants 65 years of age or older. Severe Covid-19 occurred in 30 participants, with one fatality; all 30 were in the placebo group. Moderate, transient reactogenicity after vaccination occurred more frequently in the mRNA-1273 group. Serious adverse events were rare, and the incidence was similar in the two groups.The mRNA-1273 vaccine showed 94.1% efficacy at preventing Covid-19 illness, including severe disease. Aside from transient local and systemic reactions, no safety concerns were identified.
+----
+
+TITLE PARAGRAPH: 
+T he emergence in December 2019 of a novel coronavirus, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has had devastating consequences globally. Control measures such as the use of masks, physical distancing, testing of exposed or symptomatic persons, contact tracing, and isolation have helped limit the transmission where they have been rigorously applied; however, these actions have been variably implemented and have proved insufficient in impeding the spread of coronavirus disease 2019 (Covid- 19), the disease caused by SARS-CoV-2. Vaccines are needed to reduce the morbidity and mortality associated with Covid-19, and multiple platforms have been involved in the rapid development of vaccine candidates. 
+
+----
+
+TITLE PARAGRAPH: Me thods
+
+----
+
+TITLE PARAGRAPH: Trial Oversight
+This phase 3 randomized, stratified, observerblinded, placebo-controlled trial enrolled adults in medically stable condition at 99 U.S. sites. Participants received the first trial injection between July 27 and October 23, 2020. The trial is being conducted in accordance with the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use, Good Clinical Practice guidelines, and applicable government regulations. The central institutional review board approved the protocol and the consent forms. All participants provided written informed consent before enrollment. Safety is reviewed by a protocol safety review team weekly and by an independent data and safety monitoring board on a continual basis. The trial Investigational New Drug sponsor, Moderna, was responsible for the overall trial design (with input from the Biomedical Advanced Research and Development Authority, the NIAID, the Covid-19 Prevention Network, and the trial cochairs), site selection and monitoring, and data analysis. Investigators are responsible for data collection. A medical writer funded by Moderna assisted in drafting the manuscript for submission. The authors vouch for the accuracy and completeness of the data and for the fidelity of the trial to the protocol. The trial is ongoing, and the investigators remain unaware of participantlevel data. Designated team members within Moderna have unblinded access to the data, to facilitate interface with the regulatory agencies and the data and safety monitoring board; all other trial staff and participants remain unaware of the treatment assignments.
+
+----
+
+TITLE PARAGRAPH: Participants, Randomization, and Data Blinding
+Eligible participants were persons 18 years of age or older with no known history of SARS-CoV-2 infection and with locations or circumstances that put them at an appreciable risk of SARS-CoV-2 infection, a high risk of severe Covid-19, or both. Inclusion and exclusion criteria are provided in the protocol (available with the full text of this article at NEJM.org). To enhance the diversity of the trial population in accordance with Food and Drug Administration Draft Guidance, site-selection and enrollment processes were adjusted to increase the number of persons from racial and ethnic minorities in the trial, in addition to the persons at risk for SARS-CoV-2 infection in the local population. The upper limit for stratification of enrolled participants considered to be "at risk for severe illness" at screening was increased from 40% to 50%. 
+
+----
+
+TITLE PARAGRAPH: Trial Vaccine
+The mRNA-1273 vaccine, provided as a sterile liquid at a concentration of 0.2 mg per milliliter, was administered by injection into the deltoid muscle according to a two-dose regimen. Injections were given 28 days apart, in the same arm, in a volume of 0.5 ml containing 100 μg of mRNA-1273 or saline placebo. 
+
+----
+
+TITLE PARAGRAPH: Safety Assessments
+Safety assessments included monitoring of solicited local and systemic adverse events for 7 days after each injection; unsolicited adverse reactions for 28 days after each injection; adverse events leading to discontinuation from a dose, from participation in the trial, or both; and medically attended adverse events and serious adverse events from day 1 through day 759. Adverse event grading criteria and toxicity tables are described in the protocol. Cases of Covid-19 and severe Covid-19 were continuously monitored by the data and safety monitoring board from randomization onward.
+
+----
+
+TITLE PARAGRAPH: Efficacy Assessments
+The primary end point was the efficacy of the mRNA-1273 vaccine in preventing a first occurrence of symptomatic Covid-19 with onset at least 14 days after the second injection in the per-protocol population, among participants who were seronegative at baseline. End points were judged by an independent adjudication committee that was unaware of group assignment. Covid-19 cases were defined as occurring in participants who had at least two of the following symptoms: fever (temperature ≥38°C), chills, myalgia, headache, sore throat, or new olfactory or taste disorder, or as occurring in those who had at least one respiratory sign or symptom (including cough, shortness of breath, or clinical or radiographic evidence of pneumonia) and at least one nasopharyngeal swab, nasal swab, or saliva sample (or respiratory sample, if the participant was hospitalized) that was positive for SARS-CoV-2 by reverse-transcriptase-polymerase-chain-reaction (RT-PCR) test. Participants were assessed for the presence of SARS-CoV-2-binding antibodies specific to the SARS-CoV-2 nucleocapsid protein (Roche Elecsys, Roche Diagnostics International) and had a nasopharyngeal swab for SARS-CoV-2 RT-PCR testing (Viracor, Eurofins Clinical Diagnostics) before each injection. SARS-CoV-2infected volunteers were followed daily, to assess symptom severity, for 14 days or until symptoms resolved, whichever was longer. A nasopharyngeal swab for RT-PCR testing and a blood sample for identifying serologic evidence of SARS-CoV-2 infection were collected from participants with symptoms of Covid-19.
+The consistency of vaccine efficacy at the primary end point was evaluated across various subgroups, including age groups (18 to <65 years of age and ≥65 years), age and health risk for severe disease (18 to <65 years and not at risk; 18 to <65 years and at risk; and ≥65 years), sex (female or male), race and ethnic group, and risk for severe Covid-19 illness. If the number of participants in a subgroup was too small, it was combined with other subgroups for the subgroup analyses.
+A secondary end point was the efficacy of mRNA-1273 in the prevention of severe Covid-19 as defined by one of the following criteria: respiratory rate of 30 or more breaths per minute; heart rate at or exceeding 125 beats per minute; oxygen saturation at 93% or less while the participant was breathing ambient air at sea level or a ratio of the partial pressure of oxygen to the fraction of inspired oxygen below 300 mm Hg; respiratory failure; acute respiratory distress syndrome; evidence of shock (systolic blood pressure <90 mm Hg, diastolic blood pressure <60 mm Hg, or a need for vasopressors); clinically significant acute renal, hepatic, or neurologic dysfunction; admission to an intensive care unit; or death. Additional secondary end points included the efficacy of the vaccine at preventing Covid-19 after a single dose or at preventing Covid-19 according to a secondary (CDC), less restrictive case definition: having any symptom of Covid-19 and a positive SARS-CoV-2 test by RT-PCR (see Table 
+
+----
+
+TITLE PARAGRAPH: Statistical Analysis
+For analysis of the primary end point, the trial was designed for the null hypothesis that the efficacy of the mRNA-1273 vaccine is 30% or less. A total of 151 cases of Covid-19 would provide 90% power to detect a 60% reduction in the hazard rate (i.e., 60% vaccine efficacy), with two planned interim analyses at approximately 35% and 70% of the target total number of cases (151) and with a one-sided O'Brien-Fleming boundary for efficacy and an overall one-sided error rate of 0.025. The efficacy of the mRNA-1273 vaccine could be demonstrated at either the interim or the primary analysis, performed when the target total number of cases had been observed. The Lan-DeMets alpha-spending function was used for calculating efficacy boundaries at each analysis. At the first interim analysis on November 15, 2020, vaccine efficacy had been demonstrated in accordance with the prespecified statistical criteria. The vaccine efficacy esti-mate, based on a total of 95 adjudicated cases (63% of the target total), was 94.5%, with a one-sided P value of less than 0.001 to reject the null hypothesis that vaccine efficacy would be 30% or less. The data and safety monitoring board recommendation to the oversight group and the trial sponsor was that the efficacy findings should be shared with the participants and the community (full details are available in the protocol and statistical analysis plan).
+Vaccine efficacy was assessed in the full analysis population (randomized participants who received at least one dose of mRNA-1273 or placebo), the modified intention-to-treat population (participants in the full analysis population who had no immunologic or virologic evidence of Covid-19 on day 1, before the first dose), and the per-protocol population (participants in the modified intention-to-treat population who received two doses, with no major protocol deviations). The primary efficacy end point in the interim and primary analyses was assessed in the perprotocol population. Participants were evaluated in the treatment groups to which they were assigned. Vaccine efficacy was defined as the percentage reduction in the hazard ratio for the primary end point (mRNA-1273 vs. placebo). A stratified Cox proportional hazards model was used to assess the vaccine efficacy of mRNA-1273 as compared with placebo in terms of the percentage hazard reduction. (Details regarding the analysis of vaccine efficacy are provided in the Methods section of the Supplementary Appendix.)
+Safety was assessed in all participants in the solicited safety population (i.e., those who received at least one injection and reported a solicited adverse event). Descriptive summary data (numbers and percentages) for participants with any solicited adverse events, unsolicited adverse events, unsolicited severe adverse events, serious adverse events, medically attended adverse events, and adverse events leading to discontinuation of the injections or withdrawal from the trial are provided by group. Two-sided 95% exact confidence intervals (Clopper-Pearson method) are provided for the percentages of participants with solicited adverse events. Unsolicited adverse events are presented according to the Medical Dictionary for Regulatory Activities (MedDRA), version 23.0, preferred terms and system organ class categories.
+To meet the regulatory agencies' requirement of a median follow-up duration of at least 2 months after completion of the two-dose regimen, a second analysis was performed, with an efficacy data cutoff date of November 21, 2020. This second analysis is considered the primary analysis of efficacy, with a total of 196 adjudicated Covid-19 cases in the per-protocol population, which exceeds the target total number of cases (151) specified in the protocol. This was an increase from the 95 cases observed at the first interim analysis data cutoff on November 11, 2020. Results from the primary analysis are pre-sented in this report. Subsequent analyses are considered supplementary.
+
+----
+
+TITLE PARAGRAPH: R esult s
+
+----
+
+TITLE PARAGRAPH: Trial Population
+Between July 27, 2020, and October 23, 2020, a total of 30,420 participants underwent randomization, and the 15,210 participants in each group were assigned to receive two doses of either placebo or mRNA-1273 (100 μg) (Fig. 
+
+----
+
+TITLE PARAGRAPH: Figure 1. Randomization and Analysis Populations.
+The data cutoff for the primary analysis occurred on November 25, 2020. The full analysis population consisted of participants who underwent randomization and received at least one dose of mRNA-1273 or placebo; the modified intention-to-treat population comprised participants in the full analysis population who had no immunologic or virologic evidence of Covid-19 on day 1, before the first dose; and the per-protocol analysis population included participants in the modified intention-to-treat population who received two doses, with no major protocol deviations. The safety population included all participants who received at least one injection. Among participants who received an incorrect injection, three participants in the mRNA-1273 group received at least one dose of placebo and no dose of mRNA-1273 and were included in the placebo safety population, and three received one dose of placebo and one dose of mRNA-1273 and were included in the mRNA-1273 safety population; in the placebo group all seven received mRNA-1273 and were included in the mRNA-1273 safety population. Participants who received dose 2 outside the window for the per-protocol analysis are those who did not receive the second dose between 7 days before and 14 days after day 29. More than 96% of participants received the second dose (Fig. 
+Baseline demographic characteristics were balanced between the placebo group and the mRNA-1273 vaccine group (Table 
+
+----
+
+TITLE PARAGRAPH: Safety
+Solicited adverse events at the injection site occurred more frequently in the mRNA-1273 group than in the placebo group after both the first dose (84.2%, vs. 19.8%) and the second dose (88.6%, vs. 18.8%) (Fig. 
+The frequency of unsolicited adverse events, unsolicited severe adverse events, and serious adverse events reported during the 28 days after injection was generally similar among participants in the two groups (Tables 
+
+----
+
+TITLE PARAGRAPH: Efficacy
+After day 1 and through November 25, 2020, a total of 269 Covid-19 cases were identified, with an incidence of 79.7 cases per 1000 person-years (95% confidence interval [CI], 70.5 to 89.9) among participants in the placebo group with no evidence of previous SARS-CoV-2 infection. For the primary analysis, 196 cases of Covid-19 were diagnosed: 11 cases in the vaccine group (3.3 per 1000 person-years; 95% CI, 1.7 to 6.0) and 185 cases in the placebo group (56.5 per 1000 person-years; 95% CI, 48.7 to 65.3), indicating 94.1% efficacy of the mRNA-1273 vaccine (95% CI, 89.3 to 96.8%; P<0.001) for the prevention of symptomatic SARS-CoV-2 infection as compared with placebo (Fig. 
+A key secondary end point evaluated the efficacy of mRNA-1273 at preventing severe Covid-19. Thirty participants in the trial had severe Covid-19; all 30 were in the placebo group (indicating vaccine efficacy of 100% [95% CI, could not be estimated to 1.0]), and one death among these participants was attributed to Covid-19 (Table 
+The New England Journal of Medicine Downloaded from nejm.org on August 3, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.  group), one case of Covid-19 was diagnosed by RT-PCR testing in a placebo recipient and no cases were diagnosed in mRNA-1273 recipients (Table 
+
+----
+
+TITLE PARAGRAPH: Discussion
+The COVE trial provides evidence of short-term efficacy of the mRNA-1273 vaccine in preventing symptomatic SARS-CoV-2 infection in a diverse adult trial population. Of note, the trial was designed for an infection attack rate of 0.75%, which would have necessitated a follow-up period of 6 months after the two vaccine doses to accrue 151 cases in 30,000 participants. The pandemic trajectory accelerated in many U.S. regions in the late summer and fall of 2020, resulting in rapid accrual of 196 cases after a median follow-up of 2 months. It is important to note that all the severe Covid-19 cases were in the placebo group, which suggests that mRNA-1273 is likely to have an effect on preventing severe illness, which is the major cause of health care utilization, complications, and death. The finding of fewer occurrences of symptomatic SARS-CoV-2 infection after a single dose of mRNA-1273 is encouraging; however, the trial was not designed to evaluate the efficacy of a single dose, and additional evaluation is warranted.
+The magnitude of mRNA-1273 vaccine efficacy at preventing symptomatic SARS-CoV-2 infection is higher than the efficacy observed for vaccines for respiratory viruses, such as the inactivated influenza vaccine against symptomatic, virologically confirmed disease in adults, for which studies have shown a pooled efficacy of 59%. 
+Overall, the safety of the mRNA-1273 vaccine regimen and platform is reassuring; no unexpected patterns of concern were identified. The reactogenicity associated with immunization with mRNA-1273 in this trial is similar to that in the phase 1 data reported previously. 
+The New England Journal of Medicine Downloaded from nejm.org on August 3, 2023. For personal use only. No other uses without permission.
+Copyright © 2021 Massachusetts Medical Society. All rights reserved.
+n engl j med 384;5 nejm.org February 4, 2021 8 days or more after injection, were uncommon. The overall incidence of unsolicited adverse events reported up to 28 days after vaccination and of serious adverse events reported throughout the entire trial was similar for mRNA-1273 and placebo. A risk of acute hypersensitivity is sometimes observed with vaccines; however, no such risk was evident in the COVE trial, although the ability to detect rare events is limited, given the trial sample size. The anecdotal finding of a slight excess of Bell's palsy in this trial and in the BNT162b2 vaccine trial arouses concern that it may be more than a chance event, and the possibility bears close monitoring. 
+Key limitations of the data are the short duration of safety and efficacy follow-up. The trial is ongoing, and a follow-up duration of 2 years is planned, with possible changes to the trial design to allow participant retention and ongoing data collection. Another limitation is the lack of an identified correlate of protection, a critical tool for future bridging studies. As of the data cutoff, 11 cases of Covid-19 had occurred in the mRNA-1273 group, a finding that limits our ability to detect a correlate of protection. As cases accrue and immunity wanes, it may be- The efficacy of the RNA-1273 vaccine in preventing Covid-19 in various subgroups in the per-protocol population was based on adjudicated assessments starting 14 days after the second injection. Vaccine efficacy, defined as 1 minus the hazard ratio (mRNA-1273 vs. placebo), and 95% confidence intervals were estimated with the use of a stratified Cox proportional hazards model, with Efron's method of tie handling and with the treatment group as a covariate, adjusting for stratification factor if applicable. Race and ethnic group categories shown are White (non-Hispanic) and communities of color (all others, excluding those whose race and ethnicity were both reported as unknown, were not reported, or were both missing at screening). Data for communities of color were pooled owing to limited numbers of participants in each racial or ethnic group, to ensure that the subpopulations would be large enough for meaningful analyses. come possible to determine such a correlate. In addition, although our trial showed that mRNA-1273 reduces the incidence of symptomatic SARS-CoV-2 infection, the data were not sufficient to assess asymptomatic infection, although our results from a preliminary exploratory analysis suggest that some degree of prevention may be afforded after the first dose. Evaluation of the incidence of asymptomatic or subclinical infection and viral shedding after infection are under way, to assess whether vaccination affects infectiousness. The relatively smaller numbers of cases that occurred in older adults and in participants from ethnic or racial minorities and the small number of previously infected persons who received the vaccine limit efficacy evaluations in these groups. Longer-term data from the ongoing trial may allow a more careful evaluation of the vaccine efficacy in these groups. Pregnant women and children were excluded from this trial, and additional evaluation of the vaccine in these groups is planned.
+Within 1 year after the emergence of this novel infection that caused a pandemic, a pathogen was determined, vaccine targets were identified, vaccine constructs were created, manufacturing to scale was developed, phase 1 through phase 3 testing was conducted, and data have been reported. This process demonstrates what is possible in the context of motivated collaboration among key sectors of society, including academia, government, industry, regulators, and the larger community. Lessons learned from this endeavor should allow us to better prepare for the next pandemic pathogen. Disclosure forms provided by the authors are available with the full text of this article at NEJM.org.
+A data sharing statement provided by the authors is available with the full text of this article at NEJM.org.
+
+----
+
+DESCRIPTION TABLE: 
+
+----
+
+DESCRIPTION TABLE: The New England Journal of Medicine Downloaded from nejm.org on August 3, 2023. For personal use only. No other uses without permission.Copyright © 2021 Massachusetts Medical Society. All rights reserved.Efficacy and Safety of mRNA-1273 SARS-CoV-2 Vaccine
+None||30,420 Participants underwent||None||
+None||randomization (1:1)||None||
+None||15,210 Were assigned to receive||15,210 Were assigned to receive||None||
+None||two doses of mRNA-1273,||placebo||None||
+None||100 µg each||None||None||
+15,185 Were included in the||15,181 Received at least one||15,170 Received at least one||15,166 Were included in the||
+safety analysis||dose and were included||dose and were included||safety analysis||
+None||in the full analysis set||in the full analysis set||None||
+None||29 Did not receive any||40 Did not receive any||None||
+None||injection||injection||None||
+14,550 Were included in the||14,598 Were included in the||None||
+None||modified intention-to-||modified intention-to-||None||
+None||treat population||treat population||None||
+None||631 Were SARS-CoV-2-positive||572 Were SARS-CoV-2-positive||None||
+None||at baseline or had missing||at baseline or had missing||None||
+None||data and were excluded||data and were excluded||None||
+416 Were excluded from per-protocol analysis||525 Were excluded from per-protocol analysis||
+6 Received an incorrect mRNA injection||7 Received incorrect injection||
+168 Discontinued without receiving dose 2||231 Discontinued without receiving dose 2||
+93 Received dose 2 outside dose 2 window||109 Received dose 2 outside dose 2 window||
+138 Did not receive dose 2, or were out||None||154 Did not receive dose 2, or were out||
+of window for per-protocol analysis||None||of window for per-protocol analysis||
+11 Had other major deviations from protocol||24 Had other major deviations from protocol||
+None||14,134 Were included in the||14,073 Were included in the||None||
+None||per-protocol analysis||per-protocol analysis||None||
+
+----
+
+DESCRIPTION TABLE: 
+
+----
+
+DESCRIPTION TABLE: 
+None||None||None||None||None||None||None||Vaccine Efficacy||Incidence Rate||None||None||None||
+None||None||None||None||None||None||None||(95% CI)||(95% CI)||None||None||None||
+None||None||None||None||None||None||None||%||None||per 1000 person-yr||None||None||None||
+None||None||None||None||None||Placebo||None||None||None||56.5 (48.7-65.3)||None||None||None||
+None||None||None||None||None||mRNA-1273||94.1 (89.3-96.8)||3.3 (1.7-6.0)||None||None||None||
+None||None||None||None||None||None||None||None||None||None||None||None||Placebo||
+None||None||None||None||None||None||None||None||None||None||None||None||mRNA-1273||
+None||None||None||None||None||30||None||50||None||70||None||90||100||110||
+No. at Risk||None||None||None||None||None||None||None||None||None||None||None||None||
+Placebo||None||14,073||14,073||14,073||14,072||13,416||12,992||12,361||11,147||9474||6563||3971||1172||0||
+mRNA-1273||14,134||14,134||14,134||14,133||13,483||13,073||12,508||11,315||9684||6721||4094||1209||0||
+None||3.5||None||None||None||None||Vaccine Efficacy (95% CI)||Incidence Rate (95% CI)||None||Placebo||
+None||None||None||None||None||None||None||%||None||per 1000 person-yr||None||None||None||
+None||3.0||None||None||Placebo||None||None||None||79.7 (70.5-89.9)||None||None||None||
+Cumulative Event Rate (%)||2.5 2.0 1.5 1.0||None||None||mRNA-1273||93.0 (88.9-95.6)||5.6 (3.4-8.8)||None||None||None||
+None||0.5||None||None||None||None||None||None||None||None||None||mRNA-1273||
+None||0.0||None||None||None||None||None||None||None||None||None||None||None||
+None||None||0||10||20||30||40||50||60||70||80||90||100||110||120||
+None||None||None||None||None||None||None||Days since Randomization||None||None||None||None||
+No. at Risk||None||None||None||None||None||None||None||None||None||None||None||None||
+Placebo||None||14,598||14,590||14,567||14,515||13,806||13,352||12,694||11,450||9736||6729||4067||1200||0||
+mRNA-1273||14,550||14,543||14,532||14,504||13,825||13,398||12,791||11,573||9911||6871||4179||1238||0||
+None||None||None||None||None||None||None||None||None||Placebo||None||mRNA-1273||None||
+None||None||None||None||Covid-19 Onset||None||(N=14,598)||None||(N=14,550)||None||
+None||None||None||Randomization to 14 days after dose 1||None||11||None||None||5||None||
+None||None||None||14 Days after dose 1 to dose 2||None||None||35||None||None||2||None||
+None||None||None||Dose 2 to 14 days after dose 2||None||None||19||None||None||0||None||
+None||None||None||Starting 14 days after dose 2||None||None||204||None||None||12||None||
+None||None||None||Total (any time after randomization)||None||269||None||None||19||None||
+
+----
+
+DESCRIPTION TABLE: The New England Journal of Medicine Downloaded from nejm.org on August 3, 2023. For personal use only. No other uses without permission.Copyright © 2021 Massachusetts Medical Society. All rights reserved.
+None||Placebo||mRNA-1273||None||None||
+Subgroup||(N=14,073)||(N=14,134)||None||Vaccine Efficacy (95% CI)||
+None||no. of events/total no.||None||None||
+All patients||185/14,073||11/14,134||None||None||94.1 (89.3-96.8)||
+Age||None||None||None||None||
+≥18 to <65 yr||156/10,521||7/10,551||None||None||95.6 (90.6-97.9)||
+≥65 yr||29/3552||4/3583||None||None||86.4 (61.4-95.2)||
+Age, risk for severe Covid-19||None||None||None||None||
+18 to <65 yr, not at risk||121/8403||5/8396||None||None||95.9 (90.0-98.3)||
+18 to <65 yr, at risk||35/2118||2/2155||None||None||94.4 (76.9-98.7)||
+≥65 yr||29/3552||4/3583||None||None||86.4 (61.4-95.2)||
+Sex||None||None||None||None||
+Male||87/7462||4/7366||None||None||95.4 (87.4-98.3)||
+Female||98/6611||7/6768||None||None||93.1 (85.2-96.8)||
+At risk for severe Covid-19||None||None||None||None||
+Yes||43/3167||4/3206||None||None||90.9 (74.7-96.7)||
+No||142/10,906||7/10,928||None||None||95.1 (89.6-97.7)||
+Race and ethnic group||None||None||None||None||
+White||144/8916||10/9023||None||None||93.2 (87.1-96.4)||
+Communities of color||41/5132||1/5088||None||None||97.5 (82.2-99.7)||
+None||None||0||25||50||75||100||
+
+----
+

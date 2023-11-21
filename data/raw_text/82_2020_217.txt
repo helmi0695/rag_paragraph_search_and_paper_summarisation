@@ -1,0 +1,231 @@
+ABSTRACT
+ mRNA vaccines have become a versatile technology for the prevention of infectious diseases and the treatment of cancers. In the vaccination process, mRNA formulation and delivery strategies facilitate effective expression and presentation of antigens, and immune stimulation. mRNA vaccines have been delivered in various formats: encapsulation by delivery carriers, such as lipid nanoparticles, polymers, peptides, free mRNA in solution, and ex vivo through dendritic cells. Appropriate delivery materials and formulation methods often boost the vaccine efficacy which is also influenced by the selection of a proper
+----
+
+TITLE PARAGRAPH: Introduction
+Since the first use of in vitro transcribed messenger RNA (mRNA) to express an exogenous protein in mice in 1990 
+Several features of in vitro transcribed mRNA contribute to its vaccine potential. First, the development process of an mRNA vaccine can be much faster than conventional protein vaccines 
+The mRNAs used as vaccines can be categorized into conventional mRNAs and self-amplifying mRNAs. Conventional mRNAs are similar to endogenous mRNAs in mammalian cells, consisting of a 5' cap, 5' UTR, coding region, 3' UTR, and a polyadenylated tail 
+Three major types of proteins are encoded by mRNA vaccines: antigens 
+Advances in recent years made mRNA a promising vaccine platform. For example, chemical modifications of RNA using nucleotide analogs, such as pseudouridine, dramatically increased protein production in vivo by diminishing the translation inhibition triggered by the unmodified nucleotides 
+In this chapter, we summarize the routes of administrations for mRNA vaccines, discuss mRNA delivery carriers and their corresponding formulation methods, and overview the challenges and future development of mRNA vaccines. A comprehensive overview of recent advances in mRNA vaccine delivery may facilitate the future development of novel delivery strategies and effective mRNA vaccines.
+
+----
+
+TITLE PARAGRAPH: Administration Routes for mRNA Vaccines
+The administration route for mRNA vaccines plays an important role in determining vaccination efficacy 
+Intradermal (ID) injection delivers mRNA vaccines directly into the dermis region, which is dense connective tissue (Fig. 
+Subcutaneous (SC) injection administers mRNA vaccines to the subcutis region under the epidermis and dermis (Fig. 
+Intramuscular (IM) injection delivers the vaccine into muscles, a deeper tissue under the dermal and subcutaneous layer (Fig. 
+Intranodal (IN) injection directly introduces mRNA vaccines to the peripheral lymphoid organs where APCs and primed T or B cells interact (Fig 
+Mucosal delivery of mRNA vaccines was studied because of the accessible APCs in lymphoid organs at the mucosal sites and their protective roles against various pathogens. Among the mucosal administration routes, intranasal and intravaginal administrations were utilized to deliver mRNA vaccines 
+Intravenous (IV) injection delivers mRNA vaccines into the systemic circulation (Fig. 
+In summary, the biological features of different administration routes may impact the safety and efficacy of vaccination. Table 
+3 Delivery Strategies for mRNA Vaccines
+Researchers have investigated many methods to deliver mRNA vaccines. For example, delivery carriers, such as lipid-derived and polymer-derived materials, dramatically increased cellular uptake of RNAs, thus receiving tremendous attention in recent years 
+
+----
+
+TITLE PARAGRAPH: Delivery Carriers of mRNA Vaccines
+
+----
+
+TITLE PARAGRAPH: Lipid-based Delivery
+Lipids, lipid-like compounds, and lipid derivatives have been widely used to formulate lipid and lipid-derived nanoparticles (LNPs) for in vivo delivery of mRNA vaccines 
+The LNPs usually contain one or more of the functional lipid components that are crucial for the intracellular RNA delivery described above 
+The formulation methods of lipid-based mRNA vaccines mainly include thin-film hydration 
+# FORMULA: PS phosphatidylserine, PC phosphatidylcholine, DLinDMA N,N-Dimethyl-2,3-bis[(9Z,12Z)-octadeca-9,12-dienyloxy] propan-1-amine, DSPC 1,2-distearoyl-sn-glycero-3-phosphocholine, DMG-PEG 1,2-dimyristoyl-rac-glycero-3-methoxypolyethylene glycol, DOPE 1,2-dioleoyl-sn-glycero-3-phosphoethanolamine, DOTMA 1,2-di-O-octadecenyl-3-trimethylammonium propane, EDOPC 1,2-dioleoyl-sn-glycero-3-ethylphosphocholine, DSPE 1,2-distearoyl-sn-glycero-3-phosphoethanolamine, PbAE poly-(b-amino ester) polymer, A18 ethyl 1- (3-(2-ethylpiperidin-1-yl)propyl)-5,5-di((Z)-heptadec-8-en-1-yl)-2,5-dihydro-1H-imidazole-2-carboxylate, DOTAP 1,2-dioleoyl-3-trimethylammonium propane, TT3 N ,N ,N -tris(3-(didodecylamino)propyl)benzene-1,3,5-tricarboxamide
+mRNA-LNP at the interface 
+Compared to other preparation methods, the use of continuous-flow microfluidic devices increases reproducibility, improves molecular stability, reduces the chance of contamination, and is easily scaled up for preclinical and clinical studies 
+The delivery routes of lipid-based mRNA vaccines include IM, ID, SC, IN, and IV injection 
+Overall, LNPs-based mRNA vaccines have shown efficacy in preventing infectious diseases and treating cancers in preclinical and early-stage clinical studies 
+
+----
+
+TITLE PARAGRAPH: Polymer-based Delivery
+Polymeric materials, including polyamines, dendrimers, and copolymers, are functional materials capable of delivering mRNA vaccines. Similar to functional lipid-based carriers, polymers can also protect RNA from RNase-mediated degradation and facilitate intracellular delivery 
+Cationic polymers, such as polyethylenimine (PEI), polyamidoamine (PAMAM) dendrimer, and polysaccharide, condensed and delivered negatively charged RNA molecules 
+Besides cationic polymer materials, anionic polymers, such as PLGA, were also used to deliver mRNA vaccines. Since an anionic polymer was not able to efficiently encapsulate the negatively charged mRNA molecules, cationic lipid materials were added to create lipid-polymer hybrid formulations 
+In general, the mRNA vaccines delivered by polymer materials showed therapeutic effects in preclinical studies. New functional polymers, with improved biodegradability and delivery efficiency, are needed for clinical translation of the polymer-based mRNA vaccines.
+
+----
+
+TITLE PARAGRAPH: Peptide-based Delivery
+Various peptides are used as carriers to deliver mRNA vaccines. Peptides themselves are also a large class of vaccine agents, which have been reviewed in the literature 
+Peptides, when used as the primary carrier for RNA delivery, should be positively charged. Cationic peptides contain many lysine and arginine residues that provide positively charged amino groups, therefore enabling complexing with nucleic acids through electrostatic interactions 
+Protamine is a cationic peptide used in many early studies for the delivery of mRNA vaccines. In solution, protamine and mRNA spontaneously form a complex, the size of which is dependent on NaCl concentration 
+Cationic cell-penetrating peptides (CPPs) can complex with RNA. Although many CPPs were used in gene therapies [reviewed by 
+Anionic peptides were also utilized to deliver mRNA vaccines in vitro. Anionic peptides cannot complex RNA due to their negative charges. Therefore, they were conjugated to positively charged polymers which served as scaffolds for RNA encapsulation. For example, an OVA-mRNA was first encapsulated with a random copolymer p(HPMA-DMAE-co-PDTEMA-co-AzEMAm) (pHDPA) containing azide group 
+In summary, protamine was the only peptide carrier evaluated in clinical trials of mRNA vaccines. In these trials, the protamine-mRNA complex and a naked mRNA were injected simultaneously via ID or IM routes 
+
+----
+
+TITLE PARAGRAPH: Virus-Like Replicon Particle
+Viral particles can package and deliver antigen-encoding self-amplifying mRNA into cytoplasm like a virus in a method called virus-like self-amplifying mRNA particle, i.e., virus-like replicon particle (VRP) 
+However, there are two challenges for VRP-based mRNA vaccines. The first challenge is to scale up the production which is limited by the process of generating VRPs from packaging cell lines 
+
+----
+
+TITLE PARAGRAPH: Cationic Nanoemulsion
+Cationic nanoemulsion (CNE) combines nanoemulsion with cationic lipids for RNA delivery. Nanoemulsion utilizes hydrophobic and hydrophilic surfactants to stabilize the oil core in the aqueous phase, thereby generating particles. Nanoemulsion can be induced by various methods, such as vigorous agitation, ultrasound, and microfluidics. 
+
+----
+
+TITLE PARAGRAPH: Naked mRNA Vaccines
+The mRNA vaccines can be delivered without any additional carrier, namely in a naked format. This method dissolves mRNA into a buffer and then injects the mRNA solution directly. The feasibility of naked RNA delivery in vivo was reported in an early effort in which a naked mRNA was delivered to mice by intramuscular injection 
+The naked mRNA vaccine has two prominent features. One feature is the ease to store and prepare. In the presence of a storage reagent, such as 10% trehalose, freeze-dried naked RNA remains stable in the refrigerator temperature (4 °C) for up to 10 months 
+When developing naked mRNA vaccines, the buffer is an essential component to be chosen carefully. Ringer's solution 
+Naked mRNA vaccines are more susceptible to the delivery obstacles, namely, RNase degradation and intracellular delivery 
+In recent clinical trials, naked mRNA vaccines were administered via ultrasound-guided intranodal injection 
+
+----
+
+TITLE PARAGRAPH: Dendritic Cells-Based mRNA Vaccines
+Therapeutic vaccination needs to effectively elicit the body's adaptive immunity. During the initial development of adaptive immune response, antigen-presenting cells (APCs) internalize, process and present antigens to functional lymphocytes. As the most efficient APCs, dendritic cells (DCs) can present antigens processed from various sources, for example, the captured microorganisms, virus-infected cells, and tumor cells 
+Autologous DCs from primary human PBMC are the main sources for preparing mRNA-treated DCs for in vivo applications 
+To deliver mRNAs into DCs, several strategies, such as electroporation and lipid-derived carriers, were employed 
+The routes for administration of mRNA-loaded DCs mainly include ID, SC, IV, and IN injections 
+In summary, the DC-based mRNA vaccines have shown efficacy in many preclinical and clinical studies. In one recent clinical trial (NCT00639639), the long-term progression-free survival (PFS) and overall survival (OS) were significantly increased in glioblastoma patients who were injected intradermally with autologous DCs pulsed with an antigen-encoding mRNA 
+Taken together, the formulation and delivery of mRNA vaccines have been extensively studied. The delivery formats and delivery materials described above have advanced to various stages of preclinical and clinical studies. However, each delivery technology has its advantages and challenges which are summarized in Table 
+
+----
+
+TITLE PARAGRAPH: Co-delivery of mRNA Vaccines
+Several mRNA molecules can be co-delivered to trigger synergic effects in vaccination. Co-delivery of mRNA vaccines enables either assembly of protein complexes, generation of multivalent mRNA vaccines, or better immune response against one specific target. The co-delivered mRNAs can be a combination of conventional mRNAs and/or self-amplifying mRNAs. There are many co-delivery options. Several mRNAs can be delivered naked or formulated, complexed together or individually, and injected through different routes at different times. In this section, we summarize the recent results for the co-delivery of mRNA vaccines, including delivery formats, dose ratios, formulation methods, and injection routes of the components. Table 
+
+----
+
+TITLE PARAGRAPH: Co-delivery of mRNAs to Assemble Protein Complexes
+Antibodies, such as immunoglobulin G (IgG), and some antigens are assembled from more than one single-chain protein subunits. Co-delivery of mRNAs is an option to express these multi-subunit proteins to provide passive immunity or stimulate adaptive immune responses. All subunits need to be translated into one cell and assembled into a complex in the endoplasmic reticulum (ER), followed by translocation to their destinations 
+
+----
+
+TITLE PARAGRAPH: Co-delivery of mRNAs Encoding Multiple Antigens
+Two or more independent antigen-coding mRNAs can be co-delivered to enhance and broaden immune responses. To enhance immunity against one target, six VEEV self-amplifying mRNAs each encoding one antigen from the same parasite, Toxoplasma gondii, were co-formulated in an equal molar ratio by a PEI-based monodispersed ionizable dendrimer nanoparticle. IM injection of the co-formulated self-amplifying mRNA vaccine protected mice from the lethal challenge 
+To broaden immunity with a multivalent mRNA vaccine, three self-amplifying mRNAs encoding hemagglutinin (HA) from three different influenza virus strains were formulated by a medium-length PEI in equal mass, co-delivered to mice intramuscularly, and protected mice against viral challenge 
+When co-delivering several antigen-encoding mRNAs, one challenge is to elicit potent specific immune responses to every antigen. The immunostimulatory activity of each antigen may be different. For example, two influenza virus antigens, nucleoprotein, and matrix protein 1 (M1) were expressed from two self-amplifying mRNAs 
+Even if each mRNA-encoded antigen triggers sufficient immune response when used alone, the co-delivery of several antigens may lead to competition in epitope presentation and diminished response. For example, one group generated seven antigen-encoding mRNAs in order to develop one anti-hCMV mRNA vaccine 
+
+----
+
+TITLE PARAGRAPH: Co-delivery of mRNAs Encoding Antigens and Immunostimulatory Proteins
+While antigen-encoding mRNAs trigger the adaptive immune response, co-delivery of mRNAs encoding immunostimulatory proteins boost innate response to enhance vaccine efficacy. For example, a recent vaccine study against influenza A virus employed two self-amplifying mRNAs: one encoding the influenza A virus nucleoprotein antigen and the other encoding murine immunostimulatory GM-CSF 
+In one approach named TriMix, three protein-coding conventional mRNAs were used as immune-stimulators to enhance the dendritic cell-mediated immune response against cancer 
+However, the total amount of the three mRNAs varied depending on specific applications and delivery routes. One mRNA encoding an antigen was commonly mixed with the three mRNAs and administered simultaneously to initiate specific immunity. The dose of the antigen-encoding mRNA was equal or several-fold larger than each of the three mRNAs encoding immunostimulatory proteins 
+Another method of co-delivering mRNAs vaccines was called RNActive 
+Overall, the co-delivery of multiple mRNAs is a promising vaccination strategy. However, optimization is essential to determine the appropriate antigens to be expressed, delivery material, formulation method, mass ratio of components, and administration route. It is also necessary to examine whether the antigens expressed from the co-delivered mRNAs interfere with each other. If such interference is detected, modification of vaccination procedure, such as injection time, is likely needed to improve immune response.
+
+----
+
+TITLE PARAGRAPH: Current Challenges and Future Perspectives
+While many carriers are effective in delivering mRNA vaccines in preclinical studies and clinical trials, there are still challenges to be addressed. The first challenge is delivery efficiency. During the delivery process, a large portion of RNA-loaded carriers is trapped in endosome/lysosome or recycled out of cells by exocytosis 
+Meanwhile, the molecular mechanisms of the delivery process demand further investigation 
+
+----
+
+TITLE PARAGRAPH: Conclusion
+mRNA has demonstrated its potential as a vaccine platform. In clinical trials, mRNA vaccines encoding antigen proteins from rabies virus, influenza virus, and cancers induced humoral and cellular responses in healthy volunteers and patients 
+
+----
+
+DESCRIPTION TABLE: Major delivery routes of mRNA vaccines
+Delivery||Access to APCs||Maximum injection volume per||Advantages 3||Challenges 4||
+route||and lymphoid||site||None||None||None||
+None||organs||Human 1||Mouse 2||None||None||
+Intradermal||• Dermal DC||*0.1 mL||*0.05 mL||• Direct access to||• Local side||
+None||• Lymph node DC||None||None||APCs||effect,||
+None||• Lymph node||None||None||None||• Limited||
+None||None||None||None||None||injection||
+None||None||None||None||None||volume||
+Subcutaneous • Dermal DC||*1 mL||*0.8 mL total at||• Larger injection||• Degradation||
+None||• Lymph node DC||(Adult),||2-3 sites a||volume (than ID)||of mRNA||
+None||• Lymph node||*0.5 mL||None||• Less local side effect||None||
+None||None||(Child)||None||None||None||
+Intramuscular • DC||1-3 mL||0.05 mL per site,||• Less local side effect||• Limited||
+None||• Lymph node||(Adult),||maximum of 2-4||• Dense blood||injection||
+None||None||0.5-2 mL||sites||networks||volume||
+None||None||(Child)||None||None||None||
+Intranodal||• Lymph node DC||*0.2 mL||0.01-0.02 mL||• High delivery||• Complicated||
+None||• Lymph node||None||None||efficiency||procedures||
+Intravenous||• Splenic DC||*20 mL||*0.1 mL (bolus) a||• Large injection||• Degradation||
+None||• Lymph node DC||(bolus)||*0.5 mL (slow) a||volume||of mRNA||
+None||• Spleen||None||None||• Direct access to||• Risk of||
+None||• Lymph node||None||None||APCs and lymphoid||systemic||
+None||None||None||None||organs||side effect||
+a based on a 20-g mouse||None||None||None||None||
+1, de Vries et al. (2005), Doyle and McCuteheon (2015), Sienkiewicz and Palmunen (2017)||None||
+2, Diehl et al. (2001)||None||None||None||None||
+3, Diehl et al. (2001), Moyer et al. (2016), Kashem et al. (2017), Liang et al. (2017), Sienkiewicz and Palmunen (2017)||
+4,||None||None||None||None||None||
+
+----
+
+DESCRIPTION TABLE: 
+lists representative in vivo delivery of||
+mRNA vaccines by LNPs. LNPs are developed for mRNA vaccine delivery for the||
+following two main reasons. Firstly, LNPs can encapsulate RNA molecules, pro-||
+tecting RNA from enzymatic degradation||
+
+----
+
+DESCRIPTION TABLE: Lipid-based nanoparticles (LNPs) delivery of mRNA vaccines in vivo
+
+----
+
+DESCRIPTION TABLE: Summary of the delivery strategies of mRNA vaccines
+Delivery||Advantages||Challenges||Readiness||
+format||None||None||for human a||
+Lipid-based||• Protect mRNA from RNase||• Potential side effects||Clinical||
+nanoparticles||degradation||None||trials||
+None||• Efficient intracellular||None||None||
+None||delivery of mRNA||None||None||
+None||• High reproducibility||None||None||
+None||• Easy to scale up||None||None||
+Polymer-based||• Protect mRNA from RNase||• Potential side effects||Preclinical||
+nanoparticles||degradation||• Polydispersity||mouse||
+None||• Efficient intracellular||None||model||
+None||delivery of mRNA||None||None||
+Protamine||• Protect mRNA from RNase||• Low delivery||Clinical||
+None||degradation||efficiency||trials||
+None||• Protamine-mRNA complex||• mRNA complexed||None||
+None||has adjuvant activity||with protamine is||None||
+None||None||translated poorly||None||
+Other peptides||• Protect mRNA from RNase||• Low delivery||Preclinical||
+None||degradation||efficiency||mouse||
+None||• Peptides offer many||None||model||
+None||functions to be exploited||None||None||
+Virus-like||• Protect mRNA from RNase||• Challenging to scale||Clinical||
+replicon||degradation||up||trials||
+particle||• Efficient intracellular||• Antibody production||None||
+None||delivery of self-amplifying||against viral vectors||None||
+None||mRNA||None||None||
+None||• Strong expression||None||None||
+Cationic||• Protect mRNA from RNase||• Limited delivery||Preclinical||
+Nanoemulsion||degradation||efficiency||mouse||
+None||• Squalene-based CNEs have||None||model||
+None||adjuvant activity||None||None||
+None||• Formulation can be prepared||None||None||
+None||and stored without RNA for||None||None||
+None||future use||None||None||
+None||• Easy to scale up||None||None||
+None||None||None||(continued)||
+
+----
+
+DESCRIPTION TABLE: 
+(continued)||None||None||
+Delivery||Advantages||Challenges||Readiness||
+format||None||None||for human a||
+Naked mRNA||• Easy to store and prepare||• Prone to RNase||Clinical||
+None||• Easy to scale up||degradation||trials||
+None||None||• Low delivery||None||
+None||None||efficiency||None||
+DCs||• Efficient APCs critical for||• Heterogeneous cell||Clinical||
+None||innate/adaptive immunity||population||trials||
+None||• Biocompatibility||• Complex process to||None||
+None||None||manipulate and||None||
+None||None||characterize DCs||None||
+a See Chap. 7 of this book for clinical development||None||None||
+
+----
+

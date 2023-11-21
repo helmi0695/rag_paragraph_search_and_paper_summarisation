@@ -1,0 +1,203 @@
+ABSTRACT
+ 
+----
+
+TITLE PARAGRAPH: 
+Messenger RNA (mRNA) is an emerging class of therapeutic agent for the prevention and treatment of a wide range of diseases. The recent success of the two highly efficacious mRNA vaccines produced by Moderna and Pfizer-BioNTech to protect against COVID-19 highlights the huge potential of mRNA technology for revolutionizing life science and medical research. Challenges related to mRNA stability and immunogenicity, as well as in vivo delivery and the ability to cross multiple biological barriers, have been largely addressed by recent progress in mRNA engineering and delivery. In this Review, we present the latest advances and innovations in the growing field of mRNA nanomedicine, in the context of ongoing clinical translation and future directions to improve clinical efficacy.
+Messenger RNA (mRNA) is a transient carrier that transfers genetic information from DNA to ribosomes, where that information can be translated into proteins 
+Nevertheless, the path to the successful application of mRNA as a drug was not straightforward. Initially, the instability, immunogenicity and high production cost of mRNA substantially dampened the enthusiasm of companies and the scientific community for investing resources. Encouragingly, these issues have been gradually addressed by the rapid development of mRNA engineering technologies, including chemical modification 
+Since then, successes in the development of the two coronavirus 2019 (COVID-19) mRNA vaccines (Moderna mRNA-1273 and Pfizer/ BioNTech BNT162b2) 
+
+----
+
+TITLE PARAGRAPH: Review Article
+https://doi.org/10.1038/s41591-022-02061-1 extravasated mRNAs from blood vessels can enter target cells 
+The immunostimulatory potential of exogenous mRNA is another major hurdle to clinical translation 
+
+----
+
+TITLE PARAGRAPH: Design of mRNAs and their delivery vehicles
+Rapid advances in the field of mRNA engineering and non-viral mRNA delivery have provided various solutions to challenges regarding the clinical use of mRNA. For example, issues with mRNA translatability, stability and immunostimulation can be solved by introducing innovative mRNA designs. Moreover, mRNA delivery vehicles can address at least some of the challenges of mRNA delivery. The rational design of mRNA delivery vehicles requires that they protect mRNAs from degradation by nucleases, cross various biological barriers and efficiently deliver mRNAs into the cytoplasm for robust protein expression.
+
+----
+
+TITLE PARAGRAPH: Design of mRNAs
+IVT mRNAs are structurally similar to naturally occurring mature eukaryotic mRNAs, which consist of five major domains: a 5′ cap, a 5′ untranslated region (UTR), an open reading frame (ORF) encoding the protein of interest, a 3′ UTR and a poly(A) tail. The translation and stability of mRNAs can benefit from UTR optimization. UTR sequences from highly expressed genes, such as human β-globin 
+One of the most effective strategies to abrogate immunostimulation by IVT mRNAs is nucleoside modification. Compared with unmodified mRNAs, the incorporation of naturally occurring modified nucleosides-such as pseudouridine (ψ), 5-methylcytidine, N 6 -methyladenosine, 5-methyluridine and 2-thiouridine-reduces cytokine production 
+
+----
+
+TITLE PARAGRAPH: Challenges regarding the clinical use of mRNA
+The clinical use of mRNA for therapeutic purposes requires sufficient mRNA translation in the cells of interest without causing unwanted immune responses. However, achieving this goal requires overcoming several barriers involving mRNA synthesis and delivery within extracellular and intracellular contexts 
+
+----
+
+TITLE PARAGRAPH: 2005
+• Kariko, Weissman and colleagues 11 reported for the first time that nucleoside modifications substantially reduced TLR signaling in response to mRNAs
+
+----
+
+TITLE PARAGRAPH: 2008-2012
+• Kariko, Weissman and colleagues further demonstrated that nucleoside modifications could limit PKR 
+
+----
+
+TITLE PARAGRAPH: 2017
+• First clinical trial of personalized mRNA-based cancer vaccine 217 IVT mRNAs purified by high-performance liquid chromatography, free of double-stranded RNA contaminants, display 10-to 1,000-fold higher protein expression in primary cells than unpurified mRNA, without inducing the production of IFNs or inflammatory cytokines 
+
+----
+
+TITLE PARAGRAPH: Review Article
+https://doi.org/10.1038/s41591-022-02061-1
+
+----
+
+TITLE PARAGRAPH: Messenger RNA delivery vehicles
+The rapid clinical translation of mRNA-based vaccines or therapies has benefited from the development of delivery vehicles to protect and deliver the highly unstable mRNA molecules. Currently, the major mRNA delivery systems are lipid-based nanoparticles, polymer-based nanoparticles and lipid-polymer hybrid nanoparticles.
+Lipid-based nanoparticles. Lipid-based nanoparticles are the most intensively studied and clinically advanced vehicles for mRNA delivery 
+The development of ionizable lipid-based nanoparticles for mRNA delivery has, to a great extent, benefited from studies over decades on ionizable lipid-based nanoparticles for the delivery of small interfering RNAs (siRNAs), which enable targeted silencing of endogenous mRNAs. For instance, DLin-MC3-DMA (MC3) 
+In addition to MC3, several other ionizable lipids initially developed for siRNA delivery, such as cKK-E12 (refs. 
+Lipid-polymer hybrid nanoparticles. Another type of nanoparticle is the lipid-polymer hybrid nanoparticle, which normally includes an ionizable (or sometimes cationic) lipid, a hydrophobic polymer and a PEGylated lipid 
+
+----
+
+TITLE PARAGRAPH: Review Article
+https://doi.org/10.1038/s41591-022-02061-1 a hydrophobic helper polymer poly(lactic-co-glycolic acid) (PLGA) replaces the helper lipid and cholesterol of LNPs. Notably, this platform exhibits excellent serum stability 
+Polymer-based nanoparticles. Polymeric nanoparticles consist simply of cationic polymers (Fig. 
+
+----
+
+TITLE PARAGRAPH: Promising recent innovations
+Innovations in mRNA engineering and delivery have been fueled by the successful development of the COVID-19 mRNA vaccines. These new technologies may potentially produce next-generation mRNAs with greater stability and more robust expression, which could enable the application of mRNAs to the fields of protein therapy and gene editing (usually requiring higher and sustained mRNA expression than mRNA vaccines). In addition, innovations in mRNA delivery can greatly boost the in vivo delivery efficiency of mRNAs in various applications. These innovations should further promote the clinical translation of different mRNA therapies.
+
+----
+
+TITLE PARAGRAPH: Innovations in mRNA engineering
+Self-amplifying mRNA. Self-amplifying mRNA contains an alphavirus-based replicon that can amplify the expression of encoded proteins, and therefore requires a much lower dosage than conventional mRNAs in most applications 
+Circular RNA. As discussed, the stability of mRNAs can be substantially improved via nucleoside modification and optimization of coding and non-coding regions. Alternatively, improved stability can be achieved by circularization. Circular RNAs (circRNAs)-single-stranded RNAs with a closed ring structure generated through backsplicing-are a class of non-coding RNAs with potentially broad biological functions 
+
+----
+
+TITLE PARAGRAPH: Innovations in mRNA delivery
+Novel mRNA delivery systems. While LNPs are the most clinically advanced and widely used systems for mRNA delivery, many other non-LNP systems also have great potential for mRNA delivery. The retrovirus-like protein PEG10 can selectively bind and promote the vesicular secretion of its own mRNAs. Based on this, a PEG10 virus-like particle (VLP) platform, developed by inserting genes of interest (the DNA template of mRNA) into the Peg10 gene, has realized potent gene editing via delivering gene-editing tools into cells 126 (Fig. 
+
+----
+
+TITLE PARAGRAPH: Review Article
+https://doi.org/10.1038/s41591-022-02061-1 Alongside these new platforms, innovations continue to produce more potent LNPs with multiple functions, including enhanced delivery. LNPs containing heterocyclic lipids, identified using a combinatorial library, not only effectively deliver antigen mRNAs to mouse tumors, but also promote antigen-presenting cell maturation via the stimulator of interferon genes (STING) pathway, synergistically increasing the antitumor efficacy 130 . The efficacy of LNPs can be improved by introducing either unsaturated lipids 131 or alkyne lipids 
+Biological membrane-based vehicles for mRNA delivery. Biological membrane-based vehicles represent another novel biocompatible platform for mRNA delivery. Distinct types of biological membrane-based systems, including cell membrane vesicles 135 , bacteria-derived outer-membrane vesicles 136 and extracellular vesicles 137 (for example, exosomes 138 ), have been employed for in vitro and in vivo delivery of therapeutic mRNAs. As a type of nanoscale extracellular vesicle, exosomes have been widely investigated as carriers for drug delivery 
+Organ-or cell-specific mRNA delivery. Most nanoparticles preferentially accumulate in the liver after intravenous injection 
+
+----
+
+TITLE PARAGRAPH: Review Article
+https://doi.org/10.1038/s41591-022-02061-1 delivery of mRNA via intravenous injection is meaningful, changing the routes of administration can be a more practical solution in some contexts. For instance, alternative routes of administration include intravesical delivery of mRNA nanoparticles to target bladder-specific sites 
+In addition to targeting organs, selective delivery of mRNAs to specific cell types allows for more precise and efficient therapies. One strategy for cell type-specific mRNA delivery is developing LNPs or polymeric nanoparticles with formulations optimized for the specific target cell type. For instance, well-optimized 
+Inhalable, intranasal or oral mRNA delivery. Inhalable delivery allows rapid and selective accumulation of mRNA drugs in the lungs, offering great promise for the treatment of lung-related diseases that have been prevalent since the current COVID-19 pandemic began. Inhaled delivery of mRNAs to the lungs was demonstrated using an hPBAE-based nanoformulation, leading to high luciferase protein expression in the lungs of mice 
+Intramuscular injection is the major administration route for currently approved COVID-19 vaccines, but is limited by the requirement for medical or pharmaceutical staff, which may negatively impact vaccine rollout. Oral delivery provides a promising and attractive alternative for COVID-19 vaccine administration, due to its non-invasiveness, patient-friendly features and the possibility for rapid rollout. Encouragingly, an oral adenovirus type 5 SARS-CoV-2 vaccine has successfully reduced disease severity and transmission in a SARS-CoV-2-infected hamster model, leading to a phase 1 clinical trial (NCT04563702) 
+
+----
+
+TITLE PARAGRAPH: Translational and clinical studies of mRNA nanomedicine
+The aberrant expression of proteins is characteristic of a wide range of diseases. As mRNA technology rapidly progresses, accurate manipulation of the levels of a specific protein can be easily achieved via intracellular delivery of mRNAs encoding the protein of interest (upregulation) or mRNAs encoding gene-editing components (downregulation), making mRNA nanomedicine a promising and versatile tool for the treatment of various diseases. Currently, a range of mRNA nanomedicines, including vaccines (Table 
+
+----
+
+TITLE PARAGRAPH: Vaccines
+The two effective mRNA COVID-19 vaccines were developed and rolled out at an unprecedented speed, potentially saving millions of lives and helping rebuild societies worldwide 
+In addition to COVID-19 vaccines, the development of mRNA vaccines against many other infectious diseases has progressed in recent years. For example, Moderna's mRNA-1647 vaccine (NCT05085366; encoding cytomegalovirus pentamer complex and glycoprotein B antigens against cytomegalovirus) and mRNA-1345 vaccine (NCT05127434; encoding stabilized prefusion F glycoprotein against the respiratory syncytial virus) are being tested in phase 3 trials. More recently, Moderna's mRNA-1010 seasonal quadrivalent influenza vaccine, encoding World Health Organization-recommended strains, has entered phase 3 trials, making it the fourth mRNA vaccine from Moderna to reach phase 3 (NCT04956575) 171 . Besides infectious diseases, cancer is another major target of mRNA vaccines being intensively investigated in clinical trials. The Moderna/Merck mRNA-4157 vaccine for advanced melanoma is being investigated in a phase 2 trial (NCT03897881). This is a personalized mRNA cancer vaccine encoding up to 34 neoantigens identified and designed using next-generation sequencing and workflow automation. Similarly, BioNTech has also launched its BNT111 vaccine for melanoma, which has induced durable objective responses in checkpoint inhibitor-treated patients with melanoma in a phase 1 trial (NCT02410733) 
+
+----
+
+TITLE PARAGRAPH: Review Article
+https://doi.org/10.1038/s41591-022-02061-1
+
+----
+
+TITLE PARAGRAPH: Protein therapy and gene editing
+mRNA-based protein and gene editing therapy has several potential clinical applications (Table 
+Gene editing is another important application of mRNA nanomedicine 
+
+----
+
+TITLE PARAGRAPH: Challenges of current mRNA nanomedicine
+Despite the success of COVID-19 vaccines, mRNA nanomedicines in development still face several challenges. Further innovations and advances are required to overcome these challenges and speed up the clinical translations of more mRNA nanomedicines.
+
+----
+
+TITLE PARAGRAPH: Safety
+MC3 is a potent ionizable lipid used in some ongoing clinical trials. However, several preclinical studies have shown that the MC3-based LNPs were immunostimulatory and induced higher expression of proinflammatory cytokines than other LNPs in mice 
+
+----
+
+TITLE PARAGRAPH: Review Article
+https://doi.org/10.1038/s41591-022-02061-1
+Continued optimization of organ-or cell-specific mRNA delivery systems will help to address this issue. Scattered reports have suggested the possibility of the integration of SARS-CoV-2 RNA 185 and mRNA from COVID-19 vaccines 186 into the genome of host cells through a LINE1-mediated retro-position mechanism. However, this conclusion has been questioned by others 187 and more meticulous studies should be conducted to validate this conclusion. If more future studies do show that engineered mRNA sequences can be integrated into the genome of host cells, specific designs can be applied to current mRNAs to inhibit their retro-transcription.
+Clinical trials have shown the favorable safety profiles of the two approved COVID-19 mRNA vaccines, and most local and systemic adverse events are mild to moderate 
+It will be important to recognize which parts of the mRNA vaccines are responsible for these adverse events, especially in the context of treating protein deficiency and chronic diseases, where high dose or repeated dosing are required, which could further increase the risk of such events. A better understanding of these mechanisms can lead us to optimized formulations that reduce or replace the unfavorable component, thus lowering the risk of adverse events.
+
+----
+
+TITLE PARAGRAPH: Adjuvanticity
+Adjuvanticity can be a limitation or an advantage, depending on the context. Due to enhanced translation efficiency and stability, modified mRNAs that cannot elicit immune responses are widely used in ongoing clinical trials 
+
+----
+
+TITLE PARAGRAPH: Conclusions and future directions
+mRNA nanomedicines have already shown efficacy as vaccines for the prevention of COVID-19 and reducing the risk of hospitalization and death 
+Ultimately, the quick and efficient implementation of mRNA nanomedicines depends largely on their stability and logistical requirements, which impact real-world implementation and rollout. Therefore, innovations that improve stability will be crucial. In recent studies, a thermostable mRNA vaccine was reported to provide protective efficacy against SARS-CoV-2 in mice 197 and entered clinical trials 198 . Moderna's next-generation COVID-19 vaccine mRNA-1283 could be stable at 2-5 °C.
+New engineering advanaces will facilitate real-world applications of mRNA nanomedicines in myriad ways. For example, novel PLGA microparticles could be a promising platform for mRNA delivery with programable drug release and even enable self-boosting vaccines 
+Since the enormous potential of mRNA nanomedicines has already been demonstrated by the unprecedented mRNA COVID-19 vaccines, we expect that continued innovation will lead to new and highly efficient mRNA-based therapies, including 
+
+----
+
+DESCRIPTION TABLE: 
+Product name||Sponsor||Immunogen||mRNA payload||Disease||Trial number||Phase Status||Comments and||
+None||None||None||None||None||None||None||None||references||
+Infectious disease||None||None||None||None||None||None||None||
+mRNA-1273||Moderna||Stabilized S protein||Nucleoside||SARS-CoV-2||NCT04470427||3||Active, not||94% efficacy 25 and||
+None||None||of wild type||modified||None||None||None||recruiting||FDA approved||
+mRNA-1273.214 Moderna||Stabilized S protein||Nucleoside||SARS-CoV-2||NCT05249829||2/3||Recruiting||Lead bivalent||
+None||None||of wild type and||modified||None||None||None||None||booster for 2022 205||
+None||None||Omicron variant||None||None||None||None||None||None||
+BNT162b2||BioNTech-||Stabilized S protein||Nucleoside||SARS-CoV-2||NCT04368728||2/3||Recruiting||95% efficacy 26 and||
+None||None||of wild type||modified||None||None||None||None||FDA approved||
+CVnCoV||CureVac||Stabilized S protein||Unmodified||SARS-CoV-2||NCT04652102||2/3||Active, not||Sequence optimized,||
+None||None||of wild type||None||None||None||None||recruiting||with 48% efficacy 167||
+CV2CoV||CureVac-GSK Stabilized S protein||Unmodified||SARS-CoV-2||NCT05260437||1||Recruiting||Sequence and UTR||
+None||None||of wild type||None||None||None||None||None||optimized 168||
+ARCT-154||Arcturus||S protein||Self-replicating||SARS-CoV-2||NCT05012943||2/3||Active, not||Low dose 169,170||
+None||None||None||None||None||None||None||recruiting||None||
+mRNA-1647||Moderna||CMV pentamer||Nucleoside||CMV||NCT05085366||3||Recruiting||None||
+None||None||complex and||modified||None||None||None||None||None||
+None||None||glycoprotein B||None||None||None||None||None||None||
+None||None||antigens||None||None||None||None||None||None||
+mRNA-1345||Moderna||stabilized F||Nucleoside||RSV||NCT05127434||3||Recruiting||None||
+None||None||glycoprotein||modified||None||None||None||None||None||
+mRNA-1010||Moderna||WHO strains||Nucleoside||Seasonal||NCT04956575||2||Recruiting||Entering phase 3 171||
+None||None||None||modified||influenza||None||None||None||None||
+Cancer||None||None||None||None||None||None||None||None||
+mRNA-4157||Moderna-||Up to 34||Nucleoside||Melanoma||NCT03897881||2||Active, not||Personalized cancer||
+None||Merck||neoantigens||modified||None||None||None||recruiting||vaccine||
+BNT111||BioNTech||Four non-mutated||Unmodified||Melanoma||NCT04526899||2||Recruiting||LPXs, with or without||
+None||None||TAAs||None||None||None||None||None||cemiplimab 172||
+BNT113||BioNTech||Oncoproteins E6||Unmodified||HPV16 + HNSCC||NCT04534205||2||Recruiting||With pembrolizumab||
+None||None||and E7||None||None||None||None||None||None||
+
+----
+
+DESCRIPTION TABLE: , claudin 18.2; CLDN6, claudin 6; hATTR, hereditary transthyretin amyloidosis; IL-2, interleukin-2; OTC, ornithine transcarbamylase; TTR, transthyretin.
+Protein replacement||None||None||None||None||None||None||None||
+BNT211||BioNTech||CLDN6||Unknown||Solid tumors||NCT04503278||1/2||Recruiting||CAR-T cell therapy for solid tumors||
+BNT141||BioNTech||Cancer||Nucleoside||Solid tumors||NCT04683939||1/2||Recruiting||Target CLDN18.2||
+None||None||antibodies||modified||None||None||None||None||None||
+ARCT-810||Arcturus||OTC||Unknown||OTC deficiency||NCT04442347||1||Recruiting||Entering phase 2 (refs. 206,207 )||
+mRNA-6231||Moderna||IL-2 mutein||Nucleoside||IL-2 autoimmune||NCT04916431||1||Recruiting||None||
+None||None||None||modified||disorders||None||None||None||None||
+Gene editing||None||None||None||None||None||None||None||None||
+NTLA-2001||Intellia||TTR||Cas9 and TTR||hATTR||NCT04601051||1||Recruiting||87% protein reduction 181||
+None||None||None||sgRNA||None||None||None||None||None||
+CLDN18.2||None||None||None||None||None||None||None||None||
+
+----
+

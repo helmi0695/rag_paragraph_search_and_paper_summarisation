@@ -1,0 +1,338 @@
+ABSTRACT
+ The use of messenger RNA (mRNA) in gene therapy is increasing in recent years, due to its unique features compared to plasmid DNA: Transient expression, no need to enter into the nucleus and no risk of insertional mutagenesis. Nevertheless, the clinical application of mRNA as a therapeutic tool is limited by its instability and ability to activate immune responses; hence, mRNA chemical modifications together with the design of suitable vehicles result essential. This manuscript includes a revision of the strategies employed to enhance in vitro transcribed (IVT) mRNA functionality and efficacy, including the optimization of its stability and translational efficiency, as well as the regulation of its immunostimulatory properties. An overview of the nanosystems designed to protect the mRNA and to overcome the intra and extracellular barriers for successful delivery is also included. Finally, the present and future applications of mRNA nanomedicines for immunization against infectious diseases and cancer, protein replacement, gene editing, and regenerative medicine are highlighted.
+----
+
+TITLE PARAGRAPH: Introduction
+According to the European Medicines Agency (EMA), a gene therapy medicinal product generally consists of a vector or delivery formulation/system containing a genetic construct engineered to express a specific transgene ('therapeutic sequence') for the regulation, repair, replacement, addition or deletion of a genetic sequence 
+Gene therapy entered clinical trials in the early 1990s. Up to date around 17 nucleic acid-based products have been approved worldwide, and almost 2700 gene therapy-based clinical trials have been completed, are ongoing or have been approved for a broad range of applications. It is expected that nucleic acid-based products will have a substantial impact on the biopharmaceutical market in the near future 
+Depending on the final objective, gene therapy can be applied for gene augmentation, gene silencing, or gene editing 
+The specific features of synthetic mRNA make it a promising alternative to DNA based products. Firstly, mRNA does not need the machinery of the nucleus to be functional, as DNA therapies do 
+Nevertheless, the use of IVT mRNA for clinical purposes has been mostly limited by its physical instability, its immunogenic capacity, and the difficulty in passing through the cellular membrane, due to the anionic nature of mRNA molecules 
+Nanomaterials 2020, 
+The specific features of synthetic mRNA make it a promising alternative to DNA based products. Firstly, mRNA does not need the machinery of the nucleus to be functional, as DNA therapies do 
+Nevertheless, the use of IVT mRNA for clinical purposes has been mostly limited by its physical instability, its immunogenic capacity, and the difficulty in passing through the cellular membrane, due to the anionic nature of mRNA molecules 
+The main mechanism of cell entry is endocytosis. It comprises a variety of complex processes that determine the intracellular disposition of the mRNA. The vectors are included in endosomes by the invagination of the cell membrane. Endosomes mature and fuse with lysosomes, where the acidic environment and the presence of hydrolytic enzymes can degrade the vector and the nucleic acid. Therefore, endosomal escape before degradation is considered a bottleneck for successful mRNA therapy, and, as in the case of cellular internalization, the delivery system plays a crucial role. The foremost proposed mechanisms of endosomal escape include endosome disruption, active transport, or fusion of the delivery system with the endosomal membrane 
+The present work reviews the strategies accomplished to optimize the functionality and efficacy of IVT mRNA. Besides the chemical modifications in its structure, the nanosystems and technological approaches developed for a successful IVT mRNA delivery will be described. Finally, the potential applications of mRNA nanomedicines will be discussed: Vaccination against infectious diseases, cancer immunotherapy, protein replacement, gene editing and regenerative medicine.
+
+----
+
+TITLE PARAGRAPH: Structure of Synthetic IVT mRNA and Chemical Modifications
+The production of IVT mRNA is usually carried out in cell-free systems, leading to easy standardization of clinical-grade manufacturing, which can be performed under Good Manufacturing Practices (GMPs). Fabrication costs of IVT mRNA under GMPs are substantially low as compared to recombinant proteins produced in eukaryotic cells 
+Manufacturing of IVT mRNA by a cell-free in vitro transcription system requires a linearized DNA template which must contain a prokaryotic phage promoter sequence for the T3, T7, or SP6 RNA polymerases, the open reading frame (ORF) encoding the desired protein, the sequences corresponding to the regulatory untranslated regions (UTRs), and optionally, to a polyadenylated tail (poly(A) tail). 
+A synthetic IVT mRNA consists of the following five fundamental structures, which can be chemically modified in order to optimize the translation process and the stability, and to regulate the immunogenicity: (a) Cap in 5'; (b) 5' UTR; (c) an ORF, which has the starting codon AUG and the stop codon (UAA, UAG, UGA); (d) 3' UTR; and (e) poly(A) tail. Figure 
+
+----
+
+TITLE PARAGRAPH: Figure 2.
+Representative scheme of the IVT mRNA structure and its principal modifications to improve the efficacy and the stability, and to reduce the immunogenicity.
+
+----
+
+TITLE PARAGRAPH: 5' Cap
+Eukaryotic native mRNA possesses a 5' cap structure, known as cap0, formed by the union of inverted 7-methyl guanosine (m7G) to the first nucleotide of the mRNA by a 5' to 5' triphosphate bridge during the transcription process. This capping occurs by three consecutive enzymatic reactions, when the first 20-30 nucleotides of mRNA have been transcribed in the nucleus.
+Besides stabilizing the mRNA in the translation, splicing, polyadenylation and nuclear exportation processes, cap0 protects the mRNA from exonucleases. Additionally, cap0 interacts with cap binding proteins (CBPs), essentials for the nuclear export of mRNA, and also with the translation initiation factor 4E (eIF4E) in the cytoplasm, crucial for the initiation of translation 
+In recent years, human enzymes that form two other types of 5′ cap, cap1 and cap2, have been identified 
+In order to resemble the chemical structure of eukaryotic mRNA, synthetic mRNA transcripts can be capped after finishing the transcription (post-transcriptionally) or during the transcription (cotranscriptionally).
+Post-transcriptional capping is usually carried out by using the enzyme machinery of recombinant Vaccinia Virus to perform the consecutive enzyme reactions to add the cap0, cap1 or cap2.
+In co-transcriptional capping synthetic cap analogues are directly added during the transcription. This process is simpler than the enzymatic capping, but it also presents some limitations. On the one hand, all mRNA molecules obtained are not capped, due to the competition between the cap analogue and the guanosine triphosphate (GTP), which is the initiator nucleotide 
+
+----
+
+TITLE PARAGRAPH: 5' Cap
+Eukaryotic native mRNA possesses a 5' cap structure, known as cap0, formed by the union of inverted 7-methyl guanosine (m7G) to the first nucleotide of the mRNA by a 5' to 5' triphosphate bridge during the transcription process. This capping occurs by three consecutive enzymatic reactions, when the first 20-30 nucleotides of mRNA have been transcribed in the nucleus.
+Besides stabilizing the mRNA in the translation, splicing, polyadenylation and nuclear exportation processes, cap0 protects the mRNA from exonucleases. Additionally, cap0 interacts with cap binding proteins (CBPs), essentials for the nuclear export of mRNA, and also with the translation initiation factor 4E (eIF4E) in the cytoplasm, crucial for the initiation of translation 
+In recent years, human enzymes that form two other types of 5 cap, cap1 and cap2, have been identified 
+In order to resemble the chemical structure of eukaryotic mRNA, synthetic mRNA transcripts can be capped after finishing the transcription (post-transcriptionally) or during the transcription (co-transcriptionally).
+Post-transcriptional capping is usually carried out by using the enzyme machinery of recombinant Vaccinia Virus to perform the consecutive enzyme reactions to add the cap0, cap1 or cap2.
+In co-transcriptional capping synthetic cap analogues are directly added during the transcription. This process is simpler than the enzymatic capping, but it also presents some limitations. On the one hand, all mRNA molecules obtained are not capped, due to the competition between the cap analogue and the guanosine triphosphate (GTP), which is the initiator nucleotide 
+Finally, it also has to be taken into account that cytosolic decapping enzymes can remove mRNA cap. In order to provide resistance to the IVT mRNA against these enzymes, and therefore, extend its half-life, chemically modified cap analogues can be used. The resulting modified mRNAs can contain a phosphorothioate, phosphorothiolate, imidiphosphate and boranophosphate, among others 
+
+----
+
+TITLE PARAGRAPH: ORF
+The codon composition of the region that encodes the protein sequence, known as ORF, may also influence the translation efficiency and stability of the mRNA. The reduction of the quantity of UU and UA dinucleotides in the ORF has demonstrated to protect the IVT mRNA from decapping enzymes 
+
+----
+
+TITLE PARAGRAPH: Poly(A) Tail
+The poly(A) tail in native eukaryotic mRNA is formed by 100-250 residues of adenosine 
+The poly(A) tail can be added to IVT mRNA directly during the transcription, if the DNA template encodes the poly(T) sequence, or post-transcriptionally by enzymatic reactions with recombinant E-PAP 
+The length of the poly(A) tail influences the stability and translation efficiency of the IVT mRNA 
+
+----
+
+TITLE PARAGRAPH: UTRs
+The ORF is limited by the UTRs in both 5 and 3 sides. These non-coding regions do not participate directly in the codification of proteins, but their sequences, length and secondary structures are crucial for the regulation of the translation of the mRNA and the protein expression 
+The presence of the internal ribosomal entry sites (IRES) in the 5' UTR recruits the ribosome and induce a cap-independent translation initiation 
+The Kozak consensus sequence, located in the 5 UTR, also plays a major role in the initiation of the translation process. The Kozak sequence, defined as RCCAUGG, where R is a purine (A or G) was considered the preferred sequence for translation initiation in eukaryotes 
+Regarding the 3 UTR, the presence of specific sequences of α-globin and β-globin mRNAs in this region improves the stability of IVT mRNA and the duration of protein expression, respectively 
+
+----
+
+TITLE PARAGRAPH: Modified Nucleosides
+The incorporation of modified nucleosides into mRNA is a common strategy to reduce its immunostimulatory activity. Exogenous IVT mRNA induces innate immune responses by interacting with pattern recognition receptors (PRRs), including Toll-like receptors (TLRs) and cytoplasmic RNA sensors, such as retinoic acid-inducible protein I (RIG-I) 
+
+----
+
+TITLE PARAGRAPH: mRNA Nanomedicines
+A key challenge for the clinical application of nucleic acid medicinal products entails the availability of delivery systems specifically adapted to their features and purpose. A vehicle for mRNA therapy, in addition to protecting it and providing specificity to reach the target cell, must afford an adequate intracellular disposition of the nucleic acid that enables the translation process, and all of this, preventing the activation of the immune response 
+Currently, about 70% of the clinical trials with nucleic acids use recombinant viruses as delivery systems, such as retroviruses, lentiviruses, adenoviruses and adeno-associated viruses, among others 
+Therapeutic application of mRNA without the help of a delivery system presents important drawbacks 
+Chemical nanocarriers are nowadays at the forefront of pharmaceutical research for mRNA delivery. Thanks to the advances in material sciences, the rapid progress of nanotechnology, and in nucleic acid chemistry, extensive research is currently ongoing to develop new systems 
+
+----
+
+TITLE PARAGRAPH: Lipid-Based Systems
+Lipid-based vectors are among the most widely used non-viral nucleic acids carriers. The main component of lipidic systems is cationic lipids, which are able to interact with the mRNA by electrostatic interactions, leading to the formation of a complex called lipoplex 
+DOTMA (N- 
+Nanomaterials 2020, 10, 364 8 of 43 aminopropane (DODMA), have been developed as an alternative to conventional cationic lipids 
+While cationic lipids present alkylated quaternary ammonium groups and retain their cationic nature regardless of the pH, ionizable lipids acquire positive charges, due to the protonation of free amines as pH decreases 
+LNPs include liposomes and other lipid-based nanoparticles, and they are regarded as one of the most developed systems for mRNA delivery. Currently, several LNP platforms are at the forefront of clinical trials. Indeed, they are clinically validated delivery systems for RNA therapy. In the beginning, LNPs were considerably promising for the delivery of siRNA, being their utility as mRNA delivery agents more recent 
+Liposome based formulations are amphiphilic spherical vesicles formed by one or more lipid bilayers enveloping an aqueous core with size ranging from 20 nm to a few microns. They generally contain a cationic lipid combined with: (a) A helper lipid that supports the bilayer structure and facilitates the endocytosis; (b) cholesterol to stabilize the lipid bilayer of the LNP; and (c) a PEG-lipid. PEG lends the nanoparticle a hydrating layer to improve colloidal stability, reduces protein adsorption and non-specific uptake, and prevents reticuloendothelial clearance 
+A few marketed transfection reagents useful for mRNA transfection (for instance, MegaFectin TM , TransIT TM ) are cationic liposome formulations based on DOTAP, DOPE and cholesterol 
+Lipidoids, a new class of lipid-like delivery molecules comprising multiple hydrophilic groups and several lipid tails, were developed in 2008 as novel siRNA delivery agents 
+In recent years, new lipid derivate systems, known as lipid-like nanoparticles (LLNs), have been developed for mRNA delivery. N1,N3,N5-tris(2-aminoethyl)benzene-1,3,5-tricarboxamide (TT) is formed by a phenyl ring, three amide linkers and three aminolipids chains 
+Nanostructured lipid carriers (NLCs) are another type of LNPs used to deliver mRNA for vaccination. NLCs are colloidal structures composed by a core containing a mixture of solid and liquid lipids, resulting in an unstructured lipid matrix 
+
+----
+
+TITLE PARAGRAPH: Polymeric Systems
+The use of polymer nanoparticles has been intensively investigated for pDNA delivery, although few studies have addressed their use for mRNA. One key advantage of polymeric systems is the possibility of modifying their chemical properties to adapt them to the active substance. The binding of cationic polymers and nucleic acids leads to the formation of polyplexes 
+PEI was one of the first polymers used for nucleic acid delivery; it contains a large number of amine groups in its structure conferring it a positive charge. PEI may present both a linear and a branched conformation. Linear PEI contains secondary amino groups partially protonated at physiological pH, whereas, branched PEI contains primary and secondary groups, and a small number of tertiary amines. The presence of amino groups is responsible for the strong affinity to nucleic acids, including mRNA, and the cationic charges facilitate the interaction of the polyplexes with the cell membrane and the entry into the target cell. Moreover, amino groups allow ionization and confer high buffering ability. This buffering capacity, although under discussion, is responsibility of the "proton sponge effect" and enables the endosomal swelling and rupture by changing the osmolarity of acidic vesicles 
+Polyacrylates have also been used for mRNA delivery, although with modifications in the side chain, needed to interact electrostatically with nucleic acids. One of the most studied polyacrylates is poly(2-dimethylaminoethyl methacrylate) (PDMAEMA), which presents lower affinity for mRNA than for pDNA; however, its PEGylation improves mRNA binding and transfection efficiency 
+PBAEs are biodegradable and pH responsiveness copolymers synthesized by the addition of amines and acrylates via Michael-type reaction. The tertiary amine of its structure can electrostatically interact with the negative charge of nucleic acids. There is a wide variety of PBAEs delivery systems, due to their compatibility with other polymers, such as PEG, poly(lactic acid) (PLA), and poly(ε-caprolactone) (PCL) 
+PAsp are synthesized by polymerization of DL-aspartic acid in orthophosporic acid medium and later addition of a nucleophilic amine 
+In addition to the most used polymers discussed above, it has been reported transfection of IVT mRNA with another kind of polyplexes. Nanoparticles formed by a core-shell structure of IVT mRNA complexed with the peptide protamine surrounded by PCL layers improved the stability of mRNA 
+
+----
+
+TITLE PARAGRAPH: Polypeptidic Systems
+Polypeptides consist of one or various amino acids disposed of in block or random sequences. They can provide biocompatibility and physicochemical properties to the delivery systems, thanks to the biodegradable naturally occurring monomeric units. Another advantage of nucleic acid delivery is the ability to adapt their cationic and endosomolytic properties, due to their structural flexibility 
+Protamines are a family of small peptides with arginine-rich sequences obtained from fish sperm. Arginines confer positive charge, facilitating electrostatic interactions with the negative charge of the nucleic acid; in fact, protamine was described more than 50 years ago as an enhancer of RNA uptake 
+Cell-Penetrating Peptides (CPPs) have been used for nucleic acid delivery, due to their capacity to overcome cell membranes. Although the mechanisms of cellular internalization are not fully known, it is thought that CPPs may promote the grouping of negatively charged glycosaminoglycans of the cell surface, triggering macropinocytosis and lateral diffusion or directly disrupting the lipid bilayer 
+Artificial viral coat proteins formulated as virus-like particles (VLPs) have been used as vehicles for transfection, due to their ability to assemble and protect mRNA. 
+
+----
+
+TITLE PARAGRAPH: Dendrimers
+Dendrimers are highly branched polymeric macromolecules with well-defined uniform sizes and shapes, and adaptable surface functionalities. Their basic structure encompasses a central core, repetitive branching units, and terminal groups 
+
+----
+
+TITLE PARAGRAPH: Gold Nanoparticles
+Gold nanoparticles (AuNPs) present features that make them an appropriate platform for nucleic acid delivery. AuNPs can be fabricated in a scalable fashion with low size dispersity, and they are easily functionalized by the formation of multifunctional monolayers and the inclusion of different moieties and targeting agents. Moreover, the in vivo toxicity and biodistribution, can be regulated by optimizing the particle size and surface functionality 
+
+----
+
+TITLE PARAGRAPH: Hybrid Systems
+Hybrid systems are made up of the combination of various types of materials, including lipids, polymers and peptides, among others. Thereby, the hybrid system takes advantage of all the benefits of its individual components, offering greater functionality and flexibility 
+The combination of cationic lipids and peptides has been commonly studied for mRNA delivery. As an example, complexes formed by IVT mRNA, coding for the model antigen beta-galactosidase, condensed with protamine and encapsulated in liposomes provided in vivo protein expression, activation of cytotoxic T lymphocytes and production of IgG antibodies against the antigen 
+Lipopolyplexes, the complexation of nucleic acids with cationic polymers and lipids, were among the first hybrids used for DNA and siRNA delivery, and later on for mRNA. Histidylated lipopolyplexes, synthesized by the combination of PEGylated derivative of histidylated polylysine and L-histidine-(N,N-di-n-hexadecylamine)ethylamide liposomes, incorporating a synthetic melanoma-associated antigen MART1 mRNA have been administered to mice as an mRNA cancer vaccine. The histidylated lipopolyplexes protected significantly injected mice against B16F10 melanoma tumor progression 
+A nanomicelle-based platform was prepared by mixing IVT mRNA encoding an anti-angiogenic protein (sFlt-1), with PEG-polycation block copolymers. PAsp(TEP) was selected as the cationic segment of the block copolymer, and a cholesterol moiety was attached by hydrophobic interaction. PEG-PAsp(TEP)-cholesterol nanosystems produced efficient protein expression in tumor tissue, and remarkable inhibition of the tumor growth 
+Another example of a multi-component delivery system is that formed with poly(glycoamidoamine) (PGAAs) brush nanoparticles. It has been used for intravenous administration of mRNA encoding erythropoietin (EPO) in mice 
+Recently, DCs have been transfected with an mRNA delivery system combining both PLA-based micelles and the cationic CPP RALA. This hybrid nanoplatform offers the possibility of further multifunctionality by PLA core encapsulation [161].
+
+----
+
+TITLE PARAGRAPH: Therapeutic Applications of mRNA
+The growing knowledge of IVT mRNA design and manufacture, along with the advances in nanotechnology have conducted to broaden the potential therapeutic applications of mRNA-based medicines. According to preclinical and clinical trials, four major IVT mRNA applications can be considered: Immunotherapy (against infectious diseases and cancer), protein replacement, gene editing and regenerative medicine. Currently, all the clinical trials ongoing, both applying in vitro and in vivo strategies, are still in Phase I or II, with most of them focusing on immunotherapy, and especially on cancer therapy. Nevertheless, the successful transition of mRNAs from clinical studies to commercialization in the form of medicinal products requires still an important consideration related to the fabrication of large industrial batches: Optimization of IVT mRNA production and purification processes with further cost reduction 
+
+----
+
+TITLE PARAGRAPH: Immunotherapy
+The induction of an immune response by using mRNA has been the main application among mRNA-based therapies, with a number of mRNA vaccines being evaluated in clinical trials against infectious diseases and multiple types of cancer. Apart from these applications, a proof of concept for prevention of type 1 diabetes in mice, by administering modified T cells redirected against diabetogenic CD8+ T cells, has emerged as a new mRNA-immunotherapy application 
+Additionally, passive immunization by mRNA encoding monoclonal antibodies is showing great biomedical interest. Given the rapidly growing market of therapeutic monoclonal antibodies, and the high cost of this type of medicines, the pharmaceutical industry is looking for alternatives approaches. mRNA is considered a good option, due to its simpler, faster and more cost-effective synthesis. Until now, pre-clinical studies in small rodents have demonstrated antibody titters from the first day after mRNA intravenous administration 
+Besides the general advantages of mRNA, previously mentioned, this active substance shows specific interesting features for immunotherapy: The immunostimulatory capacity, although it can also have potential toxicity, the transient nature of the antigen and the versatility of applications, including prophylaxis, therapy and personalized vaccines 
+
+----
+
+TITLE PARAGRAPH: mRNA Vaccines Against Infectious Diseases
+mRNA vaccines are emerging as potential substitutes of conventional vaccines, due to their advantages comparing with subunit, killed, live attenuated and inactivated pathogens containing vaccines, and with DNA-based vaccines 
+Nanomaterials 2020, 
+
+----
+
+TITLE PARAGRAPH: mRNA Vaccines Against Infectious Diseases
+mRNA vaccines are emerging as potential substitutes of conventional vaccines, due to their advantages comparing with subunit, killed, live attenuated and inactivated pathogens containing vaccines, and with DNA-based vaccines 
+The first report of SAM vaccine was in 1994, when it was demonstrated that the IVT mRNA derived from the alphavirus Semliki Forest virus (SFV) activated the immune system against a heterologous antigen [167]. In later works, it was reported that a single low dose of naked SFVderived IVT mRNA encoding respiratory syncytial virus fusion (RSV-F) protein, influenza virus SAM vaccines, called replicon, contain a positive single-stranded RNA virus genome, especially from alphaviruses, where the genes encoding the replicative viral machinery are not modified, but structural genes are replaced by the antigen sequence. Therefore, SAM vaccines contain two different ORFs, one encoding proteins for RNA capping and replication, and another encoding the target antigen. SAM vaccines show an increased efficacy thanks to the ability of the replicon to self-replicate and amplify inside the cell, enabling a significantly higher antigen production for a given mRNA vector 
+The first report of SAM vaccine was in 1994, when it was demonstrated that the IVT mRNA derived from the alphavirus Semliki Forest virus (SFV) activated the immune system against a heterologous antigen [167]. In later works, it was reported that a single low dose of naked SFV-derived IVT mRNA encoding respiratory syncytial virus fusion (RSV-F) protein, influenza virus hemagglutinin (HA), or louping ill virus prME produced antibody response and partial protection from lethal viral challenges in mice 
+As can be seen in Table 
+Non-replicating mRNA-based vaccines are engineered to resemble fully processed mature mRNA, and are formed by an IVT mRNA containing an ORF encoding the antigen of interest. The clinical trials currently ongoing for infectious diseases with non-replicating mRNA include prophylactic vaccines directed to rabies, Zika virus, CMV, human metapneumovirus, human parainfluenza, tuberculosis and influenza viruses (Table 
+The first study of immunization by non-replicating mRNA vaccines against infectious diseases was reported in 2012 by 
+After successful preclinical results immunization against Zika virus by mRNA vaccination also has reached clinical evaluation 
+Two clinical trials (NCT02413645, NCT02888756) evaluated mRNA vaccines as an immunotherapeutic vaccine for HIV infection. In one of them 
+Ex vivo strategy for vaccination is based on the use of DCs loaded with mRNA. DCs internalize and process antigens and present them to CD8+ and CD4+ T cells on major histocompatibility complexes (MHCs) class I and II, respectively 
+
+----
+
+TITLE PARAGRAPH: Cancer Immunotherapy
+Cancer immunotherapy relies on the generation of a host anti-tumor immune response, playing a key role cytotoxic T cells, due to their capacity to recognize and kill tumor cells. The induction of a specific immune response by mRNA vaccines begins when the antigen is expressed in the cytosol of antigen-presenting cells or APCs (DCs or macrophages). The resulting proteins are processed by proteasomes and presented on MHC class I molecules to CD8+ T cells, activating cellular response 
+At present, there is a great number of clinical trials using in vivo or ex vivo mRNA based immunotherapy in various cancer types (Table 
+Regardless of the strategy, mRNA vaccines can be designed to target a wide variety of antigens, including TAAs, cancer testis antigens (CTAs) and tumor-specific antigens (TSAs); all of them have been tested in clinical trials. TAAs derive from proteins that are overexpressed in cancer cells, but they also occur in normal cells. CTAs are a group of TAAs that might serve as ideal targets for cancer immunotherapy because of their cancer-restricted expression and robust immunogenicity. TSAs derive from viral oncogenic proteins or from proteins produced, due to somatic mutations or gene rearrangements; tumors, in general, acquire mutations during carcinogenesis and progression, resulting in altered proteins that may serve as neoantigens 
+Apart from the use of IVT mRNA to produce a specific immune response, non-coding mRNA (CV8102) also has been tested clinically as an adjuvant. CV8102 is a TLR7/8/RIG-1 agonist based on noncoding single stranded RNA, designed to modulate the tumor microenvironment after intratumoral injection. It is being evaluated alone (NCT03291002) or in combination with IMA970A, which is a new cancer vaccine for primary liver cancer based on an off-the-shelf cocktail of 16 peptides (NCT03203005).  The first mRNA cancer vaccine was developed by 
+Besides the delivery system, the administration route also has a significant influence on mRNA vaccine efficacy. Multiple administration approaches have been evaluated in clinical trials to target mRNA to APC cells, from conventional vaccination routes, such as intradermal, intramuscular and subcutaneous, to less common methods, such as intranodal, intravenous or intratumoral. Except for CAR T cells, intradermal route is the most widely used in both, in vivo and ex vivo approaches. Regarding in vivo delivery, CV9201 and CV9202 (NCT00923312 and NCT01915524), based on CureVac's RNActive ® technology, have been applied intradermally for the treatment of non-small cell lung carcinoma (NSCLC). CV9202, containing a sequence-optimized mRNA encoding six NSCLC-associated antigens (NY-ESO-1, MAGE-C1, MAGE-C, Survivin, 5T4, and MUC-1), was well tolerated, and antigen-specific immune responses were detected 
+Ex vivo therapy with transfected DCs, the most potent APCs of the immune system, is the most frequent strategy used for mRNA cancer vaccination. This method allows precise control of the target cell and transfection efficiency, although it is expensive and laborious. Electroporated DCs with mRNA demonstrated already, in 1996, their capacity to induce an immune response against tumor antigens 
+Adoptive T cell therapy by ex vivo IVT mRNA based CAR T cell administration has focused great interest thanks to the market of two virally transduced CAR T products in 2017. Tisagenlecleucel and Axicabtagene ciloleucel were approved for the treatment of acute B-cell lymphoblastic leukaemia and large B-cell lymphoma, respectively 
+
+----
+
+TITLE PARAGRAPH: Protein Replacement
+The application of IVT mRNA for protein replacement therapies is based on the supplementation of proteins that are infra-expressed or are not functional, as well as on the expression of foreign proteins that can activate or inhibit cellular pathways. Since the first preclinical evaluation of IVT mRNA for protein replacement in 1992 
+Protein replacement therapies based on IVT mRNA have been mainly directed to the liver [201], lungs 
+As it is observed in Table 
+Moderna also has proprietary LNP formulations used as delivery systems in IVT mRNA clinical trials; specifically, for the treatment of PA and MMA, the most common organic acidemias. PA is an autosomal recessive condition caused by mutations in the PCCA and PCCB genes. These genes encode two subunits of the enzyme propionyl-CoA carboxylase (PPC). Disrupting the function of this enzyme avoids the normal breakdown of proteins and lipids at mitochondrial level. As a result, propionyl-CoA and other toxic compounds accumulate in the body 
+Translate Bio, another clinical-stage mRNA therapeutics company, has initiated in the last few years two clinical trials in which synthetic mRNAs, also formulated in LNP, are administered to patients with cystic fibrosis (NCT03375047) or OTC deficiency (NCT03767270). Cystic fibrosis is a monogenic disorder affecting approximately 1 in 2000-3000 newborns in the European Union and 1 in every 3500 births in the United States of America 
+OTC deficiency consists of the increment of the ammonia levels in the bloodstream because of disorders in ammonia detoxification and deficiencies of mitochondrial OTC in the urea cycle 
+
+----
+
+TITLE PARAGRAPH: Gene Editing
+Gene editing has recently emerged as a new therapeutic option for a numerous variety of clinical conditions. This technology uses programmable nucleases, engineered to accomplish a DNA double stranded break (DSB) in a specific target location of the genome. The repair of DSBs can be performed by two mechanisms: Homologous-dependent repair (HDR) and non-homologous end joining (NHEJ). In HDR the nucleases act in the presence of a donor DNA template that contains a homologous sequence to be introduced into DSB. This repair is useful to correct genomic mutations or to insert new sequences encoding therapeutic proteins. NHEJ eliminates the target region by binding DSBs; it can be used to silence or correct an anomalous gene 
+There are three main types of gene editing nucleases, composed of a target-sequence-recognizing domain and a nuclease: ZFNs, TALENs, and CRISPR/Cas9.
+ZFNs are engineering by fusing zinc-finger DNA binding domains (Cys2-His2) with FokI nuclease as the DNA cleavage domain 
+Gene editing nucleases can be delivered in protein, pDNA or mRNA forms 
+IVT mRNA encoding genome-editing nucleases has been mainly used ex vivo to edit T cells or hematopoietic stem and progenitor cells (HSPCs) by electroporation for research and preclinical studies 
+The translation to clinic of mRNA-based gene editing is currently focused on ex vivo applications (Table 
+TALEN-mRNA is used to generate UCART19, the first allogenic CAR T cell therapy in clinical study, in pediatric and adult relapsed/refractory B-cell acute lymphoblastic leukemia (NCT02808442, NCT02746952). The base of this product is allogenic T cells engineered to express CARs against the leukemia antigen CD19. In addition, CAR19 T cells are treated by electroporation with TALEN-mRNA to knockout T cell receptors (TCR) and the CD52. The knockout of the TCR is intended to reduce the risk of graft-versus-host disease (GVHD) caused by donor T cells, whereas, knockout of the CD52 gene makes transplanted allogenic T cells resistant to the lymphodepleting agent alemtuzumab 
+Given the rapid expansion that gene editing is undergoing as a therapeutic tool, and the advantages that mRNA offers in expressing the corresponding nucleases, it is expected that in the near future the number of clinical studies with gene editing mRNA will be significantly increased.
+
+----
+
+TITLE PARAGRAPH: Regenerative Medicine and Cell Engineering
+Regenerative medicine aims to regrow, repair or replace injured or lost cells, organs or tissues by restoring or establishing their normal function 
+Cellular reprogramming is based on the generation of iPSCs from a patient's adult somatic cells. Those iPSCs will be later differentiated into autologous specific cell types 
+In 2010, it was reported the first study of in vitro reprogramming of somatic cells by IVT mRNA to mediate was reported. iPSCs were generated by delivering synthetic mRNA, encoding four transcription factors (Oct4, Sox2, Lin28, and Nanog) to human foreskin fibroblasts 
+Transdifferentiation of somatic cells with IVT mRNA has been mainly focused on the generation of insulin secreting β-cells for type 1 diabetes patients 
+mRNA therapeutics also show significant potential in stimulating bone regeneration. Transcript Activated Matrices (TAMs), have been evaluated as platforms for sustained delivery of mRNA encoding osteogenic proteins (i.e., BMP-2), while supporting cell proliferation, extracellular matrix deposition and ultimately de novo tissue formation. TAMs provide steady state protein production for up to 6 days, and substantial residual expression until 11 days after transfection 
+IVT mRNA-based modulation of homing MSCs to target ischemic areas has been assessed by in vitro transfection of different surface molecules, including the chemokine receptor CXCR4 [253], and the integrin α4 (ITGA4) 
+Increasingly the number of mRNA studies are attempting to validate proof-of-concept in regenerative medicine; the encouraging results suggest that mRNA-based therapies will direct the incoming direction of tissue regeneration.
+
+----
+
+TITLE PARAGRAPH: Conclusions
+Synthetic mRNA is attracting great interest as a therapeutic molecule. The main feature that has encouraged its recent expansion is the controlled expression of transgenes without the risk of insertional mutagenesis or permanent genomic alteration. Other advantages include economic production, scalable manufacturing, and versatility of applications. Limiting technological issues mainly associated with delivery and stability difficulties still have to be overcome, although important advances have been made in the last years.
+Innovative progress in IVT mRNA design, as well as significant advances in nanodelivery systems, are approaching its clinical translation. Unlike DNA gene therapy, non-viral vectors are at the forefront of IVT mRNA therapy, and among them, LNP have the best prospects for mRNA-based medicines development. The combination of IVT mRNA and nanotechnology, as two powerful technological tools, is undergoing significant growth, and it is expected to play a key role in the biotechnology industry in the near future.
+Gene editing, protein replacement therapy and immunotherapy have entered the early phases of clinical trials, whereas, cellular reprogramming and engineering are still in preclinical stages. Immunotherapy for prophylaxis and therapy of infectious diseases has shown the high influence of the delivery system and the administration route on the efficacy. Most clinical trials are focused on cancer immunotherapy; actually, the therapeutic perspectives of this field have been broadening, thanks to the beginning of the first mRNA CAR T cells clinical trials. Encouraging outcomes are expected, although the results of ongoing and future clinical research will help to define more accurately the therapeutic potential of mRNA.
+
+----
+
+DESCRIPTION TABLE: Clinical Trials of mRNA vaccines against infectious diseases.
+Infectious Disease||Biological Active/Encoding Sequence||Strategy/Delivery System||Administration Route||NCT Number/Phase||
+Rabies||CV7201 mRNA/Rabies virus glycoprotein (RABV-G) CV7202 mRNA/Rabies virus glycoprotein (RABV-G)||In vivo/Polypeptide system In vivo/Lipid nanosystem||i.d. or i.m. i.m.||NCT02241135/Phase I NCT03713086/Phase I||
+Zika Virus||mRNA-1893/Structural proteins of Zika virus mRNA-1325/Zika virus antigen||In vivo/Lipid nanosystem In vivo/Lipid nanosystem||i.d.||NCT04064905/Phase I NCT03014089/Phase I||
+None||mRNA-1647 and||None||None||None||
+(CMV) Cytomegalovirus||antigen of CMV mRNA-1443/Pentamer complex and full-length membrane-bound glycoprotein B (gB) and pp65 T cell||In vivo/Lipid nanosystem||i.d.||NCT03382405/Phase I||
+None||AVX601/Alphavirus replicon||None||None||None||
+None||vaccine expressing gB, pp65 and||In vivo/Viral vector i.m. or s.c.||NCT00439803/Phase I||
+None||IE1 proteins of CMV||None||None||None||
+hMPV and PIV3||mRNA-1653: Fusion proteins of hMPV and PIV3||In vivo/Lipid nanosystems||i.d.||NCT03392389/Phase I||
+Tuberculosis||GSK 692,342/Immunogenic fusion protein (M72) derived from Mycobacterium tuberculosis||In vivo/Lipid nanosytems||i.m.||NCT01669096/Phase II||
+None||None||Ex vivo/mRNA||None||None||
+None||HIV-1 Gag and Nef||transfected||i.d.||NCT00833781/Phase I||
+None||None||autologous DCs||None||None||
+None||iHIVARNA: TriMix and HTI/APC||None||None||None||
+HIV-1||activation molecules (CD40L+CD70+caTLR4) and HIV immunogen sequences (Gag, Pol,||In vivo/Naked mRNA||Inguinal intranodal||NCT02413645 and NCT02888756/Phase I and Phase II||
+None||Vif and Nef)||None||None||None||
+None||AVX101/Alphavirus replicon vaccine expressing HIV Gag antigen||In vivo/Viral vector s.c.||NCT00097838 and NCT00063778/Phase I||
+None||VAL-506440/H10N8 antigen||In vivo/Lipid nanosystems||i.d. or i.m.||NCT03076385/Phase I||
+Influenza||VAL-339851/H7N9 antigen||In vivo/Lipid nanosystems||i.d. or i.m.||NCT03345043/Phase I||
+None||AVX502/Alphavirus replicon||None||None||None||
+None||vaccine expressing Influenza A/Wyoming/03/2003||In vivo/Viral vector i.m. or s.c.||NCT00440362 and NCT00706732/Phase I/II||
+None||Hemagglutinin||None||None||None||
+DCs, dendritic cells; i.d., intradermal; i.m., intramuscular; s.c., subcutaneous; i.v., intravenous; hMPV, human||
+metapneumovirus; PIV3, human parainfluenza virus type 3; HIV-1, human immunodeficiency virus type 1; APC,||
+antigen-presenting cells.||None||None||None||
+
+----
+
+DESCRIPTION TABLE: Clinical trials of mRNA for cancer immunotherapy.
+Type of Cancer||Biological Active/Encoding Sequence||Strategy/Delivery System||Administration Route||NCT Number/Phase||
+Non-small-cell lung carcinoma||CV9201/five mRNAs encoding antigens which are overexpressed or exclusively expressed in NSCLC cells||In vivo/Polypeptide system||i.d.||NCT00923312/Phase I/II||
+(NSCLC)||CV9202/six mRNAs encoding antigens which are overexpressed in NSCLC compared to healthy tissue||In vivo/Polypeptide system||i.d.||NCT01915524/Phase I||
+Metastatic NSCLC||BI 1,361,849/NSCLC-associated antigens (NY-ESO-1, MAGE-C1, MAGE-C2, 5T4, and MUC-1)||In vivo/Polypeptide system||i.d.||NCT03164772/Phase I and II||
+Esophageal Cancer and NSCLC Personalized mRNA Tumor Vaccine/Neoantigen (tumor associated specific antigens) In vivo/-||s.c.||NCT03908671/NotA||
+None||mRNA coding for melanoma associated antigens||In vivo/Naked mRNA||s.c.||NCT00204516/Phase I/II||
+Malignant Melanoma||mRNA coding melanoma associated antigens (Melan-A, Mage-A1, Mage-A3, Survivin, GP100 and Tyrosinase)||In vivo/Polypeptide system||i.d.||NCT00204607/Phase I/II||
+None||mRNA coding the unique spectrum of tumor antigens in each patient||Ex vivo/mRNA transfected DCs i.d. or intranodal||NCT01278940/Phase I/II||
+Malignant Melanoma III and IV||TriMix-DC encoding melamona tumor-associated antigens (MAGE-A3, MAGE-C2, tyrosinase and gp100)||Ex vivo/autologous TriMix-DC||i.v.||NCT01302496/Phase II||
+None||mRNA-4157/personalized cancer vaccine targeting twenty tumor-associated antigens In vivo/Lipid nanosystems||i.d.||NCT03897881/Phase II||
+None||(RBL001; RBL002)/malignant melanoma associated antigens||In vivo/Naked mRNA||intranodal||NCT01684241/Phase I||
+Melanoma||IVAC MUTANOME/poly-neo-epitopic personalized cancer vaccine targeting tumor-associated antigens (with or without initial treatment with RBL001/RBL002)||In vivo/Naked mRNA||intranodal||NCT02035956/Phase I||
+None||RBL001.1; RBL002.2; RBL003.1; RBL004.1/malignant melanoma-associated antigens||In vivo/Lipid nanosystems||i.v.||NCT02410733/Phase I||
+None||mRNA encoding TriMix||Ex vivo/mRNA-transfected autologous DCs||i.d. and i.v.||NCT01066390/Phase I||
+None||mRNA encoding melanoma-associated tumor antigens (gp100 and tyrosinase) and TriMix||Ex vivo/mRNA-transfected autologous DCs||intranodal||NCT01530698/Phase I/II||
+Melanoma Stage III or IV||mRNA encoding melanoma associated antigens (gp100 and tyrosinase)||Ex vivo/mRNA-transfected DCs i.v., i.d., intranodal||NCT00243529/Phase I/II||
+Metastatic Malignant Melanoma hTERT-, Survivin-and tumor cell derived mRNA + ex vivo T cell expansion||Ex vivo/mRNA-transfected DCs i.d. and i.v.||NCT00961844/Phase I/II||
+Uveal Melanoma||mRNA coding tumor associated antigens||Ex vivo/mRNA-transfected DCs i.d./i.v.||NCT00929019/Phase I/II||
+None||mRNA coding for the Wilms' tumor protein (WT1)||Ex vivo/mRNA transfected autologous DCs||i.d.||NCT00834002/Phase I||
+Acute Myeloid Leukemia (AML)||AML-specific mRNA||Ex vivo/mRNA transfected autologous DCs||i.d.||NCT00514189/Phase I||
+None||mRNA encoding WT1, PRAME, and CMVpp65||Ex vivo/mRNA transfected autologous DCs||i.d.||NCT01734304/Phase I/II||
+
+----
+
+DESCRIPTION TABLE: Cont.    
+Type of Cancer||Biological Active/Encoding Sequence||Strategy/Delivery System||Administration Route||NCT Number/Phase||
+Relapsed or Refractory AML||Autologous Anti-CD 123 CAR TCR/4-1BB-expressing T-lymphocytes/anti-CD123 chimeric antigen receptors expressing tandem TCR and 4-1BB (TCR/4-1BB) costimulatory domains||Ex vivo/mRNA transfected autologous CAR T cells||iv||NCT02623582/Early Phase I||
+None||None||Ex vivo/mRNA-transfected||None||None||
+Multiple Myeloma||mRNA encoding CT7, MAGE-A3, and WT1||autologous Langerhans-type||i.d.||NCT01995708/Phase I||
+None||None||DCs||None||None||
+None||None||None||None||NCT01817738 and||
+None||CV9104/mRNAs encoding PSA, PSCA, PSMA, STEAP1, PAP and Mucin 1 antigens||In vivo/Polypeptide system||i.d.||NCT02140138/Phase I/II||
+None||None||None||None||and Phase II||
+Prostate Cancer||mRNA coding tumor associated antigens||Ex vivo/mRNA-transfected DCs i.d.||NCT01278914/Phase I/II||
+None||mRNA extracted from Primary Prostate Cancer Tissue, combined with mRNA encoding hTERT and Survivin||Ex vivo/mRNA-transfected DCs i.d.||NCT01197625/Phase I/II||
+Metastatic Prostate Cancer||mRNA derived from the patient's own tumor||Ex vivo/mRNA-transfected autologous DCs||i.d.||NCT01153113/Phase I/II (withdrawn)||
+Hormonal Refractory Prostate Cancer||CV9103/mRNAs encoding PSA, PSCA, PSMA and STEAP1 antigens||In vivo/Polypeptide system||i.d.||NCT00831467 (eudract 2008-003967-37) and NCT00906243/Phase I/II||
+Glioblastoma||mRNA encoding Survivin, hTERT or autologous tumor stem cells derived from tumorspheres||Ex vivo/mRNA-transfected autologous DCs||id||NCT03548571/Phase II/III||
+Ovarian Cancer||W_ova1 vaccine: Three ovarian cancer tumor associated antigens mRNAs||In vivo/Lipid nanosystems||i.v.||NCT04163094/Phase I||
+Recurrent Epithelial Ovarian Cancer||mRNA encoding hTERT and Survivin in addition to amplified cancer stem cell mRNA||Ex vivo/mRNA-transfected DCs i.d.||NCT01334047/Phase I/II||
+Breast Cancer||cMet RNA CAR T cells||Ex vivo/mRNA transfected autologous CAR T cells||intratumoral||NCT01837602/Phase I||
+Early Breast Cancer||mRNA encoding TriMix||In vivo/naked mRNA||intratumoral||NCT03788083/Phase I||
+Triple-negative breast cancer||IVAC_WAREHOUSE_bre1_uID; IVAC MUTANOME _uID/personalized cancer vaccine targeting tumor-associated antigens||In vivo/Lipid nanosystems||i.v.||NCT02316457/Phase I||
+Solid tumors||mRNA-4157/personalized cancer vaccine targeting twenty tumor-associated antigens In vivo/Lipid nanosystem||i.m.||NCT03313778/Phase I||
+Hodgkin Lymphoma||RNA anti-CD19 CAR T cells/CD19 chimeric antigen receptors expressing tandem TCR/4-1BB costimulatory domains||Ex vivo/mRNA transfected autologous CAR T cells||i.v.||NCT02277522 and NCT02624258/Early Phase I||
+Metastatic Pancreatic Ductal Adenocarcinoma||RNA mesothelin re-directed autologous T cell/chimeric anti-mesothelin immunoreceptor SS1||Ex vivo/mRNA transfected autologous CAR T cells||i.v.||NCT01897415/Phase I||
+Malignant Pleural Mesothelioma||Autologous anti-mesothelin CAR T cells/chimeric anti-mesothelin immunoreceptor||Ex vivo/mRNA transfected autologous CAR T cells||i.v.||NCT01355965/Phase I||
+Malignant Melanoma, Breast Cancer||RNA CART-cMET/MET chimeric antigen receptors with tandem TCRζ and 4-1BB (TCRζ/4-1BB) co-stimulatory domains||Ex vivo/mRNA transfected autologous CAR T cells||i.v.||NCT03060356/Early Phase I||
+
+----
+
+DESCRIPTION TABLE: Cont.    
+Type of Cancer||Biological Active/Encoding Sequence||Strategy/Delivery System||Administration Route||NCT Number/Phase||
+Brain Cancer, Neoplasm Metastases||Personalized cellular vaccine/tumor associated antigen mRNA||Ex vivo/mRNA transfected autologous DCs||NA||NCT02808416/Phase I||
+Advanced Esophageal Squamous Carcinoma, Gastric Adenocarcinoma, Pancreatic Adenocarcinoma, Colorectal Adenocarcinoma||Personalized mRNA Tumor Vaccine/Neoantigen (tumor associated specific antigens)||In vivo/-||s.c.||NCT03468244/NotA||
+Melanoma, Colon cancer, Gastrointestinal cancer, Genitourinary cancer, hepatocellular cancer||NCI-4650/mRNA-based, Personalized Cancer Vaccine||In vivo/Lipid nanosystems||i.m.||NCT03480152/Phase I/II||
+Melanoma, NSCLC, Bladder Cancer, Colorectal||None||None||None||None||
+Cancer, Triple Negative Breast Cancer, Renal Cancer, Head and Neck Cancer, Other Solid||RO7198457/personalized cancer vaccine targeting tumor-associated antigens||In vivo/Lipid nanosystem||i.v.||NCT03289962/Phase I||
+Cancers||None||None||None||None||
+Relapsed/Refractory Solid Tumor Malignancies or Lymphoma, Ovarian Cancer||mRNA-2416/OX40L||In vivo/Lipid nanosystems||Intratumoral||NCT03323398/Phase I and II||
+Squamous Cell Carcinoma, Head and Neck Neoplasm, Cervical Neoplasm, Penile Neoplasms Malignant||human papillomavirus (HPV16) mRNA vaccine/HPV16-derived E6, E7 tumor antigens||In vivo/Naked mRNA||i.d.||NCT03418480/Phase I and II||
+Advanced or Metastatic Malignancies Expressing CEA (Colorectal Cancer, Breast Cancer, Lung Cancer, Pancreatic Cancer) or Stage III Colon Cancer||AVX701/Alphaviral replicon particle vaccine expressing Carcinoembryonic Antigen Gene (CEA(6D)).||In vivo/Viral vector||i.m.||NCT00529984, NCT01890213/Phase I and II, Phase I||
+Glioblastoma, Renal Cell Carcinoma, Sarcomas, Breast Cancers, Malignant Mesothelioma, Colorectal Tumor||mRNA encoding WT1||Ex vivo/mRNA-transfected autologous DCs||i.d.||NCT01291420/Phase I/I,||
+
+----
+
+DESCRIPTION TABLE: Clinical trials of mRNA for protein-replacement therapies.
+Disease||Biological Active/Encoding Sequence||Strategy/Delivery System||Administration Route||NCT Number/Phase||
+Heart Failure||AZD8601/Vascular endothelial growth factor-A (VEGF-A)||Naked mRNA||Epicardial injection||NCT03370887/Phase II||
+Ulcers associated with type II diabetes||AZD8601/Vascular endothelial growth factor-A (VEGF-A)||Naked mRNA||Intradermal||NCT02935712/Phase I||
+None||mRNA-3927/alpha and beta||None||None||None||
+Propionic Acidemia||subunits of the mitochondrial enzyme propionyl-CoA||In vivo/Lipid nanosytems||Intravenous||NCT04159103/Phase I and II||
+None||carboxylase||None||None||None||
+Isolated Methylmalonic Acidemia||mRNA-3704/methylmalonyl-coenzyme A mutase (MUT) In vivo/Lipid nanosytems||Intravenous||NCT03810690/Phase I and II||
+Ornithine Transcarbamylase Deficiency||MRT5201/Ornithine transcarbamylase||In vivo/Lipid nanosystems||Intravenous||NCT03767270/Phase I and II||
+Cystic Fibrosis||MRT5005/Human Cystic Fibrosis Transmembrane Regulator protein (CFTR)||In vivo/Lipid nanosystems||Nebulization||NCT03375047/Phase I and II||
+
+----
+
+DESCRIPTION TABLE: Clinical trials of mRNA for gene editing therapy.
+Disease||Biological Active||Therapeutic mRNA||Target Protein||Strategy/Delivery System||Administration Route||NCT Number/Phase||
+None||SB-728mR||ZFN mRNA||CCR5||Ex vivo/Autologous CD4+ T Cells||Intravenous||NCT02388594/Phase I||
+HIV||SB-728mR SB-728mR-T||ZFN mRNA ZFN mRNA||CCR5 CCR5||Ex vivo/Autologous CD4 CAR+ T cells Ex vivo/Autologous T cells||Intravenous Intravenous||NCT03617198/Phase I NCT02225665, NCT04201782,/Phase I, Phase I/II||
+None||SB-728mR-HSPC ZFN mRNA||CCR5||Ex vivo/Autologous CD34+ hHSPCs||Intravenous||NCT02500849/Phase I||
+Sickle Cell Disease||BIVV003||ZFN mRNA||B-cell lymphoma/leukemia 11A (BCL11A)||Ex vivo/Autologous CD34 + hematopoietic stem cells (HSPC)||Intravenous||NCT03653247/Phase I/II||
+B acute lymphoblastic leukemia||UCART19||TALEN mRNA||TCR and CD52||Ex vivo/Allogenic T cells||Intravenous||NCT02808442, NCT02746952, NCT02735083/Phase I||
+B cell leukemia and B cell lymphoma||UCART019||CRISPR/Cas9 mRNA||TCR, B2M||Ex vivo/Allogenic T cells||Intravenous||NCT03166878/Phase I/II||
+
+----
+

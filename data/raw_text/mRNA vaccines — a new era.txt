@@ -1,0 +1,296 @@
+ABSTRACT
+ Vaccines prevent many millions of illnesses and save numerous lives every year 1 . As a result of widespread vaccine use, the smallpox virus has been completely eradicated and the incidence of polio, measles and other childhood diseases has been drastically reduced around the world 2 . Conventional vaccine approaches, such as live attenuated and inactivated pathogens and subunit vaccines, provide durable protection against a variety of dangerous diseases 3 . Despite this success, there remain major hurdles to vaccine development against a variety of infectious pathogens, especially those better able to evade the adaptive immune response 4 . Moreover, for most emerging virus vaccines, the main obstacle is not the effectiveness of conventional approaches but the need for more rapid development and large-scale deployment. Finally, conventional vaccine approaches may not be applicable to non-infectious diseases, such as cancer. The development of more potent and versatile vaccine platforms is therefore urgently needed.Nucleic acid therapeutics have emerged as promising alternatives to conventional vaccine approaches. The first report of the successful use of in vitro transcribed (IVT) mRNA in animals was published in 1990, when reporter gene mRNAs were injected into mice and protein production was detected 5 . A subsequent study in 1992 demonstrated that administration of vasopressinencoding mRNA in the hypothalamus could elicit a physiological response in rats 6 . However, these early promising results did not lead to substantial investment in developing mRNA therapeutics, largely owing to concerns associated with mRNA instability, high innate immunogenicity and inefficient in vivo delivery. Instead, the field pursued DNA-based and protein-based therapeutic approaches Over the past decade, major technological innovation and research investment have enabled mRNA to become a promising therapeutic tool in the fields of vaccine development and protein replacement therapy. The use of mRNA has several beneficial features over subunit, killed and live attenuated virus, as well as DNA-based vaccines. First, safety: as mRNA is a noninfectious, non-integrating platform, there is no potential risk of infection or insertional mutagenesis. Additionally, mRNA is degraded by normal cellular processes, and its in vivo half-life can be regulated through the use of various modifications and delivery methods The mRNA vaccine field is developing extremely rapidly; a large body of preclinical data has accumulated over the past several years, and multiple human clinical trials have been initiated. In this Review, we discuss current mRNA vaccine approaches, summarize the latest findings, highlight challenges and recent successes, and offer perspectives on the future of mRNA vaccines. The data suggest that mRNA vaccines have the potential to solve many of the challenges in vaccine development for both infectious diseases and cancer.
+----
+
+TITLE PARAGRAPH: 
+Basic mRNA vaccine pharmacology mRNA is the intermediate step between the translation of protein-encoding DNA and the production of proteins by ribosomes in the cytoplasm. Two major types of RNA are currently studied as vaccines: non-replicating mRNA and virally derived, self-amplifying RNA. Conventional mRNA-based vaccines encode the antigen of interest and contain 5ʹ and 3ʹ untranslated regions (UTRs), whereas self-amplifying RNAs encode not only the antigen but also the viral replication machinery that enables intracellular RNA amplification and abundant protein expression.
+The construction of optimally translated IVT mRNA suitable for therapeutic use has been reviewed previously 
+Complexing of mRNA for in vivo delivery has also been recently detailed 
+
+----
+
+TITLE PARAGRAPH: Dendritic cell
+(DC). A professional antigen-presenting cell that can potently activate CD4 + and CD8 + T cells by presenting peptide antigens on major histocompatibility complex (MHC) class I and II molecules, respectively, along with co-stimulatory molecules.
+Pathogen-associated molecular pattern (PAMP). Conserved molecular structure produced by microorganisms and recognized as an inflammatory danger signal by various innate immune receptors.
+
+----
+
+TITLE PARAGRAPH: Type I interferon
+A family of proteins, including but not limited to interferon-β (IFNβ) and multiple isoforms of IFNα, released by cells in response to viral infections and pathogen products. Type I IFN sensing results in the upregulation of interferonstimulated genes and an antiviral cellular state.
+Fast protein liquid chromatography (FPLC). A form of liquid chromatography that can be used to purify proteins or nucleic acids. High-performance liquid chromatography (HPLC) is a similar approach, which uses high pressure to purify materials.
+half-life and expression of therapeutic mRNAs 
+Although protein expression may be positively modulated by altering the codon composition or by introducing modified nucleosides (discussed below), it is also possible that these forms of sequence engineering could affect mRNA secondary structure 
+
+----
+
+TITLE PARAGRAPH: Modulation of immunogenicity
+Exogenous mRNA is inherently immunostimulatory, as it is recognized by a variety of cell surface, endosomal and cytosolic innate immune receptors (FIG. 
+Studies over the past decade have shown that the immunostimulatory profile of mRNA can be shaped by the purification of IVT mRNA and the introduction of modified nucleosides as well as by complexing the mRNA with various carrier molecules 
+Besides dsRNA contaminants, single-stranded mRNA molecules are themselves a PAMP when delivered to cells exogenously. Single-stranded oligoribonucleotides and their degradative products are detected by the endosomal sensors Toll-like receptor 7 (TLR7) and TLR8 (REFS 40,41), resulting in type I interferon production 
+In contrast to the findings described above, a study by Thess and colleagues found that sequence-optimized, HPLC-purified, unmodified mRNA produced higher levels of protein in HeLa cells and in mice than its nucleoside-modified counterpart 
+
+----
+
+TITLE PARAGRAPH: Box 1 | Strategies for optimizing mRNA pharmacology
+A number of technologies are currently used to improve the pharmacological aspects of mRNA. The various mRNA modifications used and their impact are summarized below.
+• Synthetic cap analogues and capping enzymes 
+
+----
+
+TITLE PARAGRAPH: Nucleoside modification
+The incorporation of chemically modified nucleosides, such as pseudouridine, 1-methylpseudo uridine, 5-methylcytidine and others, into mRNA transcripts, usually to suppress innate immune sensing and/or to improve translation.
+
+----
+
+TITLE PARAGRAPH: Adjuvant
+An additive to vaccines that modulates and/or boosts the potency of the immune response, often allowing lower doses of antigen to be used effectively. Adjuvants may be based on pathogen-associated molecular patterns (PAMPs) or on other molecules that activate innate immune sensors.
+and co-workers demonstrated that unmodified, non-HPLC-purified mRNA yielded more robust protein production in HeLa cells than nucleoside-modified mRNA, and resulted in similar levels of protein production in mice 
+The immunostimulatory properties of mRNA can conversely be increased by the inclusion of an adjuvant to increase the potency of some mRNA vaccine formats. These include traditional adjuvants as well as novel approaches that take advantage of the intrinsic immunogenicity of mRNA or its ability to encode immunemodulatory proteins. Self-replicating RNA vaccines have displayed increased immunogenicity and effectiveness after formulating the RNA in a cationic nano emulsion based on the licensed MF59 (Novartis) adjuvant 
+
+----
+
+TITLE PARAGRAPH: Progress in mRNA vaccine delivery
+Efficient in vivo mRNA delivery is critical to achieving therapeutic relevance. Exogenous mRNA must penetrate the barrier of the lipid membrane in order to reach the cytoplasm to be translated to functional protein. mRNA uptake mechanisms seem to be cell type dependent, and the physicochemical properties of the mRNA complexes can profoundly influence cellular delivery and organ distribution. There are two basic approaches for the delivery of mRNA vaccines that have been described to date. First, loading of mRNA into DCs ex vivo, followed by re-infusion of the transfected cells 
+Ex vivo loading of DCs. DCs are the most potent antigen-presenting cells of the immune system. They initiate the adaptive immune response by internalizing and proteolytically processing antigens and presenting them to CD8 + and CD4 + T cells on major histo compatibility complexes (MHCs), namely, MHC class I and MHC class II, respectively. Additionally, DCs may present intact antigen to B cells to provoke an antibody response 
+# FORMULA: U AAAA U U U U AA AA AA U U U m 1 Ψ m 1Ψ m1 Ψ m 1 Ψ A A A A A A m1Ψ m 1Ψ m1 Ψ m
+
+----
+
+TITLE PARAGRAPH: MHC class I
+A polymorphic set of proteins expressed on the surface of all nucleated cells that present antigen to CD8 + (including cytotoxic) T cells in the form of proteolytically processed peptides, typically 8-11 amino acids in length.
+
+----
+
+TITLE PARAGRAPH: MHC class II
+A polymorphic set of proteins expressed on professional antigen-presenting cells and certain other cell types, which present antigen to CD4 + (helper) T cells in the form of proteolytically processed peptides, typically 11-30 amino acids in length.
+Although DCs have been shown to internalize naked mRNA through a variety of endocytic pathways 
+
+----
+
+TITLE PARAGRAPH: Physical delivery methods in vivo.
+To increase the efficiency of mRNA uptake in vivo, physical methods have occasionally been used to penetrate the cell membrane.
+An early report showed that mRNA complexed with gold particles could be expressed in tissues using a gene gun, a microprojectile method 
+Protamine. The cationic peptide protamine has been shown to protect mRNA from degradation by serum RNases 
+
+----
+
+TITLE PARAGRAPH: Cationic lipid and polymer-based delivery.
+Highly efficient mRNA transfection reagents based on cationic lipids or polymers, such as TransIT-mRNA (Mirus Bio LLC) or Lipofectamine (Invitrogen), are commercially available and work well in many primary cells and cancer cell lines 
+The mRNA field has clearly benefited from the substantial investment in in vivo small interfering RNA (siRNA) administration, where these delivery vehicles have been used for over a decade. Lipid nanoparticles (LNPs) have become one of the most appealing and commonly used mRNA delivery tools. LNPs often consist of four components: an ionizable cationic lipid, which promotes self-assembly into virus-sized (~100 nm) particles and allows endosomal release of mRNA to the cytoplasm; lipid-linked polyethylene glycol (PEG), which increases the half-life of formulations; cholesterol, a stabilizing agent; and naturally occurring phospholipids, which support lipid bilayer structure. Numerous studies have demonstrated efficient in vivo siRNA delivery by LNPs (reviewed in REF. 
+The magnitude and duration of in vivo protein production from mRNA-LNP vaccines can be controlled in part by varying the route of administration. Intramuscular and intradermal delivery of mRNA-LNPs has been shown to result in more persistent protein expression than systemic delivery routes: in one experiment, the half-life of mRNA-encoded firefly luciferase was roughly threefold longer after intradermal injection than after intravenous delivery 
+
+----
+
+TITLE PARAGRAPH: Box 2 | Personalized neoepitope cancer vaccines
+Sahin and colleagues have pioneered the use of individualized neoepitope mRNA cancer vaccines 121 . They use high-throughput sequencing to identify every unique somatic mutation of an individual patient's tumour sample, termed the mutanome. This enables the rational design of neoepitope cancer vaccines in a patient-specific manner, and has the advantage of targeting non-self antigen specificities that should not be eliminated by central tolerance mechanisms. Proof of concept has been recently provided: Kreiter and colleagues found that a substantial portion of non-synonymous cancer mutations were immunogenic when delivered by mRNA and were mainly recognized by CD4 + T cells 176 . On the basis of these data, they generated a computational method to predict major histocompatibility complex (MHC) class II-restricted neoepitopes that can be used as vaccine immunogens. mRNA vaccines encoding such neoepitopes have controlled tumour growth in B16-F10 melanoma and CT26 colon cancer mouse models. In a recent clinical trial, Sahin and colleagues developed personalized neoepitope-based mRNA vaccines for 13 patients with metastatic melanoma, a cancer known for its high frequency of somatic mutations and thus neoepitopes. They immunized against ten neoepitopes per individual by injecting naked mRNA intranodally. CD4 + T cell responses were detected against the majority of the neoepitopes, and a low frequency of metastatic disease was observed after several months of follow-up 
+
+----
+
+TITLE PARAGRAPH: Good manufacturing practice
+(GMP). A collection of guidelines and practices designed to guarantee the production of consistently high-quality and safe pharmaceutical products. GMP-grade materials must be used for human clinical trials.
+was a driver of high antibody titres and germinal centre (GC) B cell and T follicular helper (T FH ) cell responses 
+mRNA vaccines against infectious diseases Development of prophylactic or therapeutic vaccines against infectious pathogens is the most efficient means to contain and prevent epidemics. However, conventional vaccine approaches have largely failed to produce effective vaccines against challenging viruses that cause chronic or repeated infections, such as HIV-1, herpes simplex virus and respiratory syncytial virus (RSV). Additionally, the slow pace of commercial vaccine development and approval is inadequate to respond to the rapid emergence of acute viral diseases, as illustrated by the 2014-2016 outbreaks of the Ebola and Zika viruses. Therefore, the development of more potent and versatile vaccine platforms is crucial.
+Preclinical studies have created hope that mRNA vaccines will fulfil many aspects of an ideal clinical vaccine: they have shown a favourable safety profile in animals, are versatile and rapid to design for emerging infectious diseases, and are amenable to scalable good manufacturing practice (GMP) production (already under way by several companies). Unlike protein immunization, several formats of mRNA vaccines induce strong CD8 + T cell responses, likely owing to the efficient presentation of endogenously produced antigens on MHC class I molecules, in addition to potent CD4 + T cell responses 
+Two major types of RNA vaccine have been utilized against infectious pathogens: self-amplifying or replicon RNA vaccines and non-replicating mRNA vaccines. Nonreplicating mRNA vaccines can be further distinguished by their delivery method: ex vivo loading of DCs or direct in vivo injection into a variety of anatomical sites. As discussed below, a rapidly increasing number of preclinical studies in these areas have been published recently, and several have entered human clinical trials (TABLE 
+
+----
+
+TITLE PARAGRAPH: Self-amplifying mRNA vaccines
+Most currently used self-amplifying mRNA (SAM) vaccines are based on an alphavirus genome 
+
+----
+
+TITLE PARAGRAPH: Box 3 | The germinal centre and T follicular helper cells
+The vast majority of potent antimicrobial vaccines elicit long-lived, protective antibody responses against the target pathogen. High-affinity antibodies are produced in specialized microanatomical sites within the B cell follicles of secondary lymphoid organs called germinal centres (GCs). B cell proliferation, somatic hypermutation and selection for high-affinity mutants occur in the GCs, and efficient T cell help is required for these processes 
+T and B cell immune responses in mice after subcutaneous delivery 
+One of the advantages of SAM vaccines is that they create their own adjuvants in the form of dsRNA structures, replication intermediates and other motifs that may contribute to their high potency. However, the intrinsic nature of these PAMPs may make it difficult to modulate the inflammatory profile or reactogenicity of SAM vaccines. Additionally, size constraints of the insert are greater for SAM vaccines than for mRNAs that do not encode replicon genes, and the immunogenicity of the replication proteins may theoretically limit repeated use.
+
+----
+
+TITLE PARAGRAPH: Dendritic cell mRNA vaccines
+As described above, ex vivo DC loading is a heavily pursued method to generate cell-mediated immunity against cancer. Development of infectious disease vaccines using this approach has been mainly limited to a therapeutic vaccine for HIV-1: HIV-1-infected individuals on highly active antiretroviral therapy were treated with autologous DCs electroporated with mRNA encoding various HIV-1 antigens, and cellular immune responses were evaluated 
+
+----
+
+TITLE PARAGRAPH: Direct injection of non-replicating mRNA vaccines
+Directly injectable, non-replicating mRNA vaccines are an appealing vaccine format owing to their simple and economical administration, particularly in resourcelimited settings. Although an early report demonstrated that immunization with liposome-complexed mRNA encoding influenza virus nucleoproteins elicited CTL responses in mice 108 , the first demonstration of protective immune responses by mRNA vaccines against infectious pathogens was published only a few years ago 
+Immunization with the protamine-based RNActive platform encoding rabies virus glycoprotein has also induced protective immunity against a lethal intracerebral virus challenge in mice and potent neutralizing antibody responses in pigs 
+Elucidating the basis of the disparate immunogenicity between the animals and humans who received this vaccine and between the two routes of delivery will be informative for future vaccine design using this platform.
+Other infectious disease vaccines have successfully utilized lipid-or polymer-based delivery systems. Cationic 1,2-dioleoyloxy-3-trimethylammoniumpropane (DOTAP) and dioleoylphosphatidylethanolamine (DOPE) lipid-complexed mRNA encoding HIV-1 gag generated antigen-specific CD4 + and CD8 + T cell responses after subcutaneous delivery in mice 
+Nucleoside-modified mRNA vaccines represent a new and highly efficacious category of mRNA vaccines. Owing to the novelty of this immunization platform, our knowledge of efficacy is limited to the results of four recent publications that demonstrated the potency of such vaccines in small and large animals. The first published report demonstrated that a single intradermal injection of LNP-formulated mRNA encoding Zika virus prM-E, modified with 1-methylpseudouridine and FPLC purification, elicited protective immune responses in mice and rhesus macaques with the use of as little as 50 μg (0.02 mg kg -1 ) of vaccine in macaques 
+Another recent report evaluated the immunogenicity of LNP-complexed, nucleoside-modified, non-FPLC-purified mRNA vaccines against influenza HA 10 neuraminidase 8 (H10N8) and H7N9 influenza viruses in mice, ferrets, non-human primates and, for the first time, humans 
+On the basis of encouraging preclinical data, two phase I clinical trials have recently been initiated to evaluate the immunogenicity and safety of nucleosidemodified mRNA-LNP vaccines in humans for the first time. The mRNA vaccine encoding H10N8 HA is currently undergoing clinical testing (NCT03076385), and interim findings for 23 vaccinated individuals have been reported 
+The first proof-of-concept studies that not only proposed the idea of RNA cancer vaccines but also provided evidence of the feasibility of this approach were published more than two decades ago 
+
+----
+
+TITLE PARAGRAPH: DC mRNA cancer vaccines
+As DCs are central players in initiating antigen-specific immune responses, it seemed logical to utilize them for cancer immunotherapy. The first demonstration that DCs electroporated with mRNA could elicit potent immune responses against tumour antigens was reported by Boczkowski and colleagues in 1996 (REF. 124). In this study, DCs pulsed with ovalbumin (OVA)-encoding mRNA or tumour-derived RNAs elicited a tumourreducing immune response in OVA-expressing and other melanoma models in mice. A variety of immune regulatory proteins have been identified in the form of mRNA-encoded adjuvants that can increase the potency of DC cancer vaccines. Several studies demonstrated that electroporation of DCs with mRNAs encoding costimulatory molecules such as CD83, tumour necrosis factor receptor superfamily member 4 (TNFRSF4; also known as OX40) and 4-1BB ligand (4-1BBL) resulted in a substantial increase in the immune stimulatory activity of DCs 
+A new line of research combines mRNA electroporation of DCs with traditional chemotherapy agents or immune checkpoint inhibitors. In one trial, patients with stage III or IV melanoma were treated with ipilimumab, a monoclonal antibody against CTL antigen 4 (CTLA4), and DCs loaded with mRNA encoding melanomaassociated antigens plus TriMix. This intervention resulted in durable tumour reduction in a proportion of individuals with recurrent or refractory melanoma 140 .
+
+----
+
+TITLE PARAGRAPH: Direct injection of mRNA cancer vaccines
+The route of administration and delivery format of mRNA vaccines can greatly influence outcomes. A variety of mRNA cancer vaccine formats have been developed using common delivery routes (intradermal, intramuscular, subcutaneous or intranasal) and some unconventional routes of vaccination (intranodal, intravenous, intrasplenic or intratumoural).
+Intranodal administration of naked mRNA is an unconventional but efficient means of vaccine delivery. Direct mRNA injection into secondary lymphoid tissue offers the advantage of targeted antigen delivery to antigen-presenting cells at the site of T cell activation, obviating the need for DC migration. Several studies have demonstrated that intranodally injected naked mRNA can be selectively taken up by DCs and can elicit potent prophylactic or therapeutic antitumour T cell responses 
+The success of preclinical studies has led to the initiation of clinical trials using intranodally injected naked mRNA encoding tumour-associated antigens into patients with advanced melanoma (NCT01684241) and patients with hepatocellular carcinoma (EudraCT:  2012-005572-34). In one published trial, patients with metastatic melanoma were treated with intranodally administered DCs electroporated with mRNA encoding the melanoma-associated antigens tyrosinase or gp100 and TriMix, which induced limited antitumour responses 
+Intranasal vaccine administration is a needle-free, noninvasive manner of delivery that enables rapid antigen uptake by DCs. Intranasally delivered mRNA complexed with Stemfect (Stemgent) LNPs resulted in delayed tumour onset and increased survival in prophylactic and therapeutic mouse tumour models using the OVA-expressing E.G7-OVA T lymphoblastic cell line 
+Intratumoural mRNA vaccination is a useful approach that offers the advantage of rapid and specific activation of tumour-resident T cells. Often, these vaccines do not introduce mRNAs encoding tumour-associated antigens but simply aim to activate tumour-specific immunity in situ using immune stimulatory molecules. An early study demonstrated that naked mRNA or protaminestabilized mRNA encoding a non-tumour related gene (GLB1) impaired tumour growth and provided protection in a glioblastoma mouse model, taking advantage of the intrinsic immunogenic properties of mRNA 
+OVA-expressing lymphoma or lung carcinoma mouse models 147 . It has also been shown that intratumoural administration of TriMix mRNA that does not encode tumour-associated antigens results in activation of CD8α + DCs and tumour-specific T cells, leading to delayed tumour growth in various mouse models 
+A variety of antigen-presenting cells reside in the skin 149 , making it an ideal site for immunogen delivery during vaccination (FIG. 
+The combination of mRNA vaccination with adjunctive therapies, such as traditional chemotherapy, radiotherapy and immune checkpoint inhibitors, has increased the beneficial outcome of vaccination in some preclinical studies 
+
+----
+
+TITLE PARAGRAPH: Therapeutic considerations and challenges
+Good manufacturing practice production mRNA is produced by in vitro reactions with recombinant enzymes, ribonucleotide triphosphates (NTPs) and a DNA template; thus, it is rapid and relatively simple to produce in comparison with traditional protein subunit and live or inactivated virus vaccine production platforms. Its reaction yield and simplicity make rapid mRNA production possible in a small GMP facility footprint. The manufacturing process is sequenceindependent and is primarily dictated by the length of the RNA, the nucleotide and capping chemistry and the purification of the product; however, it is possible that certain sequence properties such as extreme length may present difficulties (D.W., unpublished observations). According to current experience, the process can be standardized to produce nearly any encoded protein immunogen, making it particularly suitable for rapid response to emerging infectious diseases.
+All enzymes and reaction components required for the GMP production of mRNA can be obtained from commercial suppliers as synthesized chemicals or bacterially expressed, animal component-free reagents, thereby avoiding safety concerns surrounding the adventitious agents that plague cell-culture-based vaccine manufacture. All the components, such as plasmid DNA, phage polymerases, capping enzymes and NTPs, are readily available as GMP-grade traceable components; however, some of these are currently available at only limited scale or high cost. As mRNA therapeutics move towards commercialization and the scale of production increases, more economical options may become accessible for GMP source materials.
+GMP production of mRNA begins with DNA template production followed by enzymatic IVT and follows the same multistep protocol that is used for research scale synthesis, with added controls to ensure the safety and potency of the product 
+Once the mRNA is synthesized, it is processed though several purification steps to remove reaction components, including enzymes, free nucleotides, residual DNA and truncated RNA fragments. While LiCl precipitation is For an injected mRNA vaccine, major considerations for effectiveness include the following: the level of antigen expression in professional antigen-presenting cells (APCs), which is influenced by the efficiency of the carrier, by the presence of pathogenassociated molecular patterns (PAMPs) in the form of double-stranded RNA (dsRNA) or unmodified nucleosides and by the level of optimization of the RNA sequence (codon usage, G:C content, 5ʹ and 3ʹ untranslated regions (UTRs) and so on); dendritic cell (DC) maturation and migration to secondary lymphoid tissue, which is increased by PAMPs; and the ability of the vaccine to activate robust T follicular helper (T FH ) cell and germinal centre (GC) B cell responses -an area that remains poorly understood. An intradermal injection is shown as an example. EC, extracellular. 
+
+----
+
+TITLE PARAGRAPH: Nature Reviews | Drug Discovery
+
+----
+
+TITLE PARAGRAPH: Granulocyte
+
+----
+
+TITLE PARAGRAPH: R E V I E W S
+routinely used for laboratory-scale preparation, purification at the clinical scale utilizes derivatized microbeads in batch or column formats, which are easier to utilize at large scale 
+
+----
+
+TITLE PARAGRAPH: Regulatory aspects
+There is no specific guidance from the FDA or European Medicines Agency (EMA) for mRNA vaccine products. However, the increasing number of clinical trials conducted under EMA and FDA oversight indicate that regulators have accepted the approaches proposed by various organizations to demonstrate that products are safe and acceptable for testing in humans. Because mRNA falls into the broad vaccine category of genetic immunogens, many of the guiding principles that have been defined for DNA vaccines 162 and gene therapy vectors 
+
+----
+
+TITLE PARAGRAPH: Safety
+The requirement for safety in modern prophylactic vaccines is extremely stringent because the vaccines are administered to healthy individuals. Because the manufacturing process for mRNA does not require toxic chemicals or cell cultures that could be contaminated with adventitious viruses, mRNA production avoids the common risks associated with other vaccine platforms, including live virus, viral vectors, inactivated virus and subunit protein vaccines. Furthermore, the short manufacturing time for mRNA presents few opportunities to introduce contaminating microorganisms. In vaccinated people, the theoretical risks of infection or integration of the vector into host cell DNA are not a concern for mRNA. For the above reasons, mRNA vaccines have been considered a relatively safe vaccine format.
+Several different mRNA vaccines have now been tested from phase I to IIb clinical studies and have been shown to be safe and reasonably well tolerated (TABLES 2,3). However, recent human trials have demonstrated moderate and in Recombinant monoclonal antibodies are rapidly transforming the pharmaceutical market and have become one of the most successful therapeutic classes to treat autoimmune disorders, infectious diseases, osteoporosis, hypercholesterolemia and cancer 
+rare cases severe injection site or systemic reactions for different mRNA platforms 
+
+----
+
+TITLE PARAGRAPH: Conclusions and future directions
+Currently, mRNA vaccines are experiencing a burst in basic and clinical research. The past 2 years alone have witnessed the publication of dozens of preclinical and clinical reports showing the efficacy of these platforms. Whereas the majority of early work in mRNA vaccines focused on cancer applications, a number of recent reports have demonstrated the potency and versatility of mRNA to protect against a wide variety of infectious pathogens, including influenza virus, Ebola virus, Zika virus, Streptococcus spp. and T. gondii (TABLES 1,2).
+While preclinical studies have generated great optimism about the prospects and advantages of mRNAbased vaccines, two recent clinical reports have led to more tempered expectations 
+Recent advances in understanding and reducing the innate immune sensing of mRNA have aided efforts not only in active vaccination but also in several applications of passive immunization or passive immunotherapy for infectious diseases and cancer (BOX 4). Direct comparisons between mRNA expression platforms should clarify which systems are most appropriate for both passive and active immunization. Given the large number of 
+
+----
+
+TITLE PARAGRAPH: Passive immunization or passive immunotherapy
+In contrast to traditional (active) vaccines, these therapies do not generate de novo immune responses but can provide immune-mediated protection through the delivery of antibodies or antibody-encoding genes.
+Passive vaccination offers the advantage of immediate action but at the disadvantage of high cost.
+promising mRNA platforms, further head-to-head comparisons would be of utmost value to the vaccine field because this would allow investigators to focus resources on those best suited for each application.
+The fast pace of progress in mRNA vaccines would not have been possible without major recent advances in the areas of innate immune sensing of RNA and in vivo delivery methods. Extensive basic research into RNA and lipid and polymer biochemistry has made it possible to translate mRNA vaccines into clinical trials and has led to an astonishing level of investment in mRNA vaccine companies (TABLE 4). Moderna Therapeutics, founded in 2010, has raised almost US$2 billion in capital with a plan to commercialize mRNA-based vaccines and therapies 
+The future of mRNA vaccines is therefore extremely bright, and the clinical data and resources provided by these companies and other institutions are likely to substantially build on and invigorate basic research into mRNA-based therapeutics.
+
+----
+
+DESCRIPTION TABLE: 
+None||None||None||None||None||None||R E V I E W S||
+recipient to initiate the immune response. Most ex vivo-||
+loaded DC vaccines elicit a predominantly cell-mediated||
+AAAAAA immune response; thus, they have been used primarily to AAAAAA treat cancer (reviewed in REF. 58).||AAAAAA||
+AAAAAA||AAAAAA||AAAAAA||AAAAAA||AAAAAA||AAAAAA||
+None||None||+||None||None||None||
++||AAAA||AAAAAA||None||None||None||
+None||None||None||None||AAAAAA||None||AAAAAA||
+None||None||None||None||AAAAAA||AAAAAA||AAAAAA||AAAAAA||
+None||AA||None||None||None||None||
+None||AA AA||None||None||None||None||
+None||None||+||None||None||None||
+None||100-130 nm||None||200 nm||100 nm||
+None||None||+||None||None||None||
++||AAAA||AAAAA A||None||+ AA AA AA||AA AA AA||
+None||None||None||None||AA AA AA||None||
+None||None||None||None||AA AA AA||None||AAAAAA||
+None||A A A A||None||None||+||AAAAAA||
+None||A||None||None||None||None||
+None||A||+||None||None||None||AAAAA A||
+None||100-300 nm||None||100-200 nm||
+None||None||None||None||None||None||600 nm||
+None||None||+||None||None||+||+||
++||+ AA AA AA||None||+||+ AA AA AA||+||+ AA AA AA||
+None||AA AA AA||None||None||AA AA AA||None||AA AA AA||
+None||AA AA AA||+||None||AA AA AA||+||AA AA AA||+||
+None||+||None||None||+||+||
+None||None||+||None||None||+||+||
+None||80-200 nm||None||80-200 nm||80-200 nm||
+None||None||None||None||None||None||Nature Reviews | Drug Discovery||
+
+----
+
+DESCRIPTION TABLE: 
+Targets||Trial numbers||Status||
+None||(phase)||None||
+
+----
+
+DESCRIPTION TABLE: 
+Targets||Trial numbers||Status||
+None||(phase)||None||
+
+----
+
+DESCRIPTION TABLE: cont.) |
+
+----
+
+DESCRIPTION TABLE: 
+None||None||Targets||Trial numbers||Status||
+None||None||None||(phase)||None||
+Radboud University||DC EP with TAA mRNA (i.d. and||Colorectal cancer||NCT00228189 (I/II)||Completed 218||
+None||i.v. or i.nod)||Melanoma||• NCT00929019 (I/II)||• Terminated||
+None||None||None||• NCT00243529 (I/II)||• Completed 219,220||
+None||None||None||• NCT00940004 (I/II)||• Completed 220,221||
+None||None||None||• NCT01530698 (I/II)||• Completed 144,220,221||
+None||None||None||• NCT02285413 (II)||• Completed; results NA||
+Universitair Ziekenhuis||DC EP with TAA and TriMix||Melanoma||• NCT01066390 (I)||• Completed 137||
+Brussel||mRNA (i.d. and i.v.)||None||• NCT01302496 (II)||• Completed 140||
+None||None||None||• NCT01676779 (II)||• Completed; results NA||
+University Hospital||DC, matured, loaded with||Melanoma||NCT01983748 (III)||Recruiting||
+Erlangen||autologous tumour RNA (i.v.)||None||None||None||
+University Hospital||Autologous tumour mRNA with||Melanoma||NCT00204516 (I/II)||Completed 222||
+Tübingen||GM-CSF protein (i.d. and s.c.)||None||None||None||
+None||Protamine-complexed TAA||Melanoma||NCT00204607 (I/II)||Completed 150||
+None||mRNA with GM-CSF protein||None||None||None||
+None||(i.d. and s.c.)||None||None||None||
+University of Campinas,||DC loaded with TAA mRNA||AML, myelodysplastic syndromes NCT03083054 (I/II)||Recruiting||
+Brazil||(NA)||None||None||None||
+University of Florida||RNActive* TAA mRNA (i.d.)||Prostate cancer||NCT00906243 (I/II)||Terminated||
+None||DC loaded with CMV Ag mRNA||Glioblastoma, malignant glioma||NCT02465268 (II)||Recruiting||
+None||with GM-CSF protein (i.d.)||None||None||None||
+
+----
+
+DESCRIPTION TABLE: , Biomedical Advanced Research and Development Authority; BMGF, Bill & Melinda Gates Foundation; CMV, cytomegalovirus; DARPA, Defense Advanced Research Projects Agency; HBV, hepatitis B virus; HMPV, human metapneumovirus; HPV, human papillomavirus; IAVI, International AIDS Vaccine Initiative; NA, not available; PIV, parainfluenza virus.
+Institution||mRNA technology||Partners||Indication (disease target)||
+Argos Biotechnology mRNA neoantigens (Arcelis||NA||Individualized cancer vaccines,||
+None||platform)||None||HIV-1||
+BioNTech RNA||Nucleoside-modified mRNA||Genentech/Roche||Individualized cancer vaccines||
+Pharmaceuticals GmbH||(IVAC Mutanome, FixVAC)||Bayer AG||Veterinary vaccines||
+CureVac AG||Sequence-optimized, purified||Boehringer Ingelheim||Cancer vaccines (lung cancer)||
+None||mRNA (RNActive, RNArt,||GmbH||None||
+None||RNAdjuvant)||Johnson & Johnson||Viral vaccines||
+None||None||Sanofi Pasteur||Infectious disease vaccines||
+None||None||BMGF||Infectious disease vaccines||
+None||None||IAVI||HIV vaccines||
+eTheRNA||Purified mRNA (TriMix)||NA||Cancer (melanoma, breast), viral||
+Immunotherapies||None||None||vaccines (HBV and/or HPV)||
+GlaxoSmithKline/||Self-amplifying mRNA (SAM)||NA||Infectious disease vaccines||
+Novartis||(alphavirus replicon)||None||None||
+Moderna||Nucleoside-modified mRNA||Merck & Co.||Individualized cancer vaccines,||
+Therapeutics||None||None||viral vaccines||
+None||None||BMGF, DARPA, BARDA||Viral vaccines (influenza virus,||
+None||None||None||CMV, HMPV, PIV, chikungunya||
+None||None||None||virus, Zika virus)||
+University of||Nucleoside-modified, purified||NA||Infectious disease vaccines||
+Pennsylvania||mRNA||None||None||
+
+----
+

@@ -1,5 +1,41 @@
-# Virtual Environment
-venv/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python egg metadata, scripts, pipenv, etc.
+*.egg-info/
+*.egg
+pip-log.txt
+pipenv-debug.log
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Translations
+*.mo
+*.pot
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
 
 # Environments
 .env.local
+
+# Virtual Environment
+venv/

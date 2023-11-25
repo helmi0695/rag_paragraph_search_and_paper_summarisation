@@ -39,3 +39,4 @@ celerybeat-schedule
 
 # Virtual Environment
 venv/
+**/.DS_Store

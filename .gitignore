@@ -41,5 +41,6 @@ celerybeat-schedule
 venv/
 
 #others
+settings.local.json
 secrets/*
 **/.DS_Store

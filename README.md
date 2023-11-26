@@ -180,10 +180,10 @@ There are 3 ways to run the code:
 
 - Not recommended: Locally in case you have enough Ressources:
 
-  - Vreate a virtual environment (i.e. using: python3 -m venv myenv)
+  - Create a virtual environment (i.e. using: python3 -m venv myenv)
   - Activate it.
   - install the requirements.txt using 'pip install -r requirements.txt'
-    - Run 'python main.py'
+  - Run 'python main.py'
 
 - Recommended: In Colab:
   - Full walkthrough with comments and examples: notebooks/colab_full_walkthrough_InstaDeep_llm_task_llama_2_7b_chat_agent.ipynb

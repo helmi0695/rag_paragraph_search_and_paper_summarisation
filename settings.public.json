@@ -13,13 +13,13 @@
     },
     "data_paths": {
         "inputs": {
-            "documents_folder_path": "/content/instadeep-llm-technical-test/ressources/data/inputs/raw_text",
-            "validation_data_path": "/content/instadeep-llm-technical-test/ressources/data/inputs/validation/val_data.xlsx"
+            "documents_folder_path": "/content/rag_paragraph_search_and_paper_summarisation/ressources/data/inputs/raw_text",
+            "validation_data_path": "/content/rag_paragraph_search_and_paper_summarisation/ressources/data/inputs/validation/val_data.xlsx"
         },
         "outputs": {
-            "summarized_retrieved_data_path": "/content/instadeep-llm-technical-test/ressources/data/outputs/summarized_docs",
-            "metrics_path": "/content/instadeep-llm-technical-test/ressources/data/outputs/validation",
-            "predicted_validation_data_path": "/content/instadeep-llm-technical-test/ressources/data/outputs/validation"
+            "summarized_retrieved_data_path": "/content/rag_paragraph_search_and_paper_summarisation/ressources/data/outputs/summarized_docs",
+            "metrics_path": "/content/rag_paragraph_search_and_paper_summarisation/ressources/data/outputs/validation",
+            "predicted_validation_data_path": "/content/rag_paragraph_search_and_paper_summarisation/ressources/data/outputs/validation"
         }
     }
 }

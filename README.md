@@ -1,4 +1,4 @@
-# InstaDeep LLM technical test
+# RAG paragraph search in documents & summarisation using LLMs
 
 ## Genral Description
 
